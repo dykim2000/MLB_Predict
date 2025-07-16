@@ -1,0 +1,59 @@
+Abbreviation,Full Name,Description
+W,Wins,Number of games where pitcher was credited with a win
+L,Losses,Number of games where pitcher was credited with a loss
+WAR,Wins Above Replacement,Overall value compared to a replacement-level player
+ERA,Earned Run Average,Average earned runs per 9 innings
+G,Games,Total games appeared in
+GS,Games Started,Total games started by the pitcher
+CG,Complete Games,Games pitched start to finish
+ShO,Shutouts,Complete games with 0 runs allowed
+SV,Saves,Games successfully closed in a save situation
+IP,Innings Pitched,Total innings pitched
+TBF,Total Batters Faced,Total plate appearances faced
+H,Hits Allowed,Total hits allowed
+R,Runs Allowed,All runs allowed
+ER,Earned Runs,Runs charged to pitcher (excluding errors)
+HR,Home Runs Allowed,Total home runs given up
+BB,Walks,Bases on balls allowed
+IBB,Intentional Walks,Intentional bases on balls
+HBP,Hit By Pitch,Number of batters hit by pitch
+WP,Wild Pitches,Pitches too wild to be handled by catcher
+BK,Balks,Illegal motions resulting in base advancement
+SO,Strikeouts,Total strikeouts
+GB,Ground Balls,Number of ground balls allowed
+FB,Fly Balls,Number of fly balls allowed
+LD,Line Drives,Number of line drives allowed
+Pitches,Total Pitches,Total pitches thrown
+K/9,Strikeouts per 9,Strikeouts per 9 innings
+BB/9,Walks per 9,Walks per 9 innings
+K/BB,K/BB Ratio,Strikeouts to walks ratio
+H/9,Hits per 9,Hits allowed per 9 innings
+HR/9,Home Runs per 9,Home runs allowed per 9 innings
+AVG,Batting Average Against,Opponent batting average against pitcher
+WHIP,Walks + Hits per Inning,Base runners allowed per inning
+BABIP,Batting Avg on Balls in Play,Opponents’ success on balls in play
+LOB%,Left On Base %,Percentage of runners stranded on base
+FIP,Fielding Independent Pitching,"ERA-like metric based on K, BB, HR only"
+ERA-,ERA minus,ERA scaled to league (100 = average) lower is better
+FIP-,FIP minus,FIP scaled to league (100 = average) lower is better
+xFIP,Expected FIP,ERA-like estimator normalizing HR/FB rate
+K%,Strikeout Percentage,K per plate appearance
+BB%,Walk Percentage,BB per plate appearance
+SIERA,Skill Interactive ERA,ERA estimator considering batted-ball profile
+RS/9,Run Support per 9,Runs scored by pitcher’s team per 9 innings
+xERA,Expected ERA,ERA expected from Statcast batted-ball data
+CSW%,Called Strikes + Whiffs %,Percentage of pitches resulting in called strikes or whiffs
+EV,Exit Velocity,Average exit velocity on balls in play
+LA,Launch Angle,Average launch angle of batted balls
+Barrel%,Barrel Rate,Percentage of batted balls classified as barrels
+Stuff+,Stuff+,Pitch quality metric (FanGraphs+)
+Location+,Location+,Pitch location quality metric
+Pitching+,Pitching+,Overall pitching quality metric
+FA%,Fastball Usage %,Percentage of fastballs thrown
+SL%,Slider Usage %,Percentage of sliders thrown
+CH%,Changeup Usage %,Percentage of changeups thrown
+FBv,Fastball Velocity,Average velocity of fastball
+SLv,Slider Velocity,Average velocity of slider
+wFB,Fastball Runs Above Avg,Run value of fastball
+wSL,Slider Runs Above Avg,Run value of slider
+wCH,Changeup Runs Above Avg,Run value of changeup

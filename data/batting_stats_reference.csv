@@ -1,0 +1,66 @@
+Abbreviation,Full Name,Description
+G,Games Played,Total games appeared in
+AB,At Bats,"Official at-bats (excludes walks, HBP, etc.)"
+PA,Plate Appearances,Total trips to the plate including walks and HBP
+H,Hits,Total hits (singles + doubles + triples + HRs)
+1B,Singles,Hits that are singles
+2B,Doubles,Hits that are doubles
+3B,Triples,Hits that are triples
+HR,Home Runs,Hits that are home runs
+R,Runs,Total runs scored
+RBI,Runs Batted In,Total runs batted in
+BB,Walks,Base on balls
+IBB,Intentional Walks,Intentional base on balls
+SO,Strikeouts,Total strikeouts
+HBP,Hit By Pitch,Times hit by a pitch
+SF,Sacrifice Flies,Sacrifice fly outs
+SH,Sacrifice Hits,Sacrifice bunts
+GDP,Ground Into Double Play,Grounded into double plays
+SB,Stolen Bases,Bases stolen successfully
+CS,Caught Stealing,Times caught stealing
+AVG,Batting Average,Hits divided by at-bats
+OBP,On-base Percentage,Times on base divided by plate appearances
+SLG,Slugging Percentage,Total bases divided by at-bats
+OPS,On-base Plus Slugging,OBP + SLG
+ISO,Isolated Power,"SLG - AVG, measures raw power"
+BABIP,Batting Avg on Balls in Play,Average on balls in play
+BB%,Walk Percentage,Walks per plate appearance
+K%,Strikeout Percentage,Strikeouts per plate appearance
+BB/K,Walk to Strikeout Ratio,Walks divided by strikeouts
+GB,Ground Balls,Number of ground balls hit
+FB,Fly Balls,Number of fly balls hit
+LD,Line Drives,Number of line drives hit
+IFFB,Infield Fly Balls,Number of infield flies hit
+Pitches,Pitches Seen,Total pitches faced
+Balls,Balls Seen,Total pitches called balls
+Strikes,Strikes Seen,Total pitches called strikes
+IFH,Infield Hits,Infield hits recorded as singles
+BU,Bunts,Total bunt attempts
+BUH,Bunt Hits,Successful bunt hits
+GB/FB,Ground Ball/Fly Ball Ratio,Ratio of ground balls to fly balls
+LD%,Line Drive Percentage,Percentage of balls hit as line drives
+GB%,Ground Ball Percentage,Percentage of balls hit as ground balls
+FB%,Fly Ball Percentage,Percentage of balls hit as fly balls
+HR/FB,Home Run to Fly Ball Ratio,Home runs divided by fly balls
+wOBA,Weighted On-Base Average,Advanced metric for overall offensive value
+wRAA,Weighted Runs Above Average,Runs above average created by player
+wRC,Weighted Runs Created,Total weighted runs created
+WAR,Wins Above Replacement,Overall value compared to replacement player
+wRC+,Weighted Runs Created Plus,wRC adjusted for park/league (100 = average)
+WPA,Win Probability Added,Contribution to team's win probability
+RE24,Run Expectancy 24,Runs above average in 24 base/out states
+Pull%,Pull Percentage,Percentage of balls hit to pull side
+Cent%,Center Percentage,Percentage of balls hit to center
+Oppo%,Opposite Field Percentage,Percentage of balls hit to opposite field
+Soft%,Soft Contact Percentage,Percentage of softly hit balls
+Med%,Medium Contact Percentage,Percentage of medium-contact balls
+Hard%,Hard Contact Percentage,Percentage of hard-hit balls
+Barrels,Barrels,Number of barreled batted balls
+Barrel%,Barrel Percentage,Percentage of batted balls that are barrels
+EV,Exit Velocity,Average exit velocity of batted balls
+LA,Launch Angle,Average launch angle of batted balls
+HardHit%,Hard Hit Percentage,Percentage of batted balls hit 95+ mph
+maxEV,Max Exit Velocity,Maximum exit velocity
+xBA,Expected Batting Average,Statcast expected batting average
+xSLG,Expected Slugging Percentage,Statcast expected slugging
+xwOBA,Expected wOBA,Statcast expected wOBA

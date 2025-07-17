@@ -1,4 +1,7 @@
 Abbreviation,Full Name,Description
+Name,Name,Name
+Age,Age,Age
+Team,Team,Team
 W,Wins,Number of games where pitcher was credited with a win
 L,Losses,Number of games where pitcher was credited with a loss
 WAR,Wins Above Replacement,Overall value compared to a replacement-level player

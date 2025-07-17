@@ -1,4 +1,7 @@
 Abbreviation,Full Name,Description
+Name,Name,Name
+Age,Age,Age
+Team,Team,Team
 G,Games Played,Total games appeared in
 AB,At Bats,"Official at-bats (excludes walks, HBP, etc.)"
 PA,Plate Appearances,Total trips to the plate including walks and HBP

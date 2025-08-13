@@ -6,6 +6,6 @@
 * **final_game_logs.csv** : Processed data from 'preprocessing.ipynb' to use for training.
   
 ## Jupyter Notebook Files
-* **load_data.ipynb** : The notebook for accessing statsapi, for the game results.
+* **load_data.ipynb** : The notebook for accessing statsapi, for retrieving game results.
 * **eda.ipynb** : Performed Exploratory Data Analysis (EDA) and chose the relevant features for batting/pitching that contributes to wins/losses.
 * **preprocessing.ipynb** : Cleaned up missing/amiguous data, merged the game results with its corresponding pitching/batting data, stored the final dataset as 'final_game_logs.csv'.

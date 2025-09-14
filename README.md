@@ -13,5 +13,5 @@
 ## Python Files (/src)
 * **preprocessing.py** : Loads the processed dataset 'final_game_logs.csv', cleans missing data and retrieves numerical columns for training, scales using StandardScaler().
 * **model.py**
-*   * build_model() : Builds an Artificial Neural Network (ANN) using Tensorflow/Keras.
-    * visualize() : Visualizes the training history and the model's performance.
+   * build_model() : Builds an Artificial Neural Network (ANN) using Tensorflow/Keras.
+   * visualize() : Visualizes the training history and the model's performance.

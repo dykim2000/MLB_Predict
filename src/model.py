@@ -2,6 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from preprocessing import load_data, preprocess
 
@@ -20,6 +21,34 @@ def build_model(input_dim):
     
     return model
 
+def visualize(history, hyperparams=None):
+    plt.figure(figsize=(18,6))
+    # Accuracy Plot (Train vs Validation)
+    plt.subplot(1, 2, 1)
+    plt.plot(history.history['accuracy'], label='Train Accuracy')
+    plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
+    plt.xlabel('Epochs')
+    plt.ylabel('Accuracy')
+    plt.legend()
+    
+    # Loss Plot (Train vs Validation)
+    plt.subplot(1, 2, 2)
+    plt.plot(history.history['loss'], label='Train Loss')
+    plt.plot(history.history['val_loss'], label='Validation Loss')
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.legend()
+    
+    if hyperparams:
+        textstr = "\n".join([f"{k}: {v}" for k, v in hyperparams.items()])
+        plt.figtext(0.82, 0.5, textstr, fontsize=10,
+            verticalalignment='center', ha='left', bbox=dict(facecolor='white', alpha=0.6))
+
+    plt.tight_layout(rect=[0, 0, 0.8, 1])  # Leave space on the right for comments
+    plt.show()
+    
+    
+
 if __name__ == "__main__" :
     df = load_data()
     X, y = preprocess(df)
@@ -27,7 +56,14 @@ if __name__ == "__main__" :
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
     
     model = build_model(X_train.shape[1])
-    model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
+    history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
     
-    loss, accuracy = model.evaluate(X_test, y_test)
-    print(f"Test Accuracy :  {accuracy:.4f}")
+    hyperparams = {
+        "Layers" : "64-32-1",
+        "Activation" : "ReLU, ReLU, Sigmoid",
+        "Optimizer" : "ADAM",
+        "Epochs" : 50,
+        "Batch-Size" : 32
+    }
+    
+    visualize(history, hyperparams)

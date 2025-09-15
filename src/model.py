@@ -5,6 +5,8 @@ from keras.layers import Dense, Dropout
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from preprocessing import load_data, preprocess
+from datetime import datetime
+import os
 
 def build_model(input_dim):
     model = Sequential([
@@ -21,7 +23,11 @@ def build_model(input_dim):
     
     return model
 
-def visualize(history, hyperparams=None):
+def visualize(history, hyperparams=None, save_dir="figures"):
+    
+    os.makedirs(save_dir, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    
     plt.figure(figsize=(18,6))
     # Accuracy Plot (Train vs Validation)
     plt.subplot(1, 2, 1)
@@ -44,8 +50,15 @@ def visualize(history, hyperparams=None):
         plt.figtext(0.82, 0.5, textstr, fontsize=10,
             verticalalignment='center', ha='left', bbox=dict(facecolor='white', alpha=0.6))
 
-    plt.tight_layout(rect=[0, 0, 0.8, 1])  # Leave space on the right for comments
+    
+    filename = f"training_plot_{timestamp}.png"
+    save_path = os.path.join(save_dir, filename)
+    
+    plt.tight_layout(rect=[0, 0, 0.8, 1])
+    plt.savefig(save_path, dpi=300)
     plt.show()
+
+    print(f"Visualization saved at: {save_path}")
     
     
 
@@ -66,4 +79,4 @@ if __name__ == "__main__" :
         "Batch-Size" : 32
     }
     
-    visualize(history, hyperparams)
+    visualize(history, hyperparams, save_dir="figures")

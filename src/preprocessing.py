@@ -32,9 +32,9 @@ def preprocess(df):
     return X_scaled, y
 
 if __name__ == "__main__":
+    
+    # Testing out preprocessing.py
     df = load_data()
     X, y = preprocess(df)
-
-    # Train Test Split
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False) # Disable shuffling
     print(X_train.shape, X_test.shape)

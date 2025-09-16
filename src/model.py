@@ -8,12 +8,27 @@ from preprocessing import load_data, preprocess
 from datetime import datetime
 import os
 
-def build_model(input_dim):
-    model = Sequential([
-        Dense(64, activation='relu', input_shape=(input_dim, )),
-        Dense(32, activation='relu'),
-        Dense(1, activation='sigmoid')
-    ])
+def build_model(input_dim, hidden_layers=[64, 32], learning_rate=0.001, dropout_rate=0.0):
+    model = Sequential([])
+    
+    for i, nodes in enumerate(hidden_layers):
+        if i == 0: #input layer
+            model.add(Dense(
+                nodes,
+                activation='relu',
+                input_shape=(input_dim)
+            ))
+        else:
+            model.add(Dense(
+                nodes,
+                activation='relu'
+            ))
+        if dropout_rate > 0: #add dropouts
+            model.add(Dropout(dropout_rate))
+            
+    #output layer
+    model.add(Dense(1, activation='sigmoid'))
+            
     
     model.compile(
         optimizer = 'adam',
@@ -68,8 +83,17 @@ if __name__ == "__main__" :
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
     
-    model = build_model(X_train.shape[1])
-    history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
+    #model = build_model(X_train.shape[1])
+    hidden_layers = [[64,32], [32,16], [16, 8]]
+    for i,layers in enumerate(hidden_layers):
+        
+        #With Dropout
+        model = build_model(X_train.shape[1], layers, dropout_rate=0.5)
+        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
+        
+        #Without Dropout
+        model = build_model(X_train.shape[1], layers, dropout_rate=0.0)
+        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
     
     hyperparams = {
         "Layers" : "64-32-1",

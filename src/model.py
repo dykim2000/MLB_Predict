@@ -16,7 +16,7 @@ def build_model(input_dim, hidden_layers=[64, 32], learning_rate=0.001, dropout_
             model.add(Dense(
                 nodes,
                 activation='relu',
-                input_shape=(input_dim)
+                input_shape=(input_dim,)
             ))
         else:
             model.add(Dense(

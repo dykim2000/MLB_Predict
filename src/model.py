@@ -71,7 +71,7 @@ def visualize(history, hyperparams=None, save_dir="figures"):
     
     plt.tight_layout(rect=[0, 0, 0.8, 1])
     plt.savefig(save_path, dpi=300)
-    plt.show()
+    #plt.show()
 
     print(f"Visualization saved at: {save_path}")
     
@@ -86,21 +86,31 @@ if __name__ == "__main__" :
     #model = build_model(X_train.shape[1])
     hidden_layers = [[64,32], [32,16], [16, 8]]
     for i,layers in enumerate(hidden_layers):
+        #Without Dropout
+        model = build_model(X_train.shape[1], layers, dropout_rate=0.0)
+        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
         
+        hyperparams = {
+        "Layers" : layers,
+        "Activation" : "ReLU, ReLU, Sigmoid",
+        "Optimizer" : "ADAM",
+        "Epochs" : 50,
+        "Batch-Size" : 32,
+        "Dropout Rate" : 0.0
+        }
+        visualize(history, hyperparams, save_dir="figures")
+        
+    for i,layers in enumerate(hidden_layers):
         #With Dropout
         model = build_model(X_train.shape[1], layers, dropout_rate=0.5)
         history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
         
-        #Without Dropout
-        model = build_model(X_train.shape[1], layers, dropout_rate=0.0)
-        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
-    
-    hyperparams = {
-        "Layers" : "64-32-1",
+        hyperparams = {
+        "Layers" : layers,
         "Activation" : "ReLU, ReLU, Sigmoid",
         "Optimizer" : "ADAM",
         "Epochs" : 50,
-        "Batch-Size" : 32
-    }
-    
-    visualize(history, hyperparams, save_dir="figures")
+        "Batch-Size" : 32,
+        "Dropout Rate" : 0.5
+        }
+        visualize(history, hyperparams, save_dir="figures")

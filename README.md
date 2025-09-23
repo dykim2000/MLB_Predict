@@ -3,7 +3,7 @@
 * **game_logs_2024.csv** : This is the data of all the MLB games played during the year 2024, retrieved from statsapi coded in load_data.ipynb.
 * **pitching_stats_2024.csv** : This is the pitching data of the MLB pitchers, retrieved from https://www.baseball-reference.com/leagues/majors/2024-standard-pitching.shtml#players_standard_pitching
 * **team_batting_stats_2024.csv** : This is the batting data of the MLB teams, retrieved from https://www.baseball-reference.com/leagues/majors/2024-standard-batting.shtml
-* **final_game_logs.csv** : Processed data from 'preprocessing.ipynb' to use for training.
+* **final_game_logs.csv** : Performed Exploratory Data Analysis(EDA) in eda.ipynb, picked relevant features that contribute to game results, and processed data from 'preprocessing.ipynb' to use for training.
   
 ## Jupyter Notebook Files (/notebooks)
 * **load_data.ipynb** : The notebook for accessing statsapi, for retrieving game results.

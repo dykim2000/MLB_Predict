@@ -8,6 +8,7 @@ from preprocessing import load_data, preprocess
 from datetime import datetime
 import os
 
+#Model Function
 def build_model(input_dim, hidden_layers=[64, 32], learning_rate=0.001, dropout_rate=0.0):
     model = Sequential([])
     
@@ -38,10 +39,13 @@ def build_model(input_dim, hidden_layers=[64, 32], learning_rate=0.001, dropout_
     
     return model
 
-def visualize(history, hyperparams=None, save_dir="figures"):
+#Visualization (and saving) Function
+def visualize(history, hyperparams=None, save_dir="figures", save_model_flag=False, model=None):
     
     os.makedirs(save_dir, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    layer_str = "-".join(map(str, hyperparams.get("Layers", [])))
+    dropout = hyperparams.get("Dropout Rate", 0.0)
     
     plt.figure(figsize=(18,6))
     # Accuracy Plot (Train vs Validation)
@@ -66,7 +70,7 @@ def visualize(history, hyperparams=None, save_dir="figures"):
             verticalalignment='center', ha='left', bbox=dict(facecolor='white', alpha=0.6))
 
     
-    filename = f"training_plot_{timestamp}.png"
+    filename = f"model_{layer_str}_drop{dropout}_{timestamp}.png"
     save_path = os.path.join(save_dir, filename)
     
     plt.tight_layout(rect=[0, 0, 0.8, 1])
@@ -75,15 +79,32 @@ def visualize(history, hyperparams=None, save_dir="figures"):
 
     print(f"Visualization saved at: {save_path}")
     
+    if save_model_flag and model is not None:
+        save_model(model, hyperparams, save_dir="saved_models")
     
+    
+#Function to save the Model
+def save_model(model, hyperparams, save_dir="saved_models"):
+    os.makedirs(save_dir, exist_ok=True)
+    
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    layer_str = "-".join(map(str, hyperparams.get("Layers", [])))
+    dropout = hyperparams.get("Dropout Rate", 0.0)
+    
+    filename = f"model_{layer_str}_drop{dropout}_{timestamp}.h5"
+    save_path = os.path.join(save_dir, filename)
+    
+    model.save(save_path)
+    print(f"Model Saved at Path : {save_path}")
 
+#Main Function
 if __name__ == "__main__" :
     df = load_data()
     X, y = preprocess(df)
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
     
-    #model = build_model(X_train.shape[1])
+    '''
     hidden_layers = [[64,32], [32,16], [16, 8]]
     for i,layers in enumerate(hidden_layers):
         #Without Dropout
@@ -99,7 +120,8 @@ if __name__ == "__main__" :
         "Dropout Rate" : 0.0
         }
         visualize(history, hyperparams, save_dir="figures")
-        
+    '''
+    hidden_layers = [[64,32,16]]
     for i,layers in enumerate(hidden_layers):
         #With Dropout
         model = build_model(X_train.shape[1], layers, dropout_rate=0.5)
@@ -107,7 +129,7 @@ if __name__ == "__main__" :
         
         hyperparams = {
         "Layers" : layers,
-        "Activation" : "ReLU, ReLU, Sigmoid",
+        "Activation" : "ReLU, ReLU, ReLU, Sigmoid",
         "Optimizer" : "ADAM",
         "Epochs" : 50,
         "Batch-Size" : 32,

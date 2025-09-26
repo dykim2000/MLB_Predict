@@ -9,6 +9,8 @@
 * **load_data.ipynb** : The notebook for accessing statsapi, for retrieving game results.
 * **eda.ipynb** : Performed Exploratory Data Analysis (EDA) and chose the relevant features for batting/pitching that contributes to wins/losses.
 * **preprocessing.ipynb** : Cleaned up missing/amiguous data, merged the game results with its corresponding pitching/batting data, stored the final dataset as 'final_game_logs.csv'.
+* **weather.ipynb** : Scraped off weather data from https://www.baseball-reference.com/
+* **preprocessing_weather.ipynb** : Preprocessing weather data and augmenting to the final dataset
 
 ## Python Files (/src)
 * **preprocessing.py** : Loads the processed dataset 'final_game_logs.csv', cleans missing data and retrieves numerical columns for training, scales using StandardScaler().

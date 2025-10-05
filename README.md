@@ -10,7 +10,11 @@
 * **eda.ipynb** : Performed Exploratory Data Analysis (EDA) and chose the relevant features for batting/pitching that contributes to wins/losses.
 * **preprocessing.ipynb** : Cleaned up missing/amiguous data, merged the game results with its corresponding pitching/batting data, stored the final dataset as 'final_game_logs.csv'.
 * **weather.ipynb** : Scraped off weather data from https://www.baseball-reference.com/
+* **weather_onehot.ipynb** : One-hot encoding the categorical weather columns
 * **preprocessing_weather.ipynb** : Preprocessing weather data and augmenting to the final dataset
+* **last_games.ipynb** : Augemented the last 7 games win percentage for each game, and the win/lose streak as well
+* **lineup_score.ipynb** : Scraped off the starting lineup for each game, computed the mean OPS for each lineup
+
 
 ## Python Files (/src)
 * **preprocessing.py** : Loads the processed dataset 'final_game_logs.csv', cleans missing data and retrieves numerical columns for training, scales using StandardScaler().

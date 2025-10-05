@@ -22,7 +22,7 @@ def preprocess(df):
     # Target Variable (Home win = 1 / Home lose = 0)
     df['home_win'] = (df['home_score'] > df['away_score']).astype(int)
     
-    X = df.drop(columns=['game_id','home_score', 'away_score', 'home_win','home_probable_pitcher', 'away_probable_pitcher','home_name', 'away_name'])
+    X = df.drop(columns=['game_id','home_score', 'away_score', 'home_win','home_probable_pitcher', 'away_probable_pitcher','home_name', 'away_name', 'condition'])
     y = df['home_win']
     
     # Scaling with the StandardScaler

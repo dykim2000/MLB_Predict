@@ -79,23 +79,18 @@ def visualize(history, hyperparams=None, save_dir="figures", save_model_flag=Fal
 
     print(f"Visualization saved at: {save_path}")
     
-    if save_model_flag and model is not None:
-        save_model(model, hyperparams, save_dir="saved_models")
+    #Saving the model
+    if save_model_flag:
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        os.makedirs("saved_models", exist_ok=True)
+        
+        layer_str = "-".join(map(str, hyperparams.get("Layers", [])))
+        dropout = hyperparams.get("Dropout Rate", 0.0)
+        
+        model_path = os.path.join("saved_models", f"model_{layer_str}_drop{dropout}_{timestamp}.h5")
+        model.save(model_path)
+        print(f"Model Saved at {model_path}")
     
-    
-#Function to save the Model
-def save_model(model, hyperparams, save_dir="saved_models"):
-    os.makedirs(save_dir, exist_ok=True)
-    
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    layer_str = "-".join(map(str, hyperparams.get("Layers", [])))
-    dropout = hyperparams.get("Dropout Rate", 0.0)
-    
-    filename = f"model_{layer_str}_drop{dropout}_{timestamp}.h5"
-    save_path = os.path.join(save_dir, filename)
-    
-    model.save(save_path)
-    print(f"Model Saved at Path : {save_path}")
 
 #Main Function
 if __name__ == "__main__" :
@@ -104,28 +99,11 @@ if __name__ == "__main__" :
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
     
-    '''
-    hidden_layers = [[64,32], [32,16], [16, 8]]
-    for i,layers in enumerate(hidden_layers):
-        #Without Dropout
-        model = build_model(X_train.shape[1], layers, dropout_rate=0.0)
-        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
-        
-        hyperparams = {
-        "Layers" : layers,
-        "Activation" : "ReLU, ReLU, Sigmoid",
-        "Optimizer" : "ADAM",
-        "Epochs" : 50,
-        "Batch-Size" : 32,
-        "Dropout Rate" : 0.0
-        }
-        visualize(history, hyperparams, save_dir="figures")
-    '''
-    hidden_layers = [[64,32,16]]
+    hidden_layers = [[8,4]]
     for i,layers in enumerate(hidden_layers):
         #With Dropout
         model = build_model(X_train.shape[1], layers, dropout_rate=0.5)
-        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
+        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=100, batch_size=32)
         
         hyperparams = {
         "Layers" : layers,
@@ -135,4 +113,4 @@ if __name__ == "__main__" :
         "Batch-Size" : 32,
         "Dropout Rate" : 0.5
         }
-        visualize(history, hyperparams, save_dir="figures")
+        visualize(history, hyperparams, save_dir="figures", save_model_flag=True, model=model)

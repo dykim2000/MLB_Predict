@@ -99,15 +99,15 @@ if __name__ == "__main__" :
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
     
-    hidden_layers = [[8,4]]
+    hidden_layers = [[16,8,4]]
     for i,layers in enumerate(hidden_layers):
         #With Dropout
         model = build_model(X_train.shape[1], layers, dropout_rate=0.5)
-        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=100, batch_size=32)
+        history = model.fit(X_train, y_train, validation_data = (X_test, y_test), epochs=50, batch_size=32)
         
         hyperparams = {
         "Layers" : layers,
-        "Activation" : "ReLU, ReLU, ReLU, Sigmoid",
+        "Activation" : "ReLU, ReLU, Sigmoid",
         "Optimizer" : "ADAM",
         "Epochs" : 50,
         "Batch-Size" : 32,

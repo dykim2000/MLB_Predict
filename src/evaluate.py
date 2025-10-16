@@ -17,23 +17,26 @@ for fname in os.listdir(models_dir):
         model_path = os.path.join(models_dir, fname)
         model = tf.keras.models.load_model(model_path)
         
-        loss, acc = model.evaluate(X_test, y_test)
+        loss, acc = model.evaluate(X_test, y_test, verbose=0)
         y_pred = (model.predict(X_test) > 0.5).astype("int32")
         
         #Confusion Matrix
         cm = confusion_matrix(y_test, y_pred)
-        cm = pd.DataFrame(cm, index=["Actual_0", "Actual_1"], columns=["Pred_0", "Pred_1"])
-        cm_path = os.path.join("./saved_models",f"confusion_matrix_{fname.replace('.h5', '.csv')}")
-        cm.to_csv(cm_path, index=True)
+        cm_df = pd.DataFrame(cm, index=["Actual_0", "Actual_1"], columns=["Pred_0", "Pred_1"])
+        model_desc = fname.replace(".h5", "").replace("_", " ")
         
         results.append({
-            "Model" : fname,
+            "Model" : model_desc,
             "Test Accuracy" : acc,
             "Test Loss" : loss
         })
         
         
 df_results = pd.DataFrame(results)
-print(df_results)
+with open("../eval_summary.csv", "a") as f:
+    f.write(f"\nModel : {model_desc}\n")
+    cm_df.to_csv(f)
+    f.write("\n")
+    
 df_results.to_csv("../eval_summary.csv", index=False)
         

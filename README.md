@@ -21,6 +21,9 @@
 * **model.py**
    * build_model() : Builds an Artificial Neural Network (ANN) using Tensorflow/Keras.
    * visualize() : Visualizes the training history and the model's performance.
+* **evaluate.py** : Evaluating models in (../saved_models) with 2024 data
+* **evaluate_2025.py** : Evaluating models in (../saved_models) with 2025 data
+* **grid_search_epochs** : Finding the proper epochs for each models
 
 ## Evaluation Reports
 * **MLB_Model_Report(Oct18)** : Report for the top 5 models found using girdsearch.

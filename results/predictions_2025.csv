@@ -1,0 +1,2148 @@
+game_id,home_name,home_score,away_name,away_score,actual_result,prediction,prediction(%),correct
+778804,Colorado Rockies,2,Los Angeles Dodgers,0,1,1,76.35,True
+779035,Pittsburgh Pirates,3,Tampa Bay Rays,2,1,1,100.0,True
+778990,San Francisco Giants,9,Milwaukee Brewers,2,1,1,100.0,True
+778800,Arizona Diamondbacks,6,Kansas City Royals,1,1,1,99.23,True
+778861,Los Angeles Dodgers,6,Los Angeles Angels,5,1,1,99.82,True
+779129,Baltimore Orioles,2,Pittsburgh Pirates,5,0,0,0.0,True
+778774,Boston Red Sox,8,Minnesota Twins,4,1,1,91.91,True
+779111,Detroit Tigers,1,Philadelphia Phillies,0,1,1,98.08,True
+778704,Atlanta Braves,1,Toronto Blue Jays,1,0,0,9.7,True
+779051,New York Yankees,9,Houston Astros,3,1,1,100.0,True
+778756,Chicago Cubs,7,Cleveland Guardians,4,1,0,23.71,False
+778831,Cincinnati Reds,7,San Diego Padres,3,1,1,99.75,True
+778858,Los Angeles Dodgers,6,San Francisco Giants,5,1,1,96.7,True
+778801,Arizona Diamondbacks,8,Colorado Rockies,4,1,1,99.88,True
+779018,Seattle Mariners,9,Chicago White Sox,18,0,0,0.0,True
+779099,Milwaukee Brewers,9,Texas Rangers,4,1,1,99.97,True
+778730,Washington Nationals,7,Miami Marlins,0,1,1,99.87,True
+778936,Kansas City Royals,1,Chicago Cubs,11,0,0,0.0,True
+778732,Houston Astros,3,Washington Nationals,4,0,0,0.06,True
+778769,Boston Red Sox,6,New York Mets,4,1,1,99.99,True
+778881,Minnesota Twins,5,Tampa Bay Rays,5,0,0,1.31,True
+778912,Philadelphia Phillies,5,Baltimore Orioles,4,1,1,99.46,True
+778706,Atlanta Braves,11,New York Yankees,1,1,1,99.27,True
+778957,Toronto Blue Jays,5,Philadelphia Phillies,4,1,1,94.47,True
+779078,Miami Marlins,5,St. Louis Cardinals,3,1,1,99.66,True
+778749,Chicago Cubs,3,Cincinnati Reds,7,0,0,0.06,True
+778986,San Francisco Giants,9,Los Angeles Angels,5,1,1,99.99,True
+778860,Los Angeles Dodgers,6,Chicago White Sox,3,1,1,100.0,True
+779013,San Diego Padres,4,Kansas City Royals,10,0,0,0.17,True
+778799,Colorado Rockies,6,Seattle Mariners,1,1,0,8.24,False
+779128,Baltimore Orioles,6,Boston Red Sox,6,0,0,1.0,True
+779112,Detroit Tigers,3,Toronto Blue Jays,13,0,0,0.67,True
+778973,Tampa Bay Rays,5,Atlanta Braves,4,1,1,99.99,True
+779076,Miami Marlins,3,Houston Astros,5,0,0,0.12,True
+778940,Kansas City Royals,6,Texas Rangers,3,1,1,100.0,True
+779156,Los Angeles Angels,4,Colorado Rockies,8,0,0,1.12,True
+778895,New York Mets,1,Miami Marlins,1,0,0,13.1,True
+779050,New York Yankees,12,Pittsburgh Pirates,3,1,1,99.99,True
+778829,Cincinnati Reds,5,Milwaukee Brewers,4,1,1,100.0,True
+779033,Pittsburgh Pirates,4,Boston Red Sox,12,0,0,0.0,True
+778733,Washington Nationals,4,St. Louis Cardinals,6,0,0,0.13,True
+779077,St. Louis Cardinals,6,New York Mets,1,1,1,98.9,True
+778974,Tampa Bay Rays,4,Detroit Tigers,1,1,1,100.0,True
+778708,Atlanta Braves,0,Minnesota Twins,0,0,0,20.21,True
+778909,Philadelphia Phillies,3,New York Yankees,12,0,0,0.02,True
+778825,Cleveland Guardians,8,Los Angeles Angels,1,1,1,100.0,True
+778750,Chicago Cubs,16,San Diego Padres,1,1,1,98.2,True
+778798,Colorado Rockies,9,Cincinnati Reds,5,1,1,100.0,True
+779011,San Diego Padres,1,San Francisco Giants,1,0,0,4.83,True
+778857,Los Angeles Dodgers,4,Cincinnati Reds,2,1,1,100.0,True
+778735,Houston Astros,6,St. Louis Cardinals,5,1,1,100.0,True
+778770,Boston Red Sox,4,Tampa Bay Rays,2,1,1,100.0,True
+779034,Pittsburgh Pirates,7,Toronto Blue Jays,6,1,1,68.61,True
+779113,Detroit Tigers,17,Philadelphia Phillies,7,1,1,99.93,True
+779074,Miami Marlins,7,Washington Nationals,8,0,0,0.01,True
+778828,Cincinnati Reds,3,Texas Rangers,5,0,0,1.84,True
+778855,Chicago White Sox,2,Milwaukee Brewers,3,0,0,0.0,True
+779155,Los Angeles Angels,3,Los Angeles Dodgers,5,0,0,0.0,True
+779014,San Diego Padres,3,Colorado Rockies,4,0,0,0.0,True
+778796,Arizona Diamondbacks,5,San Francisco Giants,11,0,0,0.08,True
+779096,Milwaukee Brewers,2,Chicago White Sox,8,0,0,1.07,True
+778934,Kansas City Royals,9,Seattle Mariners,6,1,1,100.0,True
+779073,St. Louis Cardinals,1,Washington Nationals,12,0,0,0.02,True
+778953,Toronto Blue Jays,7,Boston Red Sox,4,1,1,62.99,True
+778987,San Francisco Giants,7,Chicago White Sox,3,1,1,100.0,True
+779127,Baltimore Orioles,5,Pittsburgh Pirates,9,0,0,0.0,True
+778699,Atlanta Braves,1,Miami Marlins,1,0,0,0.02,True
+778893,New York Mets,1,Houston Astros,5,0,0,0.0,True
+778830,Cleveland Guardians,4,Arizona Diamondbacks,0,1,1,100.0,True
+778752,Chicago Cubs,3,Kansas City Royals,9,0,0,0.0,True
+779015,Seattle Mariners,5,Los Angeles Angels,5,0,0,24.95,True
+778971,Tampa Bay Rays,9,Minnesota Twins,9,0,0,13.1,True
+778874,Minnesota Twins,7,Atlanta Braves,1,1,1,99.95,True
+778773,Boston Red Sox,20,Miami Marlins,5,1,1,99.99,True
+778929,Kansas City Royals,8,Los Angeles Angels,2,1,1,100.0,True
+779109,Detroit Tigers,11,Baltimore Orioles,7,1,1,100.0,True
+778734,Washington Nationals,5,New York Mets,4,1,1,100.0,True
+779075,St. Louis Cardinals,6,Houston Astros,4,1,1,55.63,True
+779045,New York Yankees,8,Toronto Blue Jays,7,1,1,96.91,True
+779016,Seattle Mariners,4,Los Angeles Dodgers,6,0,0,0.0,True
+779126,Baltimore Orioles,3,Tampa Bay Rays,6,0,0,0.0,True
+778873,Minnesota Twins,9,Boston Red Sox,8,1,1,54.38,True
+778908,Philadelphia Phillies,5,Toronto Blue Jays,4,1,1,99.87,True
+778697,Atlanta Braves,6,Pittsburgh Pirates,5,1,1,98.23,True
+778955,Toronto Blue Jays,5,Detroit Tigers,0,1,1,91.96,True
+778751,Chicago Cubs,9,Seattle Mariners,8,1,1,99.62,True
+778989,San Francisco Giants,7,Kansas City Royals,3,1,1,99.93,True
+778930,Texas Rangers,5,Kansas City Royals,3,1,1,99.98,True
+778853,Chicago White Sox,5,Los Angeles Dodgers,2,1,1,99.99,True
+779095,Milwaukee Brewers,2,Los Angeles Angels,6,0,0,0.0,True
+778731,Houston Astros,5,New York Yankees,2,1,0,29.04,False
+779071,Miami Marlins,3,New York Mets,7,0,0,0.0,True
+779110,Detroit Tigers,5,Pittsburgh Pirates,3,1,1,99.97,True
+778965,Tampa Bay Rays,9,Toronto Blue Jays,13,0,0,0.0,True
+779125,Baltimore Orioles,4,Minnesota Twins,3,1,1,81.66,True
+778762,Boston Red Sox,7,Atlanta Braves,3,1,0,12.75,False
+778725,Houston Astros,6,Miami Marlins,10,0,0,3.07,True
+779072,St. Louis Cardinals,6,New York Yankees,5,1,1,100.0,True
+778891,New York Mets,7,Washington Nationals,6,1,1,100.0,True
+778753,Chicago Cubs,6,San Francisco Giants,8,0,0,0.04,True
+778988,San Francisco Giants,7,San Diego Padres,4,1,1,82.65,True
+778928,Kansas City Royals,5,Milwaukee Brewers,2,1,1,98.27,True
+779158,Los Angeles Angels,4,Cincinnati Reds,1,1,1,99.99,True
+779010,Seattle Mariners,8,Colorado Rockies,1,1,1,99.93,True
+778790,Arizona Diamondbacks,14,Texas Rangers,1,1,1,99.97,True
+778877,Minnesota Twins,1,Philadelphia Phillies,4,0,0,0.02,True
+778702,Atlanta Braves,3,Tampa Bay Rays,4,0,0,0.31,True
+779049,New York Yankees,10,Detroit Tigers,2,1,1,99.45,True
+778956,Toronto Blue Jays,8,Houston Astros,3,1,1,100.0,True
+779067,Miami Marlins,9,Washington Nationals,9,0,1,66.82,False
+778821,Cleveland Guardians,4,Chicago Cubs,7,0,0,0.0,True
+778931,Kansas City Royals,2,Cleveland Guardians,5,0,0,2.18,True
+778850,Los Angeles Dodgers,6,Arizona Diamondbacks,2,1,1,79.3,True
+779153,Los Angeles Angels,12,Colorado Rockies,3,1,1,100.0,True
+779009,San Diego Padres,3,Cincinnati Reds,9,0,0,0.08,True
+778791,Colorado Rockies,2,San Francisco Giants,8,0,0,0.0,True
+779093,Milwaukee Brewers,7,Seattle Mariners,5,1,0,6.62,False
+779031,Pittsburgh Pirates,3,Baltimore Orioles,6,0,0,0.02,True
+778726,Washington Nationals,5,Miami Marlins,10,0,0,0.0,True
+778892,New York Mets,8,St. Louis Cardinals,0,1,1,100.0,True
+778727,Houston Astros,7,New York Mets,4,1,1,56.6,True
+778767,Boston Red Sox,8,Philadelphia Phillies,18,0,0,0.01,True
+778700,Atlanta Braves,1,Detroit Tigers,3,0,0,0.13,True
+779070,St. Louis Cardinals,5,Miami Marlins,12,0,0,0.18,True
+779048,New York Yankees,2,Baltimore Orioles,6,0,0,0.07,True
+779030,Pittsburgh Pirates,9,New York Yankees,1,1,1,86.09,True
+778824,Cincinnati Reds,8,Colorado Rockies,5,1,1,100.0,True
+778852,Los Angeles Dodgers,10,Cleveland Guardians,4,1,1,99.02,True
+778926,Texas Rangers,13,Los Angeles Angels,6,1,1,99.19,True
+778754,Chicago Cubs,7,Milwaukee Brewers,9,0,0,0.0,True
+778794,Arizona Diamondbacks,3,Kansas City Royals,2,1,1,88.74,True
+779007,San Diego Padres,7,Chicago White Sox,5,1,1,95.53,True
+778728,Washington Nationals,9,Houston Astros,3,1,1,94.07,True
+779068,St. Louis Cardinals,0,New York Mets,2,0,0,0.43,True
+779107,Detroit Tigers,5,Tampa Bay Rays,1,1,1,100.0,True
+779123,Baltimore Orioles,5,Atlanta Braves,13,0,0,0.06,True
+778823,Cleveland Guardians,2,San Francisco Giants,11,0,0,0.0,True
+778927,Texas Rangers,4,Cincinnati Reds,3,1,1,100.0,True
+778793,Colorado Rockies,13,San Diego Padres,2,1,1,78.11,True
+778764,Boston Red Sox,6,Minnesota Twins,5,1,1,92.55,True
+778729,Houston Astros,1,St. Louis Cardinals,1,0,0,13.1,True
+779105,Detroit Tigers,6,New York Yankees,8,0,0,0.0,True
+778951,Toronto Blue Jays,6,Baltimore Orioles,4,1,1,100.0,True
+778889,New York Mets,2,Boston Red Sox,3,0,0,0.48,True
+779069,Miami Marlins,5,Houston Astros,10,0,0,4.21,True
+778925,Kansas City Royals,6,San Diego Padres,5,1,1,100.0,True
+778848,Chicago White Sox,3,Milwaukee Brewers,9,0,0,0.0,True
+778701,Atlanta Braves,3,Washington Nationals,5,0,0,0.01,True
+778818,Cleveland Guardians,8,Seattle Mariners,7,1,1,99.95,True
+779152,Los Angeles Angels,8,Kansas City Royals,9,0,0,0.01,True
+779066,Miami Marlins,4,Boston Red Sox,9,0,0,0.02,True
+779090,Milwaukee Brewers,11,San Francisco Giants,5,1,1,100.0,True
+779029,Pittsburgh Pirates,8,Detroit Tigers,8,0,0,2.68,True
+778717,Houston Astros,6,Toronto Blue Jays,5,1,1,100.0,True
+779124,Baltimore Orioles,10,Minnesota Twins,0,1,1,91.02,True
+778876,Minnesota Twins,13,Tampa Bay Rays,6,1,1,99.96,True
+778890,New York Mets,3,St. Louis Cardinals,3,0,0,13.1,True
+779044,New York Yankees,6,Philadelphia Phillies,5,1,1,99.84,True
+778924,Texas Rangers,5,Colorado Rockies,0,1,1,100.0,True
+779004,San Diego Padres,9,Texas Rangers,8,1,1,99.87,True
+778718,Houston Astros,6,Miami Marlins,4,1,1,100.0,True
+779061,St. Louis Cardinals,9,Toronto Blue Jays,5,1,1,99.47,True
+778906,Philadelphia Phillies,2,Detroit Tigers,2,0,0,0.31,True
+778766,Boston Red Sox,3,Atlanta Braves,7,0,0,0.07,True
+778968,Tampa Bay Rays,7,New York Yankees,7,0,0,0.12,True
+778819,Cincinnati Reds,7,Kansas City Royals,13,0,0,0.05,True
+778920,Kansas City Royals,5,Cleveland Guardians,7,0,0,0.41,True
+778982,San Francisco Giants,6,Seattle Mariners,2,1,1,99.46,True
+778844,Chicago White Sox,2,Colorado Rockies,1,1,1,100.0,True
+779000,Seattle Mariners,3,San Diego Padres,8,0,0,0.0,True
+778787,Arizona Diamondbacks,9,Chicago White Sox,8,1,1,100.0,True
+779151,Los Angeles Angels,0,Milwaukee Brewers,4,0,0,0.0,True
+778719,Washington Nationals,4,New York Mets,1,1,1,100.0,True
+778698,Atlanta Braves,0,Minnesota Twins,4,0,0,0.5,True
+779106,Detroit Tigers,1,Baltimore Orioles,7,0,0,0.05,True
+778720,Washington Nationals,5,Tampa Bay Rays,11,0,0,0.07,True
+778871,Minnesota Twins,5,Boston Red Sox,6,0,0,0.02,True
+779121,Baltimore Orioles,1,Philadelphia Phillies,12,0,0,0.0,True
+779047,New York Yankees,3,Pittsburgh Pirates,4,0,0,0.0,True
+778946,Toronto Blue Jays,6,Atlanta Braves,2,1,1,70.14,True
+778888,New York Mets,0,Houston Astros,5,0,0,0.0,True
+779065,Miami Marlins,11,St. Louis Cardinals,5,1,1,53.81,True
+778816,Cincinnati Reds,3,Seattle Mariners,8,0,0,0.0,True
+778922,Texas Rangers,6,Chicago White Sox,7,0,0,0.21,True
+778785,Colorado Rockies,2,Kansas City Royals,10,0,0,0.01,True
+779149,Los Angeles Angels,2,San Diego Padres,4,0,0,0.0,True
+779003,San Diego Padres,4,Arizona Diamondbacks,5,0,0,0.01,True
+779092,Milwaukee Brewers,8,Cleveland Guardians,2,1,1,100.0,True
+778765,Boston Red Sox,3,Baltimore Orioles,12,0,0,0.0,True
+779108,Detroit Tigers,9,Pittsburgh Pirates,6,1,1,99.84,True
+778722,Washington Nationals,2,St. Louis Cardinals,6,0,0,0.03,True
+779024,Pittsburgh Pirates,4,Minnesota Twins,2,1,1,100.0,True
+778903,Philadelphia Phillies,4,Toronto Blue Jays,2,1,1,99.98,True
+778948,Toronto Blue Jays,6,New York Yankees,5,1,0,10.93,False
+778884,New York Mets,0,Tampa Bay Rays,2,0,0,0.0,True
+779063,Miami Marlins,5,New York Mets,6,0,0,0.12,True
+778923,Kansas City Royals,12,Arizona Diamondbacks,1,1,1,100.0,True
+778843,Chicago White Sox,0,San Francisco Giants,3,0,0,0.0,True
+778788,Arizona Diamondbacks,5,Los Angeles Angels,11,0,0,0.05,True
+778815,Cleveland Guardians,3,Cincinnati Reds,0,1,1,100.0,True
+778563,Chicago Cubs,1,Los Angeles Dodgers,4,0,0,0.35,True
+779062,St. Louis Cardinals,4,Miami Marlins,4,0,0,7.11,True
+779043,New York Yankees,4,Boston Red Sox,4,0,0,5.38,True
+778812,Cincinnati Reds,1,Los Angeles Angels,0,1,1,84.5,True
+779001,Seattle Mariners,9,Milwaukee Brewers,3,1,1,99.99,True
+778716,Houston Astros,3,Washington Nationals,4,0,0,0.06,True
+779119,Baltimore Orioles,8,Toronto Blue Jays,2,1,1,100.0,True
+778979,San Francisco Giants,4,San Diego Padres,3,1,1,100.0,True
+778783,Colorado Rockies,3,San Francisco Giants,1,1,1,87.31,True
+778564,Chicago Cubs,3,Los Angeles Dodgers,6,0,0,0.0,True
+778768,Boston Red Sox,6,Detroit Tigers,4,1,1,92.24,True
+779058,St. Louis Cardinals,7,Washington Nationals,1,1,1,100.0,True
+778964,Tampa Bay Rays,5,Pittsburgh Pirates,2,1,1,100.0,True
+778900,Philadelphia Phillies,7,New York Yankees,9,0,0,0.54,True
+779150,Los Angeles Angels,6,Cleveland Guardians,3,1,1,100.0,True
+779002,Seattle Mariners,3,Texas Rangers,2,1,1,100.0,True
+779088,Milwaukee Brewers,5,Chicago White Sox,4,1,1,98.25,True
+779042,New York Yankees,0,Atlanta Braves,4,0,0,0.0,True
+778917,Kansas City Royals,1,San Francisco Giants,3,0,0,0.08,True
+778694,Atlanta Braves,7,Philadelphia Phillies,0,1,1,99.95,True
+778950,Toronto Blue Jays,4,Tampa Bay Rays,1,1,1,97.93,True
+779060,Miami Marlins,0,Houston Astros,11,0,0,3.57,True
+778814,Cincinnati Reds,8,Kansas City Royals,11,0,0,0.51,True
+778713,Washington Nationals,3,New York Mets,10,0,0,0.0,True
+778872,Minnesota Twins,2,Boston Red Sox,1,1,0,7.66,False
+779120,Baltimore Orioles,7,New York Yankees,9,0,0,0.0,True
+778918,Texas Rangers,4,Colorado Rockies,7,0,0,0.01,True
+778998,San Diego Padres,5,Texas Rangers,3,1,1,99.77,True
+779059,St. Louis Cardinals,3,Houston Astros,5,0,0,0.43,True
+778901,Philadelphia Phillies,6,Minnesota Twins,3,1,1,81.24,True
+778961,Tampa Bay Rays,3,Atlanta Braves,7,0,0,0.0,True
+778947,Toronto Blue Jays,11,Philadelphia Phillies,7,1,1,99.94,True
+778885,New York Mets,3,St. Louis Cardinals,2,1,1,100.0,True
+779148,Los Angeles Angels,3,Texas Rangers,3,0,0,4.61,True
+778747,Chicago Cubs,1,San Diego Padres,5,0,0,0.49,True
+778919,Kansas City Royals,8,Seattle Mariners,7,1,1,93.71,True
+778980,San Francisco Giants,5,Cleveland Guardians,4,1,1,100.0,True
+778811,Cincinnati Reds,5,Chicago White Sox,8,0,0,0.07,True
+778777,Colorado Rockies,4,Los Angeles Angels,3,1,1,100.0,True
+778995,Seattle Mariners,3,Cincinnati Reds,5,0,0,0.0,True
+779118,Baltimore Orioles,1,Detroit Tigers,9,0,0,0.0,True
+778763,Boston Red Sox,2,Pittsburgh Pirates,1,1,1,100.0,True
+778714,Washington Nationals,0,Miami Marlins,6,0,0,0.04,True
+779101,Detroit Tigers,0,New York Yankees,4,0,0,0.0,True
+779089,Milwaukee Brewers,9,Arizona Diamondbacks,16,0,0,0.25,True
+779028,Pittsburgh Pirates,0,Baltimore Orioles,4,0,0,0.79,True
+778868,Minnesota Twins,1,Toronto Blue Jays,2,0,0,0.01,True
+779100,Detroit Tigers,0,Atlanta Braves,0,0,0,5.16,True
+779041,New York Yankees,7,Philadelphia Phillies,8,0,0,0.0,True
+778886,New York Mets,5,Washington Nationals,5,0,0,11.72,True
+779057,Miami Marlins,2,St. Louis Cardinals,8,0,0,0.94,True
+778976,San Francisco Giants,7,Arizona Diamondbacks,7,0,0,1.82,True
+778916,Texas Rangers,5,Kansas City Royals,9,0,0,0.14,True
+778745,Chicago Cubs,3,Colorado Rockies,7,0,0,0.0,True
+778810,Cleveland Guardians,12,San Diego Padres,8,1,1,99.99,True
+778996,San Diego Padres,1,Cincinnati Reds,0,1,0,22.72,False
+778711,Houston Astros,5,Miami Marlins,6,0,0,3.82,True
+778710,Washington Nationals,6,Houston Astros,8,0,0,0.02,True
+778902,Philadelphia Phillies,4,Detroit Tigers,2,1,1,100.0,True
+779056,St. Louis Cardinals,1,Washington Nationals,2,0,0,0.47,True
+778761,Boston Red Sox,3,Minnesota Twins,9,0,0,0.03,True
+778693,Atlanta Braves,5,Baltimore Orioles,5,0,0,1.08,True
+779040,New York Yankees,3,Tampa Bay Rays,3,0,0,1.38,True
+778945,Toronto Blue Jays,2,Pittsburgh Pirates,1,1,1,100.0,True
+778887,New York Mets,10,Miami Marlins,2,1,1,98.33,True
+778841,Chicago White Sox,4,Arizona Diamondbacks,8,0,0,0.38,True
+778779,Arizona Diamondbacks,5,San Diego Padres,5,0,0,9.72,True
+779086,Milwaukee Brewers,6,Colorado Rockies,0,1,0,1.14,False
+778997,Seattle Mariners,10,Milwaukee Brewers,6,1,1,99.98,True
+778899,Philadelphia Phillies,8,Tampa Bay Rays,6,1,1,100.0,True
+787945,New York Mets,6,New York Yankees,6,0,0,3.2,True
+778992,San Diego Padres,7,Seattle Mariners,7,0,0,0.11,True
+778781,Colorado Rockies,2,Milwaukee Brewers,4,0,0,0.0,True
+778744,Chicago Cubs,4,Atlanta Braves,13,0,0,0.0,True
+778712,Texas Rangers,6,Kansas City Royals,3,1,1,100.0,True
+787999,Los Angeles Angels,5,Los Angeles Dodgers,4,1,1,99.94,True
+789324,San Francisco Giants,6,Detroit Tigers,4,1,1,99.75,True
+787943,Minnesota Twins,5,Colorado Rockies,3,1,1,100.0,True
+803680,Miami Marlins,4,New York Yankees,2,1,1,99.99,True
+778709,Texas Rangers,1,Kansas City Royals,3,0,0,5.43,True
+778748,Chicago Cubs,4,Atlanta Braves,2,1,1,69.5,True
+789323,San Francisco Giants,4,Detroit Tigers,3,1,1,100.0,True
+787997,Los Angeles Angels,1,Los Angeles Dodgers,4,0,0,0.36,True
+778557,New York Yankees,4,Milwaukee Brewers,2,1,1,93.29,True
+778556,Toronto Blue Jays,2,Baltimore Orioles,12,0,0,0.14,True
+778553,Texas Rangers,2,Boston Red Sox,5,0,0,0.07,True
+778555,Washington Nationals,3,Philadelphia Phillies,7,0,0,0.0,True
+778558,Kansas City Royals,4,Cleveland Guardians,7,0,0,0.03,True
+778559,Houston Astros,3,New York Mets,1,1,1,100.0,True
+778561,Cincinnati Reds,4,San Francisco Giants,6,0,0,0.0,True
+778545,San Diego Padres,7,Atlanta Braves,4,1,1,99.44,True
+778554,Chicago White Sox,8,Los Angeles Angels,1,1,1,100.0,True
+778562,Miami Marlins,5,Pittsburgh Pirates,4,1,1,100.0,True
+778551,St. Louis Cardinals,5,Minnesota Twins,3,1,1,100.0,True
+778546,Los Angeles Dodgers,5,Detroit Tigers,4,1,1,100.0,True
+778552,Arizona Diamondbacks,6,Chicago Cubs,10,0,0,0.0,True
+778560,Tampa Bay Rays,3,Colorado Rockies,2,1,1,100.0,True
+778549,Toronto Blue Jays,8,Baltimore Orioles,2,1,1,93.51,True
+778548,Miami Marlins,3,Pittsburgh Pirates,4,0,0,0.0,True
+778550,Texas Rangers,4,Boston Red Sox,1,1,1,99.91,True
+778518,Houston Astros,1,New York Mets,3,0,0,5.52,True
+778543,Arizona Diamondbacks,8,Chicago Cubs,1,1,1,97.01,True
+778542,San Diego Padres,4,Atlanta Braves,3,1,1,100.0,True
+778544,Los Angeles Dodgers,8,Detroit Tigers,5,1,1,100.0,True
+778538,New York Yankees,20,Milwaukee Brewers,9,1,1,100.0,True
+778534,Chicago White Sox,0,Los Angeles Angels,1,0,0,0.0,True
+778528,St. Louis Cardinals,5,Minnesota Twins,1,1,1,100.0,True
+778536,Toronto Blue Jays,5,Baltimore Orioles,9,0,0,0.03,True
+778535,Washington Nationals,6,Philadelphia Phillies,11,0,0,0.0,True
+778529,Kansas City Royals,4,Cleveland Guardians,3,1,1,92.62,True
+778540,Cincinnati Reds,3,San Francisco Giants,2,1,1,99.99,True
+778537,Tampa Bay Rays,1,Colorado Rockies,2,0,0,1.68,True
+778539,Miami Marlins,5,Pittsburgh Pirates,4,1,1,98.8,True
+778531,Texas Rangers,4,Boston Red Sox,3,1,1,100.0,True
+778530,Houston Astros,2,New York Mets,1,1,1,96.62,True
+778520,San Diego Padres,1,Atlanta Braves,0,1,1,100.0,True
+778532,Arizona Diamondbacks,3,Chicago Cubs,4,0,0,0.03,True
+778533,Los Angeles Dodgers,7,Detroit Tigers,3,1,1,100.0,True
+778526,Washington Nationals,5,Philadelphia Phillies,1,1,1,99.96,True
+778523,New York Yankees,12,Milwaukee Brewers,3,1,1,100.0,True
+778525,Toronto Blue Jays,3,Baltimore Orioles,1,1,1,99.66,True
+778522,Cincinnati Reds,3,San Francisco Giants,6,0,0,0.01,True
+778524,Tampa Bay Rays,6,Colorado Rockies,4,1,1,70.8,True
+778519,Miami Marlins,3,Pittsburgh Pirates,2,1,1,100.0,True
+778510,Kansas City Royals,2,Cleveland Guardians,6,0,0,0.59,True
+778527,Chicago White Sox,2,Los Angeles Angels,3,0,0,0.02,True
+778517,St. Louis Cardinals,9,Minnesota Twins,2,1,1,100.0,True
+778516,Texas Rangers,3,Boston Red Sox,2,1,1,100.0,True
+778514,San Diego Padres,5,Atlanta Braves,0,1,1,100.0,True
+778506,Chicago White Sox,9,Minnesota Twins,0,1,1,100.0,True
+778504,Milwaukee Brewers,1,Kansas City Royals,11,0,0,0.0,True
+778512,Baltimore Orioles,8,Boston Red Sox,5,1,1,99.34,True
+778502,Philadelphia Phillies,6,Colorado Rockies,1,1,1,99.89,True
+778511,Cincinnati Reds,14,Texas Rangers,3,1,1,99.92,True
+778509,Miami Marlins,4,New York Mets,10,0,0,0.02,True
+778508,Tampa Bay Rays,6,Pittsburgh Pirates,1,1,1,100.0,True
+778507,Toronto Blue Jays,5,Washington Nationals,2,1,1,100.0,True
+778503,St. Louis Cardinals,4,Los Angeles Angels,5,0,0,0.0,True
+778505,Houston Astros,2,San Francisco Giants,7,0,0,0.32,True
+778496,Seattle Mariners,6,Detroit Tigers,9,0,0,0.0,True
+778500,Los Angeles Dodgers,6,Atlanta Braves,1,1,1,100.0,True
+778498,Cincinnati Reds,0,Texas Rangers,1,0,0,0.03,True
+778497,Miami Marlins,4,New York Mets,2,1,1,94.52,True
+778492,New York Yankees,5,Arizona Diamondbacks,7,0,0,0.01,True
+778491,Toronto Blue Jays,5,Washington Nationals,3,1,1,100.0,True
+778490,Chicago White Sox,3,Minnesota Twins,8,0,0,2.19,True
+778488,Milwaukee Brewers,5,Kansas City Royals,0,1,1,100.0,True
+778495,St. Louis Cardinals,7,Los Angeles Angels,9,0,0,0.0,True
+778489,Houston Astros,1,San Francisco Giants,3,0,0,0.0,True
+778485,San Diego Padres,7,Cleveland Guardians,0,1,1,100.0,True
+778486,Seattle Mariners,1,Detroit Tigers,4,0,0,0.0,True
+778487,Los Angeles Dodgers,3,Atlanta Braves,1,1,1,100.0,True
+778480,Cincinnati Reds,0,Texas Rangers,1,0,0,0.06,True
+778479,Tampa Bay Rays,2,Pittsburgh Pirates,4,0,0,0.01,True
+778477,Milwaukee Brewers,3,Kansas City Royals,2,1,1,100.0,True
+778473,St. Louis Cardinals,12,Los Angeles Angels,5,1,1,99.94,True
+778474,Chicago White Sox,1,Minnesota Twins,6,0,0,0.5,True
+778478,Toronto Blue Jays,4,Washington Nationals,2,1,1,100.0,True
+778476,San Diego Padres,5,Cleveland Guardians,2,1,1,100.0,True
+778469,Seattle Mariners,3,Detroit Tigers,2,1,1,86.06,True
+778475,Houston Astros,3,San Francisco Giants,6,0,0,0.18,True
+778481,Miami Marlins,5,New York Mets,6,0,0,0.0,True
+778483,Baltimore Orioles,0,Boston Red Sox,3,0,0,0.0,True
+778482,Philadelphia Phillies,5,Colorado Rockies,1,1,1,100.0,True
+778484,New York Yankees,3,Arizona Diamondbacks,4,0,0,0.0,True
+778472,Los Angeles Dodgers,6,Atlanta Braves,5,1,1,100.0,True
+778470,Baltimore Orioles,4,Boston Red Sox,8,0,0,0.01,True
+778467,Philadelphia Phillies,3,Colorado Rockies,1,1,1,100.0,True
+778462,Minnesota Twins,2,Houston Astros,5,0,0,1.49,True
+778466,New York Yankees,9,Arizona Diamondbacks,7,1,1,61.35,True
+778468,Milwaukee Brewers,1,Cincinnati Reds,0,1,1,100.0,True
+778458,Detroit Tigers,7,Chicago White Sox,4,1,1,100.0,True
+778463,Boston Red Sox,13,St. Louis Cardinals,9,1,1,100.0,True
+778460,Chicago Cubs,3,San Diego Padres,1,1,1,100.0,True
+778465,New York Mets,5,Toronto Blue Jays,0,1,1,100.0,True
+778461,Pittsburgh Pirates,4,New York Yankees,9,0,0,0.0,True
+778457,Washington Nationals,4,Arizona Diamondbacks,6,0,0,0.01,True
+778459,Philadelphia Phillies,3,Los Angeles Dodgers,2,1,1,100.0,True
+778464,Atlanta Braves,10,Miami Marlins,0,1,1,100.0,True
+778455,Kansas City Royals,8,Baltimore Orioles,2,1,1,99.94,True
+778454,Texas Rangers,5,Tampa Bay Rays,2,1,1,100.0,True
+778453,Milwaukee Brewers,3,Cincinnati Reds,2,1,1,100.0,True
+778447,Los Angeles Angels,6,Cleveland Guardians,8,0,0,0.14,True
+778445,Detroit Tigers,7,Chicago White Sox,2,1,1,100.0,True
+778440,Minnesota Twins,6,Houston Astros,1,1,1,72.54,True
+778450,Chicago Cubs,7,San Diego Padres,1,1,1,100.0,True
+778448,Philadelphia Phillies,1,Los Angeles Dodgers,3,0,0,0.14,True
+778449,Pittsburgh Pirates,4,New York Yankees,10,0,0,0.0,True
+778441,Kansas City Royals,1,Baltimore Orioles,8,0,0,2.1,True
+778438,Texas Rangers,6,Tampa Bay Rays,4,1,1,100.0,True
+778446,New York Mets,3,Toronto Blue Jays,2,1,1,100.0,True
+778439,Milwaukee Brewers,7,Cincinnati Reds,11,0,0,0.0,True
+778451,Atlanta Braves,0,Miami Marlins,4,0,0,1.06,True
+778436,San Francisco Giants,4,Seattle Mariners,1,1,1,100.0,True
+778437,Los Angeles Angels,10,Cleveland Guardians,4,1,1,88.98,True
+778443,Boston Red Sox,0,St. Louis Cardinals,0,0,0,31.51,True
+778429,Washington Nationals,5,Arizona Diamondbacks,4,1,1,100.0,True
+778432,Boston Red Sox,18,St. Louis Cardinals,7,1,1,100.0,True
+778434,Philadelphia Phillies,8,Los Angeles Dodgers,7,1,1,100.0,True
+778428,Pittsburgh Pirates,5,New York Yankees,4,1,1,90.83,True
+778435,New York Mets,2,Toronto Blue Jays,1,1,1,100.0,True
+778433,Detroit Tigers,4,Chicago White Sox,3,1,1,100.0,True
+778422,Kansas City Royals,4,Baltimore Orioles,1,1,1,98.0,True
+778419,Minnesota Twins,7,Houston Astros,9,0,0,1.04,True
+778421,Milwaukee Brewers,8,Cincinnati Reds,2,1,1,99.67,True
+778430,Chicago Cubs,7,San Diego Padres,8,0,0,0.07,True
+778420,Texas Rangers,4,Tampa Bay Rays,3,1,1,100.0,True
+778427,San Francisco Giants,5,Seattle Mariners,4,1,1,100.0,True
+778431,Atlanta Braves,0,Miami Marlins,0,0,0,6.59,True
+778424,Detroit Tigers,6,New York Yankees,2,1,1,100.0,True
+778415,Pittsburgh Pirates,8,St. Louis Cardinals,4,1,1,100.0,True
+778418,Washington Nationals,6,Los Angeles Dodgers,4,1,1,100.0,True
+778426,Boston Red Sox,2,Toronto Blue Jays,6,0,0,0.09,True
+778416,New York Mets,2,Miami Marlins,0,1,1,100.0,True
+778411,Chicago Cubs,7,Texas Rangers,0,1,1,99.81,True
+778412,Kansas City Royals,4,Minnesota Twins,2,1,1,100.0,True
+778413,Arizona Diamondbacks,1,Baltimore Orioles,5,0,0,0.02,True
+778405,Seattle Mariners,4,Houston Astros,3,1,1,99.82,True
+778410,San Francisco Giants,0,Cincinnati Reds,2,0,0,0.03,True
+778403,Detroit Tigers,5,New York Yankees,0,1,1,100.0,True
+778402,Cleveland Guardians,1,Chicago White Sox,0,1,1,100.0,True
+778407,New York Mets,10,Miami Marlins,5,1,1,100.0,True
+778408,Pittsburgh Pirates,3,St. Louis Cardinals,5,0,0,0.2,True
+778409,Washington Nationals,8,Los Angeles Dodgers,2,1,1,100.0,True
+778404,Boston Red Sox,1,Toronto Blue Jays,6,0,0,0.17,True
+778417,Tampa Bay Rays,3,Los Angeles Angels,4,0,0,0.0,True
+778406,Atlanta Braves,7,Philadelphia Phillies,5,1,1,99.93,True
+778401,Chicago Cubs,10,Texas Rangers,6,1,1,100.0,True
+778400,Kansas City Royals,2,Minnesota Twins,1,1,1,100.0,True
+778394,Colorado Rockies,1,Milwaukee Brewers,7,0,0,0.0,True
+778396,Arizona Diamondbacks,4,Baltimore Orioles,3,1,1,96.88,True
+778398,Seattle Mariners,1,Houston Astros,2,0,0,0.82,True
+778397,San Francisco Giants,0,Cincinnati Reds,1,0,0,0.0,True
+778389,Pittsburgh Pirates,2,St. Louis Cardinals,1,1,1,99.51,True
+778390,New York Mets,0,Miami Marlins,5,0,0,0.36,True
+778387,Detroit Tigers,3,New York Yankees,4,0,0,0.0,True
+778385,Chicago Cubs,2,Texas Rangers,6,0,0,0.62,True
+778380,Arizona Diamondbacks,9,Baltimore Orioles,0,1,1,99.89,True
+778376,San Francisco Giants,8,Cincinnati Reds,6,1,1,99.98,True
+778392,Washington Nationals,5,Los Angeles Dodgers,6,0,0,0.24,True
+778391,Cleveland Guardians,3,Chicago White Sox,2,1,1,100.0,True
+778386,Boston Red Sox,1,Toronto Blue Jays,2,0,0,0.0,True
+778399,Tampa Bay Rays,5,Los Angeles Angels,4,1,1,100.0,True
+778393,Atlanta Braves,3,Philadelphia Phillies,4,0,0,6.54,True
+778388,Kansas City Royals,0,Minnesota Twins,4,0,0,0.21,True
+778379,Colorado Rockies,2,Milwaukee Brewers,17,0,0,0.0,True
+778382,Tampa Bay Rays,1,Los Angeles Angels,11,0,0,0.21,True
+778378,Cleveland Guardians,6,Chicago White Sox,1,1,1,100.0,True
+778373,Kansas City Royals,3,Minnesota Twins,2,1,1,97.07,True
+778371,Colorado Rockies,7,Milwaukee Brewers,2,1,1,100.0,True
+778377,Boston Red Sox,4,Toronto Blue Jays,3,1,1,100.0,True
+778384,Atlanta Braves,4,Philadelphia Phillies,2,1,1,99.93,True
+778375,Cleveland Guardians,7,Kansas City Royals,0,1,1,100.0,True
+778374,Cincinnati Reds,5,Pittsburgh Pirates,3,1,1,100.0,True
+778367,Tampa Bay Rays,6,Atlanta Braves,3,1,1,99.34,True
+778370,New York Yankees,1,San Francisco Giants,9,0,0,0.0,True
+778369,Miami Marlins,4,Washington Nationals,7,0,0,6.54,True
+778366,Chicago White Sox,11,Boston Red Sox,1,1,1,97.09,True
+778368,Houston Astros,14,Los Angeles Angels,3,1,1,100.0,True
+778363,Minnesota Twins,6,Detroit Tigers,7,0,0,0.23,True
+778365,St. Louis Cardinals,2,Philadelphia Phillies,0,1,1,99.35,True
+778361,San Diego Padres,8,Colorado Rockies,0,1,1,100.0,True
+778360,Seattle Mariners,5,Texas Rangers,3,1,1,100.0,True
+778356,Los Angeles Dodgers,3,Chicago Cubs,0,1,1,100.0,True
+778372,Baltimore Orioles,0,Toronto Blue Jays,0,0,0,1.88,True
+778348,Minnesota Twins,0,Detroit Tigers,4,0,0,0.02,True
+778347,St. Louis Cardinals,1,Philadelphia Phillies,4,0,0,0.05,True
+778355,New York Yankees,8,San Francisco Giants,4,1,1,100.0,True
+778362,Baltimore Orioles,5,Toronto Blue Jays,4,1,1,99.99,True
+778353,Tampa Bay Rays,4,Atlanta Braves,5,0,0,2.8,True
+778349,Chicago White Sox,3,Boston Red Sox,2,1,1,100.0,True
+778354,Miami Marlins,7,Washington Nationals,6,1,1,99.96,True
+778357,Cincinnati Reds,5,Pittsburgh Pirates,2,1,1,100.0,True
+778351,Houston Astros,1,Los Angeles Angels,4,0,0,0.06,True
+778350,Arizona Diamondbacks,5,Milwaukee Brewers,4,1,1,99.98,True
+778352,San Diego Padres,2,Colorado Rockies,0,1,1,100.0,True
+778345,Los Angeles Dodgers,0,Chicago Cubs,16,0,0,0.09,True
+778341,Seattle Mariners,9,Texas Rangers,2,1,1,100.0,True
+778344,Baltimore Orioles,6,Toronto Blue Jays,7,0,0,0.31,True
+778339,New York Yankees,4,San Francisco Giants,5,0,0,0.07,True
+778342,Cleveland Guardians,2,Kansas City Royals,4,0,0,0.15,True
+778343,Cincinnati Reds,4,Pittsburgh Pirates,0,1,1,100.0,True
+778340,Tampa Bay Rays,8,Atlanta Braves,3,1,1,99.45,True
+778337,Miami Marlins,11,Washington Nationals,4,1,1,100.0,True
+778329,Houston Astros,7,Los Angeles Angels,3,1,1,100.0,True
+778335,Minnesota Twins,5,Detroit Tigers,1,1,1,100.0,True
+778338,Chicago White Sox,1,Boston Red Sox,3,0,0,0.01,True
+778336,St. Louis Cardinals,7,Philadelphia Phillies,0,1,1,87.86,True
+778330,San Diego Padres,6,Colorado Rockies,0,1,1,100.0,True
+778334,Seattle Mariners,3,Texas Rangers,1,1,1,100.0,True
+778332,Arizona Diamondbacks,5,Milwaukee Brewers,2,1,1,100.0,True
+778331,Los Angeles Dodgers,2,Chicago Cubs,4,0,0,0.02,True
+778321,Pittsburgh Pirates,10,Washington Nationals,3,1,1,100.0,True
+778320,Philadelphia Phillies,4,San Francisco Giants,10,0,0,0.1,True
+778328,Tampa Bay Rays,16,Boston Red Sox,1,1,1,99.94,True
+778327,New York Yankees,4,Kansas City Royals,1,1,1,99.98,True
+778322,Toronto Blue Jays,4,Atlanta Braves,8,0,0,0.01,True
+778324,Minnesota Twins,1,New York Mets,5,0,0,0.2,True
+778323,Milwaukee Brewers,1,Detroit Tigers,9,0,0,0.0,True
+778325,St. Louis Cardinals,8,Houston Astros,3,1,1,100.0,True
+778315,San Diego Padres,10,Chicago Cubs,4,1,1,100.0,True
+778326,Los Angeles Dodgers,5,Colorado Rockies,3,1,1,100.0,True
+778314,Pittsburgh Pirates,0,Washington Nationals,3,0,0,0.13,True
+778316,Cincinnati Reds,8,Seattle Mariners,4,1,1,100.0,True
+778318,Miami Marlins,4,Arizona Diamondbacks,10,0,0,0.0,True
+778313,Philadelphia Phillies,6,San Francisco Giants,4,1,1,98.31,True
+778317,Baltimore Orioles,3,Cleveland Guardians,6,0,0,0.93,True
+778319,Tampa Bay Rays,4,Boston Red Sox,7,0,0,0.21,True
+778312,New York Yankees,4,Kansas City Royals,2,1,1,100.0,True
+778311,Toronto Blue Jays,6,Atlanta Braves,3,1,1,96.9,True
+778307,Minnesota Twins,6,New York Mets,3,1,1,52.88,True
+778310,Milwaukee Brewers,5,Detroit Tigers,0,1,1,100.0,True
+778308,St. Louis Cardinals,0,Houston Astros,2,0,0,0.15,True
+778306,Texas Rangers,4,Los Angeles Angels,0,1,1,100.0,True
+778305,San Diego Padres,1,Chicago Cubs,2,0,0,0.52,True
+778302,Los Angeles Dodgers,6,Colorado Rockies,2,1,1,100.0,True
+778297,Toronto Blue Jays,3,Atlanta Braves,1,1,1,100.0,True
+778299,Minnesota Twins,4,New York Mets,3,1,1,99.99,True
+778295,Milwaukee Brewers,5,Detroit Tigers,1,1,1,100.0,True
+778290,St. Louis Cardinals,4,Houston Astros,1,1,1,99.92,True
+778288,San Diego Padres,4,Chicago Cubs,2,1,1,99.28,True
+778301,Baltimore Orioles,9,Cleveland Guardians,1,1,1,99.7,True
+778293,Pittsburgh Pirates,6,Washington Nationals,1,1,1,99.97,True
+778304,Cincinnati Reds,3,Seattle Mariners,5,0,0,0.03,True
+778303,Miami Marlins,2,Arizona Diamondbacks,6,0,0,0.0,True
+778296,Philadelphia Phillies,4,San Francisco Giants,11,0,0,0.01,True
+778298,Tampa Bay Rays,0,Boston Red Sox,1,0,0,0.02,True
+778300,New York Yankees,4,Kansas City Royals,3,1,1,100.0,True
+778289,Texas Rangers,3,Los Angeles Angels,1,1,1,100.0,True
+778287,Los Angeles Dodgers,8,Colorado Rockies,7,1,1,100.0,True
+778280,Pittsburgh Pirates,1,Washington Nationals,0,1,1,100.0,True
+778285,Cincinnati Reds,7,Seattle Mariners,11,0,0,0.03,True
+778279,Philadelphia Phillies,6,San Francisco Giants,4,1,1,99.99,True
+778292,Baltimore Orioles,6,Cleveland Guardians,2,1,1,100.0,True
+778286,Detroit Tigers,6,Kansas City Royals,1,1,1,100.0,True
+778282,Tampa Bay Rays,3,New York Yankees,6,0,0,0.0,True
+778278,New York Mets,4,St. Louis Cardinals,1,1,1,100.0,True
+778281,Texas Rangers,5,Los Angeles Angels,3,1,1,100.0,True
+778268,Chicago Cubs,13,Arizona Diamondbacks,11,1,1,100.0,True
+778277,Detroit Tigers,7,Kansas City Royals,3,1,1,100.0,True
+778274,Philadelphia Phillies,7,Miami Marlins,2,1,1,100.0,True
+778276,Baltimore Orioles,3,Cincinnati Reds,8,0,0,0.08,True
+778272,Tampa Bay Rays,0,New York Yankees,1,0,0,0.0,True
+778273,Toronto Blue Jays,3,Seattle Mariners,1,1,1,100.0,True
+778270,New York Mets,5,St. Louis Cardinals,4,1,1,100.0,True
+778275,Boston Red Sox,10,Chicago White Sox,3,1,1,100.0,True
+778284,Atlanta Braves,6,Minnesota Twins,4,1,1,91.62,True
+778263,Texas Rangers,0,Los Angeles Dodgers,3,0,0,0.02,True
+778269,Houston Astros,6,San Diego Padres,4,1,1,100.0,True
+778260,Los Angeles Angels,2,San Francisco Giants,0,1,1,100.0,True
+778266,Colorado Rockies,0,Washington Nationals,0,0,0,0.01,True
+778252,Philadelphia Phillies,11,Miami Marlins,10,1,1,100.0,True
+778265,Detroit Tigers,3,Kansas City Royals,1,1,1,100.0,True
+778257,Chicago Cubs,6,Arizona Diamondbacks,2,1,1,100.0,True
+778258,Toronto Blue Jays,4,Seattle Mariners,8,0,0,0.2,True
+778262,Baltimore Orioles,9,Cincinnati Reds,5,1,0,36.69,False
+778254,Pittsburgh Pirates,0,Cleveland Guardians,3,0,0,1.68,True
+778256,New York Mets,3,St. Louis Cardinals,0,1,1,100.0,True
+778251,Texas Rangers,4,Los Angeles Dodgers,3,1,1,99.99,True
+778247,Colorado Rockies,11,Washington Nationals,12,0,0,0.0,True
+778264,Boston Red Sox,4,Chicago White Sox,3,1,1,100.0,True
+778255,Tampa Bay Rays,10,New York Yankees,8,1,1,99.46,True
+778259,Houston Astros,3,San Diego Padres,2,1,1,100.0,True
+778267,Atlanta Braves,4,Minnesota Twins,3,1,1,100.0,True
+778243,Los Angeles Angels,2,San Francisco Giants,3,0,0,0.14,True
+778250,Baltimore Orioles,2,Cincinnati Reds,24,0,0,0.1,True
+778242,Pittsburgh Pirates,4,Cleveland Guardians,5,0,0,0.01,True
+778249,Atlanta Braves,6,Minnesota Twins,2,1,1,100.0,True
+778245,Boston Red Sox,4,Chicago White Sox,8,0,0,0.0,True
+778248,Philadelphia Phillies,5,Miami Marlins,7,0,0,0.17,True
+778241,Toronto Blue Jays,3,Seattle Mariners,8,0,0,0.0,True
+778246,Detroit Tigers,3,Kansas City Royals,4,0,0,2.26,True
+778244,New York Mets,7,St. Louis Cardinals,4,1,1,100.0,True
+778240,Tampa Bay Rays,0,New York Yankees,4,0,0,0.15,True
+778236,Chicago Cubs,2,Arizona Diamondbacks,3,0,0,0.13,True
+778234,Texas Rangers,0,Los Angeles Dodgers,1,0,0,2.5,True
+778235,Colorado Rockies,2,Washington Nationals,3,0,0,0.0,True
+778232,Los Angeles Angels,5,San Francisco Giants,4,1,1,99.99,True
+778237,Houston Astros,2,San Diego Padres,3,0,0,1.37,True
+778238,Boston Red Sox,4,Chicago White Sox,2,1,1,99.9,True
+778227,Cleveland Guardians,6,New York Yankees,4,1,1,100.0,True
+778228,Detroit Tigers,6,San Diego Padres,4,1,1,99.74,True
+778230,Miami Marlins,6,Cincinnati Reds,3,1,1,100.0,True
+778225,New York Mets,5,Philadelphia Phillies,4,1,1,100.0,True
+778233,Atlanta Braves,7,St. Louis Cardinals,6,1,1,100.0,True
+778231,Houston Astros,7,Toronto Blue Jays,0,1,1,100.0,True
+778226,San Francisco Giants,5,Milwaukee Brewers,2,1,1,99.95,True
+778218,Cleveland Guardians,3,New York Yankees,2,1,1,100.0,True
+778221,Detroit Tigers,0,San Diego Padres,2,0,0,0.14,True
+778219,Miami Marlins,4,Cincinnati Reds,3,1,1,100.0,True
+778222,Washington Nationals,7,Baltimore Orioles,0,1,1,98.58,True
+778224,Boston Red Sox,8,Seattle Mariners,3,1,1,100.0,True
+778223,New York Mets,5,Philadelphia Phillies,1,1,1,100.0,True
+778229,Atlanta Braves,4,St. Louis Cardinals,10,0,0,0.0,True
+778215,Kansas City Royals,4,Colorado Rockies,3,1,1,99.82,True
+778220,Chicago Cubs,11,Los Angeles Dodgers,10,1,1,93.22,True
+778216,Minnesota Twins,4,Chicago White Sox,2,1,1,74.18,True
+778217,Houston Astros,5,Toronto Blue Jays,1,1,1,100.0,True
+778211,Los Angeles Angels,3,Pittsburgh Pirates,9,0,0,1.77,True
+778212,Arizona Diamondbacks,5,Tampa Bay Rays,1,1,1,99.97,True
+778210,San Francisco Giants,3,Milwaukee Brewers,11,0,0,0.01,True
+778214,Atlanta Braves,4,St. Louis Cardinals,1,1,1,97.51,True
+778209,Detroit Tigers,6,San Diego Padres,0,1,1,99.95,True
+778203,New York Mets,4,Philadelphia Phillies,3,1,1,100.0,True
+778208,Miami Marlins,2,Cincinnati Reds,5,0,0,0.01,True
+778204,Washington Nationals,4,Baltimore Orioles,3,1,1,100.0,True
+778207,Boston Red Sox,5,Seattle Mariners,8,0,0,0.31,True
+778205,Chicago Cubs,7,Los Angeles Dodgers,6,1,1,100.0,True
+778200,Houston Astros,3,Toronto Blue Jays,1,1,1,100.0,True
+778201,Minnesota Twins,6,Chicago White Sox,3,1,1,100.0,True
+778202,Los Angeles Angels,0,Pittsburgh Pirates,3,0,0,0.0,True
+778198,San Francisco Giants,4,Milwaukee Brewers,2,1,1,100.0,True
+778195,Kansas City Royals,0,Colorado Rockies,0,0,0,7.95,True
+778189,Minnesota Twins,0,Chicago White Sox,3,0,0,0.02,True
+778196,Boston Red Sox,3,Seattle Mariners,4,0,0,0.0,True
+778190,Kansas City Royals,7,Colorado Rockies,4,1,1,99.96,True
+778194,San Francisco Giants,6,Milwaukee Brewers,5,1,1,100.0,True
+778193,Washington Nationals,1,Baltimore Orioles,2,0,0,1.25,True
+778191,Los Angeles Angels,4,Pittsburgh Pirates,3,1,1,99.85,True
+778188,Arizona Diamondbacks,4,Tampa Bay Rays,7,0,0,0.01,True
+778182,Chicago Cubs,4,Philadelphia Phillies,0,1,1,100.0,True
+778183,Washington Nationals,5,New York Mets,4,1,1,99.71,True
+778185,New York Yankees,2,Toronto Blue Jays,4,0,0,0.0,True
+778187,Kansas City Royals,2,Houston Astros,0,1,1,100.0,True
+778186,Minnesota Twins,11,Los Angeles Angels,4,1,1,99.99,True
+778184,St. Louis Cardinals,3,Milwaukee Brewers,2,1,1,99.99,True
+778181,Colorado Rockies,7,Cincinnati Reds,8,0,0,0.0,True
+778172,San Diego Padres,0,Tampa Bay Rays,1,0,0,0.01,True
+778177,Arizona Diamondbacks,2,Atlanta Braves,8,0,0,0.0,True
+778175,Seattle Mariners,4,Miami Marlins,8,0,0,0.03,True
+778176,Los Angeles Dodgers,0,Pittsburgh Pirates,3,0,0,0.03,True
+778171,San Francisco Giants,0,Texas Rangers,2,0,0,0.69,True
+778180,Detroit Tigers,0,Baltimore Orioles,0,0,0,1.29,True
+778179,Cleveland Guardians,0,Boston Red Sox,0,0,0,6.39,True
+778169,Cleveland Guardians,3,Boston Red Sox,7,0,0,0.0,True
+778168,Detroit Tigers,4,Baltimore Orioles,3,1,1,96.96,True
+778166,Minnesota Twins,5,Los Angeles Angels,1,1,1,100.0,True
+778164,St. Louis Cardinals,6,Milwaukee Brewers,5,1,1,100.0,True
+778161,Colorado Rockies,4,Cincinnati Reds,6,0,0,0.0,True
+778173,Washington Nationals,0,New York Mets,2,0,0,0.44,True
+778159,San Francisco Giants,3,Texas Rangers,2,1,1,97.69,True
+778174,Chicago Cubs,4,Philadelphia Phillies,10,0,0,0.0,True
+778167,Kansas City Royals,2,Houston Astros,0,1,1,100.0,True
+778162,Arizona Diamondbacks,7,Atlanta Braves,8,0,0,0.0,True
+778160,San Diego Padres,1,Tampa Bay Rays,4,0,0,0.0,True
+778163,Los Angeles Dodgers,8,Pittsburgh Pirates,4,1,1,100.0,True
+778154,Seattle Mariners,14,Miami Marlins,0,1,1,99.95,True
+778170,New York Yankees,0,Toronto Blue Jays,0,0,0,0.53,True
+778153,Washington Nationals,8,New York Mets,7,1,1,93.24,True
+778156,New York Yankees,11,Toronto Blue Jays,2,1,1,97.6,True
+778157,Cleveland Guardians,3,Boston Red Sox,13,0,0,0.05,True
+778155,Detroit Tigers,7,Baltimore Orioles,0,1,1,100.0,True
+778144,Minnesota Twins,5,Los Angeles Angels,0,1,1,100.0,True
+778152,Kansas City Royals,3,Houston Astros,7,0,0,0.49,True
+778150,St. Louis Cardinals,1,Milwaukee Brewers,7,0,0,0.02,True
+778148,Colorado Rockies,1,Cincinnati Reds,8,0,0,0.0,True
+778151,San Francisco Giants,3,Texas Rangers,2,1,1,100.0,True
+778145,Los Angeles Dodgers,9,Pittsburgh Pirates,2,1,1,100.0,True
+778146,San Diego Padres,2,Tampa Bay Rays,4,0,0,0.0,True
+778147,Arizona Diamondbacks,6,Atlanta Braves,4,1,1,85.87,True
+778136,Seattle Mariners,7,Miami Marlins,6,1,1,100.0,True
+778158,Chicago Cubs,1,Philadelphia Phillies,3,0,0,0.0,True
+778138,Washington Nationals,5,New York Mets,19,0,0,0.06,True
+778139,Cleveland Guardians,1,Minnesota Twins,11,0,0,0.04,True
+778140,Baltimore Orioles,4,New York Yankees,3,1,0,5.88,False
+778141,Cincinnati Reds,3,St. Louis Cardinals,1,1,1,100.0,True
+778142,Houston Astros,8,Detroit Tigers,5,1,1,100.0,True
+778137,Colorado Rockies,3,Atlanta Braves,6,0,0,0.0,True
+778132,Los Angeles Dodgers,7,Miami Marlins,6,1,1,100.0,True
+778129,Cleveland Guardians,2,Minnesota Twins,1,1,1,100.0,True
+778133,Baltimore Orioles,3,New York Yankees,15,0,0,0.0,True
+778135,Pittsburgh Pirates,0,Chicago Cubs,9,0,0,0.0,True
+778131,Philadelphia Phillies,7,Washington Nationals,6,1,1,100.0,True
+778128,Tampa Bay Rays,1,Kansas City Royals,3,0,0,0.19,True
+778127,Toronto Blue Jays,2,Boston Red Sox,10,0,0,0.0,True
+778125,Chicago White Sox,2,Milwaukee Brewers,7,0,0,0.0,True
+778124,Houston Astros,6,Detroit Tigers,4,1,1,100.0,True
+778120,Colorado Rockies,2,Atlanta Braves,8,0,0,0.0,True
+778121,Seattle Mariners,5,Los Angeles Angels,3,1,1,100.0,True
+778126,San Diego Padres,7,San Francisco Giants,4,1,1,99.77,True
+778134,Cincinnati Reds,0,St. Louis Cardinals,0,0,0,18.8,True
+778119,Cincinnati Reds,1,St. Louis Cardinals,9,0,0,0.0,True
+778110,Houston Astros,4,Detroit Tigers,7,0,0,2.06,True
+778102,Colorado Rockies,2,Atlanta Braves,1,1,1,98.65,True
+778109,Los Angeles Dodgers,12,Miami Marlins,7,1,1,100.0,True
+778104,Seattle Mariners,9,Los Angeles Angels,3,1,1,100.0,True
+778105,San Diego Padres,5,San Francisco Giants,3,1,1,100.0,True
+778115,Baltimore Orioles,5,New York Yankees,4,1,1,96.41,True
+778112,Pittsburgh Pirates,4,Chicago Cubs,3,1,1,99.99,True
+778118,Philadelphia Phillies,7,Washington Nationals,2,1,1,100.0,True
+778113,Tampa Bay Rays,0,Kansas City Royals,3,0,0,0.16,True
+778114,Toronto Blue Jays,7,Boston Red Sox,6,1,1,99.95,True
+778117,New York Mets,3,Arizona Diamondbacks,4,0,0,0.13,True
+778111,Chicago White Sox,4,Milwaukee Brewers,6,0,0,0.01,True
+778100,Pittsburgh Pirates,3,Chicago Cubs,8,0,0,0.31,True
+778107,Cincinnati Reds,9,St. Louis Cardinals,1,1,1,100.0,True
+778103,New York Mets,2,Arizona Diamondbacks,4,0,0,0.0,True
+778097,Tampa Bay Rays,2,Kansas City Royals,8,0,0,0.01,True
+778108,Cleveland Guardians,4,Minnesota Twins,3,1,1,100.0,True
+778094,Chicago White Sox,8,Milwaukee Brewers,0,1,1,99.45,True
+778099,Philadelphia Phillies,2,Washington Nationals,4,0,0,0.04,True
+778095,Toronto Blue Jays,4,Boston Red Sox,2,1,1,100.0,True
+778101,Los Angeles Angels,4,Detroit Tigers,10,0,0,0.01,True
+778098,San Francisco Giants,3,Colorado Rockies,4,0,0,0.0,True
+778087,Cincinnati Reds,6,Washington Nationals,1,1,1,100.0,True
+778090,Pittsburgh Pirates,4,San Diego Padres,9,0,0,0.0,True
+778086,Philadelphia Phillies,3,Arizona Diamondbacks,2,1,1,86.32,True
+778093,Baltimore Orioles,3,Kansas City Royals,0,1,1,100.0,True
+778088,New York Yankees,3,Tampa Bay Rays,0,1,1,100.0,True
+778081,Toronto Blue Jays,5,Cleveland Guardians,3,1,1,100.0,True
+778089,Boston Red Sox,6,Minnesota Twins,1,1,1,100.0,True
+778092,Atlanta Braves,1,Los Angeles Dodgers,2,0,0,0.0,True
+778079,Chicago White Sox,7,Houston Astros,3,1,1,100.0,True
+778083,Texas Rangers,1,Seattle Mariners,13,0,0,0.0,True
+778080,Milwaukee Brewers,0,Chicago Cubs,10,0,0,0.0,True
+778084,St. Louis Cardinals,3,New York Mets,9,0,0,0.05,True
+778085,Los Angeles Angels,1,Detroit Tigers,9,0,0,0.0,True
+778082,San Francisco Giants,4,Colorado Rockies,0,1,1,99.63,True
+778074,New York Yankees,2,Tampa Bay Rays,3,0,0,0.01,True
+778066,Chicago White Sox,3,Houston Astros,8,0,0,0.53,True
+778064,Toronto Blue Jays,3,Cleveland Guardians,5,0,0,1.15,True
+778065,Pittsburgh Pirates,1,San Diego Padres,2,0,0,0.0,True
+778069,San Francisco Giants,6,Colorado Rockies,3,1,1,99.99,True
+778073,Boston Red Sox,3,Minnesota Twins,4,0,0,0.23,True
+778078,Philadelphia Phillies,7,Arizona Diamondbacks,2,1,1,99.99,True
+778077,Cincinnati Reds,6,Washington Nationals,11,0,0,0.15,True
+778070,Texas Rangers,1,Seattle Mariners,2,0,0,0.0,True
+778071,Milwaukee Brewers,2,Chicago Cubs,6,0,0,0.0,True
+778072,Baltimore Orioles,0,Kansas City Royals,4,0,0,1.2,True
+778076,Atlanta Braves,3,Los Angeles Dodgers,10,0,0,0.0,True
+778067,Los Angeles Angels,5,Detroit Tigers,2,1,1,100.0,True
+778068,St. Louis Cardinals,0,New York Mets,0,0,0,0.62,True
+778053,St. Louis Cardinals,6,New York Mets,5,1,1,99.63,True
+778062,Baltimore Orioles,6,Kansas City Royals,11,0,0,0.0,True
+778051,Pittsburgh Pirates,0,San Diego Padres,4,0,0,0.0,True
+778063,Boston Red Sox,4,Minnesota Twins,5,0,0,0.45,True
+778057,New York Yankees,5,Tampa Bay Rays,7,0,0,0.0,True
+778056,Toronto Blue Jays,4,Cleveland Guardians,5,0,0,0.02,True
+778055,Chicago White Sox,5,Houston Astros,4,1,1,99.7,True
+778054,Milwaukee Brewers,4,Chicago Cubs,0,1,1,99.98,True
+778052,Texas Rangers,8,Seattle Mariners,1,1,1,99.99,True
+778048,San Francisco Giants,9,Colorado Rockies,3,1,1,100.0,True
+778050,Los Angeles Angels,1,Detroit Tigers,13,0,0,0.24,True
+778058,Cincinnati Reds,1,Washington Nationals,4,0,0,0.0,True
+778060,Atlanta Braves,4,Los Angeles Dodgers,3,1,1,99.96,True
+778047,Miami Marlins,4,Los Angeles Dodgers,7,0,0,1.57,True
+778045,New York Yankees,3,San Diego Padres,4,0,0,0.0,True
+778049,Atlanta Braves,4,Cincinnati Reds,0,1,1,100.0,True
+778044,Chicago Cubs,9,San Francisco Giants,2,1,1,99.77,True
+778043,Kansas City Royals,3,Chicago White Sox,0,1,1,100.0,True
+778042,Milwaukee Brewers,5,Houston Astros,1,1,1,100.0,True
+778036,St. Louis Cardinals,6,Pittsburgh Pirates,3,1,1,100.0,True
+778039,Arizona Diamondbacks,4,New York Mets,5,0,0,0.33,True
+778035,Miami Marlins,5,Los Angeles Dodgers,4,1,1,98.44,True
+778037,Boston Red Sox,1,Texas Rangers,6,0,0,0.06,True
+778040,Tampa Bay Rays,4,Philadelphia Phillies,8,0,0,0.23,True
+778041,New York Yankees,12,San Diego Padres,3,1,1,99.95,True
+778034,Atlanta Braves,2,Cincinnati Reds,1,1,1,100.0,True
+778027,Chicago Cubs,5,San Francisco Giants,14,0,0,0.12,True
+778028,Minnesota Twins,9,Baltimore Orioles,1,1,1,100.0,True
+778033,Kansas City Royals,4,Chicago White Sox,3,1,1,100.0,True
+778031,Milwaukee Brewers,4,Houston Astros,3,1,1,100.0,True
+778030,St. Louis Cardinals,2,Pittsburgh Pirates,1,1,1,100.0,True
+778025,Los Angeles Angels,8,Toronto Blue Jays,3,1,1,100.0,True
+778032,Arizona Diamondbacks,5,New York Mets,1,1,1,68.2,True
+778029,Colorado Rockies,0,Detroit Tigers,0,0,0,0.14,True
+778022,Washington Nationals,6,Cleveland Guardians,8,0,0,0.04,True
+778015,Milwaukee Brewers,1,Houston Astros,9,0,0,0.59,True
+778016,St. Louis Cardinals,5,Pittsburgh Pirates,0,1,1,100.0,True
+778020,Chicago Cubs,1,San Francisco Giants,3,0,0,0.0,True
+778014,Arizona Diamondbacks,1,New York Mets,7,0,0,0.18,True
+778017,Miami Marlins,1,Los Angeles Dodgers,10,0,0,1.01,True
+778018,Boston Red Sox,6,Texas Rangers,4,1,0,41.62,False
+778021,Tampa Bay Rays,0,Philadelphia Phillies,7,0,0,0.02,True
+778019,New York Yankees,4,San Diego Padres,3,1,1,100.0,True
+778023,Atlanta Braves,3,Cincinnati Reds,4,0,0,0.08,True
+778011,Minnesota Twins,5,Baltimore Orioles,2,1,1,100.0,True
+778012,Kansas City Royals,2,Chicago White Sox,1,1,1,100.0,True
+778013,Colorado Rockies,6,Detroit Tigers,8,0,0,0.0,True
+778009,Los Angeles Angels,5,Toronto Blue Jays,4,1,1,100.0,True
+778007,Minnesota Twins,5,Baltimore Orioles,2,1,1,100.0,True
+778006,Boston Red Sox,5,Texas Rangers,0,1,1,100.0,True
+778008,Kansas City Royals,10,Chicago White Sox,0,1,1,100.0,True
+778004,Colorado Rockies,2,Detroit Tigers,10,0,0,0.0,True
+778005,Tampa Bay Rays,6,Philadelphia Phillies,7,0,0,0.0,True
+778003,Atlanta Braves,5,Cincinnati Reds,4,1,1,62.93,True
+778000,Los Angeles Angels,5,Toronto Blue Jays,8,0,0,0.37,True
+777999,Arizona Diamondbacks,5,Los Angeles Dodgers,3,1,0,15.59,False
+777996,Detroit Tigers,2,Texas Rangers,1,1,1,100.0,True
+777998,Pittsburgh Pirates,3,Atlanta Braves,2,1,1,99.99,True
+777995,Washington Nationals,0,St. Louis Cardinals,10,0,0,0.0,True
+778002,Tampa Bay Rays,4,Milwaukee Brewers,3,1,1,99.97,True
+778001,New York Mets,7,Chicago Cubs,2,1,1,100.0,True
+777997,Cleveland Guardians,6,Philadelphia Phillies,0,1,1,100.0,True
+777990,Kansas City Royals,2,Boston Red Sox,1,1,1,100.0,True
+777991,Chicago White Sox,6,Miami Marlins,2,1,1,99.89,True
+777989,Houston Astros,3,Cincinnati Reds,0,1,1,100.0,True
+777992,Minnesota Twins,3,San Francisco Giants,1,1,1,100.0,True
+777993,Colorado Rockies,9,San Diego Padres,13,0,0,0.0,True
+777986,Los Angeles Angels,1,Baltimore Orioles,4,0,0,0.01,True
+777984,Seattle Mariners,3,Toronto Blue Jays,6,0,0,0.0,True
+777980,Washington Nationals,2,St. Louis Cardinals,4,0,0,0.0,True
+777985,Pittsburgh Pirates,2,Atlanta Braves,3,0,0,1.02,True
+777981,Tampa Bay Rays,3,Milwaukee Brewers,2,1,1,100.0,True
+777987,Detroit Tigers,3,Texas Rangers,10,0,0,0.01,True
+777983,Cleveland Guardians,1,Philadelphia Phillies,7,0,0,0.25,True
+777979,Houston Astros,9,Cincinnati Reds,13,0,0,0.02,True
+777977,Kansas City Royals,1,Boston Red Sox,10,0,0,0.0,True
+777978,Chicago White Sox,1,Miami Marlins,3,0,0,0.55,True
+777982,New York Mets,5,Chicago Cubs,6,0,0,0.67,True
+777974,Minnesota Twins,2,San Francisco Giants,1,1,1,100.0,True
+777975,Arizona Diamondbacks,3,Los Angeles Dodgers,0,1,1,99.81,True
+777976,Colorado Rockies,0,San Diego Padres,21,0,0,0.0,True
+777973,Los Angeles Angels,5,Baltimore Orioles,2,1,0,0.43,False
+777970,Seattle Mariners,3,Toronto Blue Jays,6,0,0,0.0,True
+777968,New York Mets,6,Chicago Cubs,2,1,1,91.88,True
+777962,Washington Nationals,1,St. Louis Cardinals,6,0,0,0.0,True
+777967,Pittsburgh Pirates,4,Atlanta Braves,3,1,1,99.95,True
+777969,Detroit Tigers,1,Texas Rangers,6,0,0,0.01,True
+777964,Tampa Bay Rays,2,Milwaukee Brewers,4,0,0,0.07,True
+777963,Houston Astros,6,Cincinnati Reds,0,1,0,1.3,False
+777965,Kansas City Royals,1,Boston Red Sox,3,0,0,0.02,True
+777956,Minnesota Twins,7,San Francisco Giants,6,1,1,100.0,True
+777966,Chicago White Sox,4,Miami Marlins,2,1,1,100.0,True
+777955,Colorado Rockies,9,San Diego Padres,3,1,1,99.96,True
+777961,Los Angeles Angels,3,Baltimore Orioles,7,0,0,0.08,True
+777954,Arizona Diamondbacks,1,Los Angeles Dodgers,8,0,0,0.69,True
+777958,Seattle Mariners,1,Toronto Blue Jays,9,0,0,0.0,True
+777960,Cleveland Guardians,5,Milwaukee Brewers,0,1,1,99.81,True
+777951,Detroit Tigers,14,Boston Red Sox,2,1,1,99.99,True
+777953,Philadelphia Phillies,2,St. Louis Cardinals,3,0,0,0.0,True
+777950,New York Mets,4,Pittsburgh Pirates,3,1,1,100.0,True
+777959,Atlanta Braves,4,Washington Nationals,3,1,1,100.0,True
+777952,Chicago Cubs,5,Miami Marlins,2,1,1,99.98,True
+777949,Texas Rangers,2,Colorado Rockies,1,1,1,100.0,True
+777948,Houston Astros,5,Kansas City Royals,7,0,0,1.15,True
+777947,San Diego Padres,5,Los Angeles Angels,9,0,0,0.1,True
+777941,Seattle Mariners,5,New York Yankees,11,0,0,0.0,True
+777939,San Francisco Giants,1,Arizona Diamondbacks,2,0,0,0.0,True
+777944,Cleveland Guardians,2,Milwaukee Brewers,0,1,1,100.0,True
+777940,Detroit Tigers,10,Boston Red Sox,9,1,1,100.0,True
+777945,Cincinnati Reds,1,Chicago White Sox,5,0,0,0.16,True
+777935,Toronto Blue Jays,9,Tampa Bay Rays,11,0,0,0.16,True
+777943,New York Mets,2,Pittsburgh Pirates,1,1,1,100.0,True
+777942,Atlanta Braves,5,Washington Nationals,2,1,1,100.0,True
+777936,Chicago Cubs,5,Miami Marlins,4,1,1,100.0,True
+777934,Texas Rangers,4,Colorado Rockies,1,1,1,100.0,True
+777931,Houston Astros,2,Kansas City Royals,1,1,1,99.98,True
+777932,San Diego Padres,6,Los Angeles Angels,4,1,1,99.98,True
+777926,Seattle Mariners,2,New York Yankees,1,1,1,99.96,True
+777930,San Francisco Giants,10,Arizona Diamondbacks,6,1,1,99.44,True
+777938,Baltimore Orioles,0,Minnesota Twins,0,0,0,16.66,True
+777933,Philadelphia Phillies,0,St. Louis Cardinals,0,0,0,1.63,True
+777924,Baltimore Orioles,3,Minnesota Twins,6,0,0,1.06,True
+777922,Philadelphia Phillies,2,St. Louis Cardinals,1,1,1,100.0,True
+777925,Cleveland Guardians,5,Milwaukee Brewers,9,0,0,1.85,True
+777915,Seattle Mariners,2,New York Yankees,3,0,0,0.28,True
+777927,Detroit Tigers,6,Boston Red Sox,5,1,1,100.0,True
+777923,Toronto Blue Jays,3,Tampa Bay Rays,1,1,1,99.98,True
+777919,New York Mets,0,Pittsburgh Pirates,4,0,0,0.18,True
+777928,Cincinnati Reds,2,Chicago White Sox,4,0,0,0.0,True
+777929,Atlanta Braves,4,Washington Nationals,5,0,0,0.01,True
+777921,Chicago Cubs,1,Miami Marlins,3,0,0,0.59,True
+777918,Texas Rangers,8,Colorado Rockies,3,1,1,100.0,True
+777920,Houston Astros,4,Kansas City Royals,3,1,1,100.0,True
+777914,San Diego Padres,5,Los Angeles Angels,1,1,1,100.0,True
+777909,Atlanta Braves,5,Washington Nationals,2,1,1,99.99,True
+777911,Baltimore Orioles,0,Minnesota Twins,4,0,0,0.01,True
+777912,Cincinnati Reds,7,Chicago White Sox,1,1,1,99.92,True
+777913,Toronto Blue Jays,3,Tampa Bay Rays,8,0,0,0.07,True
+777910,Texas Rangers,1,Houston Astros,0,1,1,100.0,True
+777900,Chicago Cubs,13,Chicago White Sox,3,1,1,100.0,True
+777902,Cincinnati Reds,5,Cleveland Guardians,4,1,1,100.0,True
+777905,Philadelphia Phillies,8,Pittsburgh Pirates,4,1,1,99.99,True
+777907,Baltimore Orioles,3,Washington Nationals,4,0,0,0.0,True
+777904,New York Yankees,6,New York Mets,2,1,1,100.0,True
+777906,Toronto Blue Jays,4,Detroit Tigers,5,0,0,0.0,True
+777908,Boston Red Sox,2,Atlanta Braves,4,0,0,0.01,True
+777903,Miami Marlins,9,Tampa Bay Rays,4,1,1,100.0,True
+777901,Kansas City Royals,3,St. Louis Cardinals,10,0,0,0.0,True
+777895,Texas Rangers,3,Houston Astros,6,0,0,3.5,True
+777898,Milwaukee Brewers,0,Minnesota Twins,3,0,0,0.04,True
+777897,Arizona Diamondbacks,8,Colorado Rockies,0,1,1,100.0,True
+777896,San Diego Padres,1,Seattle Mariners,5,0,0,0.65,True
+777899,Los Angeles Dodgers,2,Los Angeles Angels,6,0,0,0.04,True
+777888,New York Yankees,2,New York Mets,3,0,0,0.05,True
+777881,Chicago Cubs,7,Chicago White Sox,3,1,1,100.0,True
+777886,Toronto Blue Jays,2,Detroit Tigers,1,1,1,99.97,True
+777890,Baltimore Orioles,6,Washington Nationals,10,0,0,0.0,True
+777889,Miami Marlins,0,Tampa Bay Rays,4,0,0,0.2,True
+777894,Philadelphia Phillies,5,Pittsburgh Pirates,2,1,1,100.0,True
+777892,Cincinnati Reds,4,Cleveland Guardians,1,1,1,100.0,True
+777882,Texas Rangers,5,Houston Astros,1,1,1,99.98,True
+777885,Kansas City Royals,0,St. Louis Cardinals,1,0,0,0.02,True
+777893,Boston Red Sox,7,Atlanta Braves,6,1,1,100.0,True
+777883,Milwaukee Brewers,0,Minnesota Twins,7,0,0,0.01,True
+777887,Arizona Diamondbacks,12,Colorado Rockies,14,0,0,0.01,True
+777875,San Diego Padres,1,Seattle Mariners,4,0,0,0.1,True
+777884,Los Angeles Dodgers,9,Los Angeles Angels,11,0,0,0.01,True
+777869,Texas Rangers,3,Houston Astros,4,0,0,0.82,True
+777873,Baltimore Orioles,4,Washington Nationals,10,0,0,0.0,True
+777880,Philadelphia Phillies,1,Pittsburgh Pirates,0,1,1,100.0,True
+777876,Boston Red Sox,4,Atlanta Braves,10,0,0,0.44,True
+777871,Toronto Blue Jays,2,Detroit Tigers,3,0,0,1.04,True
+777877,Miami Marlins,5,Tampa Bay Rays,1,1,1,100.0,True
+777864,Kansas City Royals,2,St. Louis Cardinals,1,1,1,99.97,True
+777865,Milwaukee Brewers,5,Minnesota Twins,2,1,1,100.0,True
+777872,Chicago Cubs,6,Chicago White Sox,2,1,1,100.0,True
+777870,Arizona Diamondbacks,1,Colorado Rockies,0,1,1,92.72,True
+777866,Los Angeles Dodgers,4,Los Angeles Angels,6,0,0,0.0,True
+777868,San Diego Padres,1,Seattle Mariners,6,0,0,0.0,True
+777878,New York Yankees,8,New York Mets,2,1,1,99.99,True
+777859,Pittsburgh Pirates,1,Cincinnati Reds,7,0,0,0.0,True
+777863,Miami Marlins,8,Chicago Cubs,7,1,1,100.0,True
+777856,Boston Red Sox,3,New York Mets,1,1,1,99.96,True
+777858,Tampa Bay Rays,3,Houston Astros,4,0,0,0.23,True
+777857,Chicago White Sox,1,Seattle Mariners,5,0,0,0.0,True
+777860,Milwaukee Brewers,5,Baltimore Orioles,4,1,1,100.0,True
+777862,St. Louis Cardinals,11,Detroit Tigers,4,1,1,98.63,True
+777852,Colorado Rockies,3,Philadelphia Phillies,9,0,0,0.0,True
+777855,San Francisco Giants,1,Kansas City Royals,3,0,0,0.46,True
+777854,Los Angeles Dodgers,5,Arizona Diamondbacks,9,0,0,0.0,True
+777847,Pittsburgh Pirates,1,Cincinnati Reds,0,1,1,100.0,True
+777850,Miami Marlins,1,Chicago Cubs,14,0,0,1.42,True
+777851,Boston Red Sox,2,New York Mets,0,1,1,100.0,True
+777841,Washington Nationals,5,Atlanta Braves,3,1,1,100.0,True
+777848,Tampa Bay Rays,3,Houston Astros,2,1,1,88.91,True
+777849,New York Yankees,5,Texas Rangers,2,1,1,100.0,True
+777845,Toronto Blue Jays,3,San Diego Padres,0,1,1,100.0,True
+777846,Chicago White Sox,1,Seattle Mariners,0,1,1,100.0,True
+777844,Milwaukee Brewers,5,Baltimore Orioles,2,1,1,100.0,True
+777840,St. Louis Cardinals,4,Detroit Tigers,5,0,0,0.01,True
+777842,Colorado Rockies,4,Philadelphia Phillies,7,0,0,0.0,True
+777836,San Francisco Giants,3,Kansas City Royals,2,1,1,99.78,True
+777838,Los Angeles Dodgers,4,Arizona Diamondbacks,3,1,1,100.0,True
+777839,Minnesota Twins,0,Cleveland Guardians,0,0,0,10.57,True
+777834,Pittsburgh Pirates,3,Cincinnati Reds,1,1,1,100.0,True
+777832,Tampa Bay Rays,8,Houston Astros,4,1,1,100.0,True
+777833,Miami Marlins,1,Chicago Cubs,2,0,0,0.03,True
+777826,Milwaukee Brewers,4,Baltimore Orioles,8,0,0,0.42,True
+777827,St. Louis Cardinals,1,Detroit Tigers,5,0,0,0.13,True
+777830,Chicago White Sox,5,Seattle Mariners,6,0,0,1.42,True
+777819,San Francisco Giants,4,Kansas City Royals,8,0,0,1.87,True
+777829,Minnesota Twins,1,Cleveland Guardians,5,0,0,0.01,True
+777831,Boston Red Sox,1,New York Mets,5,0,0,0.92,True
+777835,New York Yankees,4,Texas Rangers,3,1,1,100.0,True
+777837,Toronto Blue Jays,14,San Diego Padres,0,1,1,100.0,True
+777823,Colorado Rockies,5,Philadelphia Phillies,9,0,0,0.0,True
+777824,Los Angeles Dodgers,3,Arizona Diamondbacks,1,1,1,100.0,True
+777825,Washington Nationals,0,Atlanta Braves,0,0,0,1.96,True
+777818,New York Yankees,1,Texas Rangers,0,1,1,100.0,True
+777816,Toronto Blue Jays,7,San Diego Padres,6,1,1,100.0,True
+777817,Colorado Rockies,0,Philadelphia Phillies,2,0,0,0.0,True
+777821,Detroit Tigers,0,Cleveland Guardians,7,0,0,0.01,True
+777814,Pittsburgh Pirates,5,Milwaukee Brewers,8,0,0,0.24,True
+777820,Washington Nationals,8,Atlanta Braves,7,1,1,99.7,True
+777822,Houston Astros,9,Seattle Mariners,2,1,1,99.97,True
+777815,Boston Red Sox,0,Baltimore Orioles,0,0,0,2.03,True
+777811,Cincinnati Reds,6,Chicago Cubs,13,0,0,0.0,True
+777806,Pittsburgh Pirates,6,Milwaukee Brewers,5,1,1,99.98,True
+777801,Washington Nationals,0,San Francisco Giants,4,0,0,0.41,True
+777810,Tampa Bay Rays,3,Toronto Blue Jays,1,1,1,100.0,True
+777807,Detroit Tigers,1,Cleveland Guardians,3,0,0,0.0,True
+777808,New York Mets,5,Los Angeles Dodgers,7,0,0,0.08,True
+777813,Atlanta Braves,1,San Diego Padres,2,0,0,0.0,True
+777805,Chicago White Sox,4,Texas Rangers,1,1,1,100.0,True
+777800,Houston Astros,3,Seattle Mariners,5,0,0,0.22,True
+777799,Minnesota Twins,3,Kansas City Royals,1,1,1,99.94,True
+777797,St. Louis Cardinals,4,Arizona Diamondbacks,3,1,1,100.0,True
+777802,Colorado Rockies,3,New York Yankees,2,1,1,88.53,True
+777798,Los Angeles Angels,7,Miami Marlins,4,1,1,100.0,True
+777790,Boston Red Sox,1,Baltimore Orioles,2,0,0,0.98,True
+777788,Minnesota Twins,5,Kansas City Royals,4,1,1,100.0,True
+777786,St. Louis Cardinals,6,Arizona Diamondbacks,5,1,1,100.0,True
+777793,Washington Nationals,3,San Francisco Giants,0,1,1,77.33,True
+777794,Pittsburgh Pirates,2,Milwaukee Brewers,1,1,1,100.0,True
+777791,Cincinnati Reds,6,Chicago Cubs,4,1,1,100.0,True
+777787,Houston Astros,2,Seattle Mariners,1,1,1,99.89,True
+777803,Atlanta Braves,7,San Diego Padres,1,1,1,99.85,True
+777792,Chicago White Sox,10,Texas Rangers,5,1,1,100.0,True
+777782,Colorado Rockies,1,New York Yankees,13,0,0,0.01,True
+777795,Tampa Bay Rays,3,Toronto Blue Jays,1,1,1,100.0,True
+777789,New York Mets,5,Los Angeles Dodgers,2,1,0,30.57,False
+777781,Los Angeles Angels,2,Miami Marlins,6,0,0,0.22,True
+777780,Detroit Tigers,5,Cleveland Guardians,0,1,1,100.0,True
+777785,Boston Red Sox,1,Baltimore Orioles,5,0,0,0.01,True
+777778,Washington Nationals,2,San Francisco Giants,3,0,0,0.02,True
+777776,Pittsburgh Pirates,5,Milwaukee Brewers,6,0,0,0.58,True
+777779,Cincinnati Reds,8,Chicago Cubs,11,0,0,0.01,True
+777775,Tampa Bay Rays,13,Toronto Blue Jays,0,1,1,100.0,True
+777774,Houston Astros,5,Seattle Mariners,3,1,1,100.0,True
+777772,Minnesota Twins,1,Kansas City Royals,2,0,0,0.41,True
+777777,Chicago White Sox,4,Texas Rangers,5,0,0,0.12,True
+777766,St. Louis Cardinals,4,Arizona Diamondbacks,3,1,1,100.0,True
+777768,Colorado Rockies,4,New York Yankees,5,0,0,0.0,True
+777767,Los Angeles Angels,0,Miami Marlins,3,0,0,0.0,True
+777783,Atlanta Braves,3,San Diego Padres,5,0,0,0.01,True
+777773,New York Mets,3,Los Angeles Dodgers,1,1,1,100.0,True
+777770,Detroit Tigers,3,San Francisco Giants,1,1,1,100.0,True
+777764,Milwaukee Brewers,3,Boston Red Sox,2,1,1,99.98,True
+777757,Chicago Cubs,3,Colorado Rockies,1,1,1,100.0,True
+777771,Baltimore Orioles,5,St. Louis Cardinals,2,1,1,100.0,True
+777759,Texas Rangers,1,Toronto Blue Jays,2,0,0,1.36,True
+777760,Kansas City Royals,4,Cincinnati Reds,7,0,1,75.0,False
+777758,New York Mets,2,Chicago White Sox,1,1,1,100.0,True
+777769,Cleveland Guardians,2,Los Angeles Dodgers,7,0,0,0.27,True
+777762,Tampa Bay Rays,7,Minnesota Twins,2,1,1,100.0,True
+777761,Arizona Diamondbacks,5,Pittsburgh Pirates,0,1,1,99.99,True
+777756,San Diego Padres,4,Miami Marlins,3,1,1,100.0,True
+777763,Los Angeles Angels,1,New York Yankees,5,0,0,0.0,True
+777753,Cleveland Guardians,5,Los Angeles Dodgers,9,0,0,0.0,True
+777754,Baltimore Orioles,4,St. Louis Cardinals,7,0,0,0.3,True
+777755,Detroit Tigers,3,San Francisco Giants,1,1,1,100.0,True
+777748,Philadelphia Phillies,2,Atlanta Braves,0,1,1,99.62,True
+777746,Tampa Bay Rays,2,Minnesota Twins,4,0,0,0.0,True
+777749,New York Mets,6,Chicago White Sox,4,1,1,100.0,True
+777750,Kansas City Royals,2,Cincinnati Reds,7,0,0,0.03,True
+777747,Milwaukee Brewers,5,Boston Red Sox,1,1,1,100.0,True
+777751,Chicago Cubs,4,Colorado Rockies,3,1,1,100.0,True
+777741,Texas Rangers,2,Toronto Blue Jays,0,1,1,100.0,True
+777745,Los Angeles Angels,2,New York Yankees,3,0,0,0.0,True
+777744,Arizona Diamondbacks,6,Pittsburgh Pirates,9,0,0,4.24,True
+777743,Seattle Mariners,9,Washington Nationals,1,1,1,100.0,True
+777742,San Diego Padres,8,Miami Marlins,6,1,1,100.0,True
+777739,Cleveland Guardians,7,Los Angeles Dodgers,4,1,1,99.87,True
+777738,Detroit Tigers,4,San Francisco Giants,3,1,1,100.0,True
+777732,Tampa Bay Rays,5,Minnesota Twins,0,1,1,99.95,True
+777737,New York Mets,4,Chicago White Sox,9,0,1,98.3,False
+777736,Milwaukee Brewers,6,Boston Red Sox,5,1,1,100.0,True
+777729,Arizona Diamondbacks,1,Pittsburgh Pirates,10,0,0,0.01,True
+777726,San Diego Padres,8,Miami Marlins,10,0,0,0.01,True
+777740,Baltimore Orioles,4,St. Louis Cardinals,6,0,0,0.26,True
+777733,Kansas City Royals,3,Cincinnati Reds,2,1,1,99.78,True
+777731,Chicago Cubs,2,Colorado Rockies,1,1,1,100.0,True
+777724,Texas Rangers,0,Toronto Blue Jays,2,0,0,14.9,True
+777728,Los Angeles Angels,0,New York Yankees,1,0,0,0.0,True
+777730,Seattle Mariners,0,Washington Nationals,9,0,0,0.04,True
+777735,Philadelphia Phillies,0,Atlanta Braves,0,0,0,5.12,True
+777723,Philadelphia Phillies,3,Atlanta Braves,9,0,0,0.01,True
+777725,Houston Astros,3,Tampa Bay Rays,13,0,0,0.01,True
+777722,Seattle Mariners,3,Washington Nationals,9,0,0,0.0,True
+777712,Chicago Cubs,2,Cincinnati Reds,6,0,0,0.01,True
+777720,Baltimore Orioles,2,Chicago White Sox,1,1,1,61.58,True
+777715,Philadelphia Phillies,2,Milwaukee Brewers,6,0,0,0.0,True
+777718,New York Mets,4,Colorado Rockies,2,1,1,100.0,True
+777717,Miami Marlins,0,San Francisco Giants,2,0,0,0.15,True
+777719,Atlanta Braves,1,Boston Red Sox,5,0,0,0.06,True
+777709,Texas Rangers,11,St. Louis Cardinals,1,1,1,100.0,True
+777711,Kansas City Royals,5,Detroit Tigers,7,0,0,0.0,True
+777714,Houston Astros,2,Tampa Bay Rays,1,1,1,100.0,True
+777710,Arizona Diamondbacks,7,Washington Nationals,9,0,0,0.02,True
+777707,San Diego Padres,3,Pittsburgh Pirates,2,1,1,99.92,True
+777713,Seattle Mariners,6,Minnesota Twins,12,0,0,0.06,True
+777708,Los Angeles Dodgers,8,New York Yankees,5,1,1,99.3,True
+777704,Chicago Cubs,2,Cincinnati Reds,0,1,1,99.97,True
+777697,Texas Rangers,0,St. Louis Cardinals,2,0,0,0.15,True
+777699,Baltimore Orioles,4,Chicago White Sox,2,1,1,100.0,True
+777702,Philadelphia Phillies,7,Milwaukee Brewers,17,0,0,0.0,True
+777703,Cleveland Guardians,7,Los Angeles Angels,5,1,1,98.63,True
+777694,Kansas City Royals,1,Detroit Tigers,0,1,1,99.68,True
+777700,New York Mets,8,Colorado Rockies,2,1,1,100.0,True
+777693,Houston Astros,3,Tampa Bay Rays,16,0,0,0.11,True
+777706,Atlanta Braves,5,Boston Red Sox,0,1,1,98.48,True
+777705,Miami Marlins,1,San Francisco Giants,0,1,1,99.96,True
+777695,Seattle Mariners,5,Minnesota Twins,4,1,1,99.79,True
+777698,Los Angeles Dodgers,18,New York Yankees,2,1,1,100.0,True
+777691,San Diego Padres,0,Pittsburgh Pirates,5,0,0,0.5,True
+777696,Arizona Diamondbacks,7,Washington Nationals,11,0,0,0.0,True
+777678,Texas Rangers,8,St. Louis Cardinals,1,1,1,100.0,True
+777692,Atlanta Braves,1,Boston Red Sox,3,0,0,0.0,True
+777684,Baltimore Orioles,3,Chicago White Sox,2,1,1,100.0,True
+777688,Philadelphia Phillies,2,Milwaukee Brewers,5,0,0,0.0,True
+777683,Cleveland Guardians,4,Los Angeles Angels,2,1,1,100.0,True
+777686,New York Mets,5,Colorado Rockies,3,1,1,100.0,True
+777689,Miami Marlins,2,San Francisco Giants,4,0,0,0.46,True
+777677,Kansas City Royals,0,Detroit Tigers,1,0,0,3.2,True
+777690,Houston Astros,1,Tampa Bay Rays,0,1,1,100.0,True
+777687,Chicago Cubs,7,Cincinnati Reds,3,1,1,100.0,True
+777679,Arizona Diamondbacks,3,Washington Nationals,1,1,1,100.0,True
+777680,Seattle Mariners,2,Minnesota Twins,1,1,1,100.0,True
+777681,San Diego Padres,6,Pittsburgh Pirates,4,1,1,99.66,True
+777682,Los Angeles Dodgers,3,New York Yankees,7,0,0,1.45,True
+777673,Miami Marlins,4,Colorado Rockies,6,0,0,0.1,True
+777670,Boston Red Sox,6,Los Angeles Angels,7,0,0,0.01,True
+777671,Cincinnati Reds,2,Milwaukee Brewers,3,0,0,0.0,True
+777674,Chicago White Sox,1,Detroit Tigers,13,0,0,0.0,True
+777676,San Francisco Giants,0,San Diego Padres,1,0,0,10.49,True
+777675,Los Angeles Dodgers,3,New York Mets,4,0,0,0.0,True
+777663,Pittsburgh Pirates,0,Houston Astros,3,0,0,2.38,True
+777666,Miami Marlins,2,Colorado Rockies,3,0,0,0.0,True
+777659,Washington Nationals,3,Chicago Cubs,8,0,0,0.0,True
+777664,New York Yankees,3,Cleveland Guardians,2,1,1,100.0,True
+777665,Toronto Blue Jays,3,Philadelphia Phillies,8,0,0,0.0,True
+777667,Boston Red Sox,3,Los Angeles Angels,4,0,0,0.02,True
+777668,Cincinnati Reds,4,Milwaukee Brewers,2,1,1,100.0,True
+777672,Atlanta Braves,3,Arizona Diamondbacks,8,0,0,0.0,True
+777662,Tampa Bay Rays,5,Texas Rangers,1,1,1,100.0,True
+777661,Chicago White Sox,8,Detroit Tigers,1,1,1,100.0,True
+777660,St. Louis Cardinals,7,Kansas City Royals,10,0,0,0.14,True
+777655,Seattle Mariners,1,Baltimore Orioles,5,0,0,0.0,True
+777656,San Francisco Giants,2,San Diego Padres,3,0,0,0.72,True
+777657,Los Angeles Dodgers,6,New York Mets,5,1,1,99.99,True
+777652,Miami Marlins,2,Colorado Rockies,3,0,0,0.0,True
+777647,Cincinnati Reds,1,Milwaukee Brewers,9,0,0,1.62,True
+777649,Boston Red Sox,11,Los Angeles Angels,9,1,1,100.0,True
+777648,Pittsburgh Pirates,3,Houston Astros,0,1,1,99.99,True
+777650,Washington Nationals,2,Chicago Cubs,0,1,1,99.99,True
+777651,Toronto Blue Jays,2,Philadelphia Phillies,1,1,1,88.75,True
+777654,Atlanta Braves,1,Arizona Diamondbacks,2,0,0,0.01,True
+777646,Tampa Bay Rays,5,Texas Rangers,4,1,1,100.0,True
+777639,Chicago White Sox,4,Detroit Tigers,5,0,0,0.01,True
+777645,Seattle Mariners,2,Baltimore Orioles,3,0,0,0.0,True
+777641,San Francisco Giants,6,San Diego Padres,5,1,1,100.0,True
+777638,Los Angeles Dodgers,1,New York Mets,6,0,0,0.42,True
+777642,St. Louis Cardinals,0,Kansas City Royals,0,0,0,2.19,True
+777640,Atlanta Braves,10,Arizona Diamondbacks,11,0,0,0.0,True
+777635,St. Louis Cardinals,5,Kansas City Royals,7,0,0,0.46,True
+777634,Chicago White Sox,3,Detroit Tigers,2,1,1,100.0,True
+777637,Toronto Blue Jays,9,Philadelphia Phillies,1,1,1,100.0,True
+777628,Seattle Mariners,3,Baltimore Orioles,4,0,0,0.0,True
+777633,San Francisco Giants,3,San Diego Padres,2,1,1,100.0,True
+777631,Los Angeles Dodgers,6,New York Mets,5,1,1,99.99,True
+777630,Pittsburgh Pirates,2,Houston Astros,8,0,0,0.18,True
+777632,Washington Nationals,1,Chicago Cubs,7,0,0,0.18,True
+777644,New York Yankees,4,Cleveland Guardians,0,1,1,99.95,True
+777629,Tampa Bay Rays,4,Texas Rangers,3,1,1,100.0,True
+777625,Tampa Bay Rays,4,Miami Marlins,3,1,1,100.0,True
+777621,Pittsburgh Pirates,5,Philadelphia Phillies,4,1,1,95.2,True
+777624,Washington Nationals,2,Texas Rangers,0,1,1,100.0,True
+777627,New York Yankees,9,Boston Red Sox,6,1,1,100.0,True
+777626,Detroit Tigers,3,Chicago Cubs,1,1,1,100.0,True
+777622,Cleveland Guardians,2,Houston Astros,4,0,0,0.44,True
+777618,Chicago White Sox,7,Kansas City Royals,2,1,1,100.0,True
+777615,Minnesota Twins,4,Toronto Blue Jays,6,0,0,0.02,True
+777617,Milwaukee Brewers,0,San Diego Padres,2,0,0,0.75,True
+777620,St. Louis Cardinals,5,Los Angeles Dodgers,0,1,1,99.76,True
+777616,Colorado Rockies,2,New York Mets,4,0,0,0.05,True
+777614,Los Angeles Angels,5,Seattle Mariners,4,1,1,99.95,True
+777619,San Francisco Giants,5,Atlanta Braves,4,1,1,100.0,True
+777609,Detroit Tigers,1,Chicago Cubs,6,0,0,0.01,True
+777600,Minnesota Twins,4,Toronto Blue Jays,5,0,0,0.0,True
+777601,St. Louis Cardinals,2,Los Angeles Dodgers,1,1,1,99.98,True
+777610,Washington Nationals,0,Texas Rangers,5,0,0,0.01,True
+777607,Pittsburgh Pirates,2,Philadelphia Phillies,1,1,1,100.0,True
+777598,San Francisco Giants,3,Atlanta Braves,2,1,1,100.0,True
+777612,Cincinnati Reds,13,Arizona Diamondbacks,1,1,1,100.0,True
+777608,Cleveland Guardians,3,Houston Astros,5,0,0,0.06,True
+777606,Chicago White Sox,4,Kansas City Royals,1,1,1,100.0,True
+777611,Tampa Bay Rays,10,Miami Marlins,11,0,0,0.04,True
+777605,New York Yankees,7,Boston Red Sox,10,0,0,0.0,True
+777597,Milwaukee Brewers,4,San Diego Padres,3,1,1,99.98,True
+777603,Los Angeles Angels,8,Seattle Mariners,6,1,1,100.0,True
+777604,Colorado Rockies,1,New York Mets,8,0,0,0.0,True
+777592,Tampa Bay Rays,3,Miami Marlins,2,1,1,97.94,True
+777586,Milwaukee Brewers,0,San Diego Padres,1,0,0,4.07,True
+777596,Washington Nationals,2,Texas Rangers,4,0,0,0.0,True
+777595,Pittsburgh Pirates,2,Philadelphia Phillies,1,1,1,100.0,True
+777602,Cincinnati Reds,4,Arizona Diamondbacks,2,1,1,100.0,True
+777594,Detroit Tigers,4,Chicago Cubs,0,1,1,99.69,True
+777591,Cleveland Guardians,4,Houston Astros,2,1,1,99.83,True
+777585,Minnesota Twins,6,Toronto Blue Jays,3,1,1,99.98,True
+777590,Chicago White Sox,5,Kansas City Royals,7,0,0,1.3,True
+777582,St. Louis Cardinals,3,Los Angeles Dodgers,7,0,0,0.04,True
+777583,Colorado Rockies,5,New York Mets,13,0,0,0.0,True
+777587,San Francisco Giants,4,Atlanta Braves,3,1,1,100.0,True
+777589,Los Angeles Angels,2,Seattle Mariners,3,0,0,0.01,True
+777593,New York Yankees,7,Boston Red Sox,11,0,0,0.05,True
+777574,Pittsburgh Pirates,10,Miami Marlins,3,1,1,100.0,True
+777578,Philadelphia Phillies,4,Chicago Cubs,3,1,1,100.0,True
+777584,Boston Red Sox,8,Tampa Bay Rays,10,0,0,0.15,True
+777575,Milwaukee Brewers,1,Atlanta Braves,7,0,0,0.0,True
+777581,St. Louis Cardinals,4,Toronto Blue Jays,5,0,0,0.26,True
+777579,San Diego Padres,7,Los Angeles Dodgers,8,0,0,0.36,True
+777577,Arizona Diamondbacks,8,Seattle Mariners,4,1,0,44.96,False
+777573,Baltimore Orioles,3,Detroit Tigers,5,0,0,0.0,True
+777569,Cleveland Guardians,0,Cincinnati Reds,1,0,0,0.0,True
+777566,Pittsburgh Pirates,2,Miami Marlins,3,0,0,0.01,True
+777571,Philadelphia Phillies,4,Chicago Cubs,8,0,0,0.01,True
+777570,New York Mets,5,Washington Nationals,4,1,1,100.0,True
+777565,Boston Red Sox,3,Tampa Bay Rays,1,1,1,100.0,True
+777557,Minnesota Twins,4,Texas Rangers,16,0,0,0.11,True
+777572,Kansas City Royals,2,New York Yankees,10,0,0,0.33,True
+777568,Milwaukee Brewers,4,Atlanta Braves,1,1,1,89.47,True
+777558,St. Louis Cardinals,9,Toronto Blue Jays,10,0,0,0.0,True
+777567,Houston Astros,2,Chicago White Sox,4,0,0,0.03,True
+777563,Colorado Rockies,5,San Francisco Giants,6,0,0,0.0,True
+777560,San Diego Padres,11,Los Angeles Dodgers,1,1,1,99.07,True
+777559,Arizona Diamondbacks,10,Seattle Mariners,3,1,1,97.69,True
+777552,Pittsburgh Pirates,5,Miami Marlins,2,1,1,95.68,True
+777553,Philadelphia Phillies,7,Chicago Cubs,2,1,1,99.32,True
+777549,Cleveland Guardians,11,Cincinnati Reds,2,1,1,99.99,True
+777554,Milwaukee Brewers,2,Atlanta Braves,6,0,0,0.0,True
+777545,St. Louis Cardinals,2,Toronto Blue Jays,5,0,0,0.0,True
+777543,San Diego Padres,2,Los Angeles Dodgers,5,0,0,2.9,True
+777562,Baltimore Orioles,10,Detroit Tigers,1,1,1,61.73,True
+777555,New York Mets,5,Washington Nationals,0,1,1,100.0,True
+777561,Boston Red Sox,4,Tampa Bay Rays,3,1,1,100.0,True
+777556,Minnesota Twins,6,Texas Rangers,2,1,1,77.75,True
+777551,Kansas City Royals,3,New York Yankees,6,0,0,0.26,True
+777550,Houston Astros,10,Chicago White Sox,2,1,1,99.99,True
+777547,Colorado Rockies,7,San Francisco Giants,10,0,0,0.0,True
+777544,New York Mets,4,Washington Nationals,3,1,1,100.0,True
+777533,Minnesota Twins,3,Texas Rangers,16,0,0,0.15,True
+777534,Colorado Rockies,8,San Francisco Giants,7,1,1,100.0,True
+777540,Baltimore Orioles,1,Detroit Tigers,4,0,0,0.01,True
+777536,Kansas City Royals,0,New York Yankees,1,0,0,0.0,True
+777532,Milwaukee Brewers,6,St. Louis Cardinals,0,1,1,100.0,True
+777541,Chicago Cubs,3,Pittsburgh Pirates,2,1,1,100.0,True
+777546,Houston Astros,4,Chicago White Sox,3,1,1,100.0,True
+777526,Chicago Cubs,1,Pittsburgh Pirates,2,0,0,0.08,True
+777531,Philadelphia Phillies,8,Toronto Blue Jays,0,1,1,100.0,True
+777530,Washington Nationals,9,Miami Marlins,11,0,0,0.0,True
+777539,Baltimore Orioles,2,Los Angeles Angels,0,1,1,100.0,True
+777538,Detroit Tigers,11,Cincinnati Reds,5,1,1,100.0,True
+777528,New York Mets,5,Tampa Bay Rays,7,0,0,0.04,True
+777537,Boston Red Sox,2,New York Yankees,1,1,1,100.0,True
+777535,Atlanta Braves,12,Colorado Rockies,4,1,1,100.0,True
+777524,Texas Rangers,3,Chicago White Sox,1,1,1,100.0,True
+777527,Houston Astros,10,Minnesota Twins,3,1,1,100.0,True
+777525,Milwaukee Brewers,3,St. Louis Cardinals,2,1,1,100.0,True
+777521,Arizona Diamondbacks,5,San Diego Padres,1,1,1,100.0,True
+777520,Seattle Mariners,7,Cleveland Guardians,2,1,1,99.99,True
+777522,Los Angeles Dodgers,2,San Francisco Giants,6,0,0,0.28,True
+777514,Washington Nationals,3,Miami Marlins,4,0,0,0.0,True
+777517,Detroit Tigers,1,Cincinnati Reds,11,0,0,0.05,True
+777513,Chicago Cubs,2,Pittsburgh Pirates,1,1,1,100.0,True
+777519,Baltimore Orioles,6,Los Angeles Angels,5,1,1,100.0,True
+777509,Philadelphia Phillies,3,Toronto Blue Jays,2,1,1,100.0,True
+777508,Texas Rangers,5,Chicago White Sox,4,1,1,100.0,True
+777518,New York Mets,4,Tampa Bay Rays,8,0,0,0.0,True
+777510,Houston Astros,3,Minnesota Twins,2,1,1,100.0,True
+777523,Atlanta Braves,4,Colorado Rockies,1,1,1,100.0,True
+777512,Milwaukee Brewers,5,St. Louis Cardinals,8,0,0,0.04,True
+777515,Arizona Diamondbacks,8,San Diego Padres,7,1,1,100.0,True
+777516,Boston Red Sox,4,New York Yankees,3,1,1,100.0,True
+777507,Seattle Mariners,4,Cleveland Guardians,3,1,1,100.0,True
+777506,Los Angeles Dodgers,11,San Francisco Giants,5,1,1,99.98,True
+777505,Detroit Tigers,4,Cincinnati Reds,8,0,0,0.03,True
+777501,Baltimore Orioles,11,Los Angeles Angels,2,1,1,100.0,True
+777499,Philadelphia Phillies,11,Toronto Blue Jays,4,1,1,100.0,True
+777504,Atlanta Braves,1,Colorado Rockies,10,0,0,0.22,True
+777503,Washington Nationals,1,Miami Marlins,3,0,0,0.0,True
+777500,Boston Red Sox,2,New York Yankees,0,1,1,100.0,True
+777502,New York Mets,0,Tampa Bay Rays,9,0,0,0.0,True
+777494,Houston Astros,2,Minnesota Twins,1,1,1,100.0,True
+777492,Milwaukee Brewers,3,St. Louis Cardinals,2,1,1,99.85,True
+777497,Chicago Cubs,3,Pittsburgh Pirates,2,1,1,100.0,True
+777493,Texas Rangers,2,Chicago White Sox,1,1,1,100.0,True
+777491,Arizona Diamondbacks,2,San Diego Padres,8,0,0,0.13,True
+777498,Los Angeles Dodgers,5,San Francisco Giants,4,1,1,100.0,True
+777483,Miami Marlins,2,Philadelphia Phillies,5,0,0,0.0,True
+777488,Washington Nationals,4,Colorado Rockies,6,0,0,0.0,True
+777487,New York Yankees,0,Los Angeles Angels,1,0,0,0.0,True
+777484,Tampa Bay Rays,7,Baltimore Orioles,1,1,1,100.0,True
+777486,Seattle Mariners,0,Boston Red Sox,2,0,0,0.0,True
+777490,Los Angeles Dodgers,6,San Diego Padres,3,1,1,100.0,True
+777481,Miami Marlins,8,Philadelphia Phillies,3,1,1,99.59,True
+777475,Detroit Tigers,7,Pittsburgh Pirates,3,1,1,99.99,True
+777480,Washington Nationals,6,Colorado Rockies,10,0,0,0.0,True
+777476,New York Yankees,0,Los Angeles Angels,4,0,0,0.0,True
+777479,Toronto Blue Jays,5,Arizona Diamondbacks,4,1,1,100.0,True
+777478,Cincinnati Reds,6,Minnesota Twins,5,1,1,100.0,True
+777489,Atlanta Braves,5,New York Mets,4,1,1,100.0,True
+777477,Tampa Bay Rays,1,Baltimore Orioles,5,0,0,0.05,True
+777467,Chicago White Sox,2,St. Louis Cardinals,12,0,0,0.0,True
+777468,Texas Rangers,1,Kansas City Royals,6,0,0,0.23,True
+777482,Chicago Cubs,5,Milwaukee Brewers,3,1,1,100.0,True
+777473,Seattle Mariners,8,Boston Red Sox,0,1,1,100.0,True
+777472,San Francisco Giants,2,Cleveland Guardians,3,0,0,0.32,True
+777471,Los Angeles Dodgers,8,San Diego Padres,6,1,1,100.0,True
+777453,Seattle Mariners,1,Boston Red Sox,3,0,0,0.1,True
+777465,Miami Marlins,2,Philadelphia Phillies,4,0,0,0.3,True
+777461,Washington Nationals,1,Colorado Rockies,3,0,0,0.0,True
+777466,New York Yankees,2,Los Angeles Angels,3,0,0,0.0,True
+777474,Cincinnati Reds,4,Minnesota Twins,2,1,1,100.0,True
+777470,Atlanta Braves,5,New York Mets,0,1,1,100.0,True
+777463,Tampa Bay Rays,12,Baltimore Orioles,8,1,1,93.74,True
+777460,Texas Rangers,3,Kansas City Royals,6,0,0,0.03,True
+777454,San Francisco Giants,2,Cleveland Guardians,4,0,0,0.01,True
+777457,Los Angeles Dodgers,4,San Diego Padres,3,1,1,100.0,True
+777464,Detroit Tigers,0,Pittsburgh Pirates,0,0,0,22.57,True
+777458,Chicago White Sox,0,St. Louis Cardinals,0,0,0,0.0,True
+777459,Chicago Cubs,0,Milwaukee Brewers,0,0,0,4.99,True
+777452,Cincinnati Reds,5,Minnesota Twins,12,0,0,0.01,True
+777445,Washington Nationals,4,Colorado Rockies,3,1,1,99.99,True
+777449,New York Yankees,7,Los Angeles Angels,3,1,1,100.0,True
+777451,Detroit Tigers,9,Pittsburgh Pirates,2,1,1,100.0,True
+777447,Chicago White Sox,4,St. Louis Cardinals,5,0,0,0.0,True
+777450,Chicago Cubs,7,Milwaukee Brewers,8,0,0,0.0,True
+777443,Texas Rangers,1,Kansas City Royals,4,0,0,0.01,True
+777448,Toronto Blue Jays,5,Arizona Diamondbacks,9,0,0,0.09,True
+777440,San Francisco Giants,2,Cleveland Guardians,1,1,1,98.1,True
+777444,Miami Marlins,1,Philadelphia Phillies,2,0,0,0.21,True
+777455,Atlanta Braves,7,New York Mets,1,1,1,100.0,True
+777446,Tampa Bay Rays,1,Baltimore Orioles,4,0,0,0.04,True
+777442,Los Angeles Dodgers,3,San Diego Padres,5,0,0,1.09,True
+777436,Chicago Cubs,4,Seattle Mariners,9,0,0,0.0,True
+777432,Pittsburgh Pirates,2,Texas Rangers,6,0,0,0.02,True
+777431,Tampa Bay Rays,14,Detroit Tigers,8,1,1,99.84,True
+777438,New York Yankees,3,Baltimore Orioles,5,0,0,13.52,True
+777435,Toronto Blue Jays,1,Chicago White Sox,7,0,0,0.0,True
+777439,Miami Marlins,6,Atlanta Braves,2,1,1,99.02,True
+777433,St. Louis Cardinals,6,Cincinnati Reds,1,1,1,100.0,True
+777437,Philadelphia Phillies,10,New York Mets,2,1,1,100.0,True
+777434,Minnesota Twins,6,Milwaukee Brewers,17,0,0,0.39,True
+777430,Colorado Rockies,8,Arizona Diamondbacks,14,0,0,0.0,True
+777428,Los Angeles Angels,2,Houston Astros,3,0,0,1.26,True
+777426,San Diego Padres,5,Kansas City Royals,6,0,0,0.14,True
+777427,Los Angeles Dodgers,6,Washington Nationals,5,1,1,98.63,True
+777425,San Francisco Giants,5,Boston Red Sox,7,0,0,1.3,True
+777420,Tampa Bay Rays,8,Detroit Tigers,3,1,1,100.0,True
+777422,New York Yankees,9,Baltimore Orioles,0,1,1,99.99,True
+777412,Minnesota Twins,0,Milwaukee Brewers,9,0,0,0.02,True
+777415,St. Louis Cardinals,6,Cincinnati Reds,5,1,1,100.0,True
+777419,Chicago Cubs,10,Seattle Mariners,7,1,1,99.84,True
+777418,Toronto Blue Jays,7,Chicago White Sox,1,1,1,99.81,True
+777417,San Francisco Giants,3,Boston Red Sox,2,1,1,100.0,True
+777421,Pittsburgh Pirates,2,Texas Rangers,3,0,0,0.14,True
+777424,Miami Marlins,0,Atlanta Braves,7,0,0,0.46,True
+777413,San Diego Padres,5,Kansas City Royals,1,1,1,99.99,True
+777423,Philadelphia Phillies,4,New York Mets,11,0,0,0.0,True
+777410,Colorado Rockies,3,Arizona Diamondbacks,5,0,0,0.0,True
+777414,Los Angeles Angels,9,Houston Astros,1,1,1,99.03,True
+777416,Los Angeles Dodgers,3,Washington Nationals,7,0,0,0.01,True
+777406,New York Yankees,4,Baltimore Orioles,2,1,1,100.0,True
+777409,Tampa Bay Rays,3,Detroit Tigers,9,0,0,0.0,True
+777404,Pittsburgh Pirates,8,Texas Rangers,3,1,1,99.97,True
+777408,Toronto Blue Jays,2,Chicago White Sox,4,0,0,0.69,True
+777402,Miami Marlins,5,Atlanta Braves,3,1,1,99.7,True
+777401,Minnesota Twins,8,Milwaukee Brewers,9,0,0,0.0,True
+777407,St. Louis Cardinals,1,Cincinnati Reds,4,0,0,0.01,True
+777403,Chicago Cubs,6,Seattle Mariners,14,0,0,0.0,True
+777399,Colorado Rockies,4,Arizona Diamondbacks,2,1,1,99.04,True
+777395,San Francisco Giants,9,Boston Red Sox,5,1,1,100.0,True
+777397,Los Angeles Angels,7,Houston Astros,8,0,0,0.69,True
+777398,Los Angeles Dodgers,13,Washington Nationals,7,1,1,99.76,True
+777396,San Diego Padres,3,Kansas City Royals,2,1,1,100.0,True
+777405,Philadelphia Phillies,7,New York Mets,1,1,0,27.6,False
+777394,Baltimore Orioles,6,Texas Rangers,0,1,1,100.0,True
+777389,New York Mets,2,Atlanta Braves,3,0,0,0.0,True
+777390,Cincinnati Reds,6,New York Yankees,1,1,1,99.89,True
+777388,Minnesota Twins,2,Seattle Mariners,11,0,0,0.0,True
+777391,Milwaukee Brewers,4,Pittsburgh Pirates,5,0,0,0.01,True
+777392,St. Louis Cardinals,8,Chicago Cubs,2,1,1,99.83,True
+777381,Los Angeles Angels,9,Boston Red Sox,5,1,1,99.97,True
+777382,San Diego Padres,6,Washington Nationals,10,0,0,0.42,True
+777380,Baltimore Orioles,5,Texas Rangers,6,0,0,0.11,True
+777384,Cleveland Guardians,6,Toronto Blue Jays,10,0,0,0.44,True
+777387,New York Mets,4,Atlanta Braves,7,0,0,0.0,True
+777385,Cincinnati Reds,5,New York Yankees,4,1,1,100.0,True
+777378,Kansas City Royals,1,Tampa Bay Rays,5,0,0,0.1,True
+777375,Minnesota Twins,5,Seattle Mariners,6,0,0,0.0,True
+777383,Chicago White Sox,1,Arizona Diamondbacks,4,0,0,0.02,True
+777374,Milwaukee Brewers,9,Pittsburgh Pirates,3,1,1,99.99,True
+777373,St. Louis Cardinals,8,Chicago Cubs,7,1,1,100.0,True
+777377,Houston Astros,1,Philadelphia Phillies,0,1,1,100.0,True
+777379,Colorado Rockies,7,Los Angeles Dodgers,9,0,0,0.0,True
+777376,Los Angeles Angels,3,Boston Red Sox,2,1,1,100.0,True
+777372,San Diego Padres,4,Washington Nationals,3,1,1,99.98,True
+777364,San Francisco Giants,2,Miami Marlins,4,0,0,0.44,True
+777370,Chicago White Sox,7,Arizona Diamondbacks,3,1,1,100.0,True
+777361,Milwaukee Brewers,4,Pittsburgh Pirates,2,1,1,99.99,True
+777362,Los Angeles Angels,5,Boston Red Sox,2,1,1,100.0,True
+777360,San Diego Padres,1,Washington Nationals,0,1,1,100.0,True
+777365,Baltimore Orioles,0,Texas Rangers,7,0,0,0.0,True
+777368,Cleveland Guardians,5,Toronto Blue Jays,4,1,1,100.0,True
+777369,New York Mets,7,Atlanta Braves,3,1,1,99.98,True
+777367,Cincinnati Reds,1,New York Yankees,7,0,0,0.01,True
+777359,Kansas City Royals,0,Tampa Bay Rays,3,0,0,0.0,True
+777363,Minnesota Twins,2,Seattle Mariners,0,1,1,99.71,True
+777357,St. Louis Cardinals,0,Chicago Cubs,8,0,0,0.0,True
+777366,Houston Astros,2,Philadelphia Phillies,0,1,1,100.0,True
+777358,Colorado Rockies,1,Los Angeles Dodgers,8,0,0,0.0,True
+777355,San Francisco Giants,5,Miami Marlins,8,0,0,0.02,True
+777354,Cleveland Guardians,0,Toronto Blue Jays,6,0,0,0.07,True
+777356,Minnesota Twins,10,Seattle Mariners,1,1,1,100.0,True
+777353,Kansas City Royals,0,Tampa Bay Rays,4,0,0,0.0,True
+777350,Houston Astros,2,Philadelphia Phillies,1,1,1,100.0,True
+777348,St. Louis Cardinals,0,Chicago Cubs,3,0,0,0.0,True
+777344,Colorado Rockies,1,Los Angeles Dodgers,3,0,0,0.0,True
+777347,San Francisco Giants,5,Miami Marlins,12,0,0,0.0,True
+777352,New York Mets,4,Atlanta Braves,0,1,1,100.0,True
+777341,Pittsburgh Pirates,9,New York Mets,1,1,1,99.88,True
+777343,Baltimore Orioles,22,Tampa Bay Rays,8,1,1,99.98,True
+777346,Cincinnati Reds,8,San Diego Padres,1,1,1,99.94,True
+777345,Boston Red Sox,0,Toronto Blue Jays,9,0,0,0.0,True
+777334,Detroit Tigers,1,Minnesota Twins,4,0,0,0.0,True
+777342,Atlanta Braves,0,Philadelphia Phillies,13,0,0,0.13,True
+777338,Chicago White Sox,1,San Francisco Giants,3,0,0,0.14,True
+777340,Texas Rangers,6,Seattle Mariners,7,0,0,0.13,True
+777336,Houston Astros,7,Chicago Cubs,4,1,1,100.0,True
+777335,Kansas City Royals,4,Los Angeles Dodgers,5,0,0,0.0,True
+777339,Milwaukee Brewers,10,Colorado Rockies,6,1,1,100.0,True
+777331,Los Angeles Angels,9,Washington Nationals,15,0,0,0.34,True
+777332,Arizona Diamondbacks,8,Miami Marlins,9,0,0,0.0,True
+777324,Detroit Tigers,10,Minnesota Twins,5,1,1,99.6,True
+777325,Pittsburgh Pirates,9,New York Mets,2,1,1,100.0,True
+777330,Baltimore Orioles,3,Tampa Bay Rays,11,0,0,0.01,True
+777322,Texas Rangers,3,Seattle Mariners,2,1,0,21.48,False
+777319,Kansas City Royals,9,Los Angeles Dodgers,5,1,1,98.49,True
+777328,Cincinnati Reds,4,San Diego Padres,6,0,0,1.22,True
+777329,Cleveland Guardians,6,St. Louis Cardinals,9,0,0,0.01,True
+777323,Boston Red Sox,15,Toronto Blue Jays,1,1,1,100.0,True
+777327,Chicago White Sox,1,San Francisco Giants,0,1,1,100.0,True
+777318,Arizona Diamondbacks,7,Miami Marlins,8,0,0,0.0,True
+777321,Milwaukee Brewers,5,Colorado Rockies,0,1,1,100.0,True
+777320,Houston Astros,3,Chicago Cubs,12,0,0,0.05,True
+777333,Atlanta Braves,6,Philadelphia Phillies,1,1,1,99.72,True
+777315,Los Angeles Angels,8,Washington Nationals,2,1,1,98.76,True
+777309,Cleveland Guardians,0,St. Louis Cardinals,7,0,0,0.0,True
+777313,Pittsburgh Pirates,12,New York Mets,1,1,1,100.0,True
+777317,Baltimore Orioles,5,Tampa Bay Rays,1,1,1,100.0,True
+777310,Boston Red Sox,3,Toronto Blue Jays,5,0,0,1.52,True
+777316,Atlanta Braves,1,Philadelphia Phillies,2,0,0,0.05,True
+777312,Cincinnati Reds,3,San Diego Padres,2,1,1,100.0,True
+777308,Houston Astros,2,Chicago Cubs,0,1,1,99.91,True
+777304,Kansas City Royals,1,Los Angeles Dodgers,5,0,0,17.15,True
+777311,Chicago White Sox,5,San Francisco Giants,2,1,1,100.0,True
+777301,Milwaukee Brewers,3,Colorado Rockies,4,0,0,0.04,True
+777302,Texas Rangers,4,Seattle Mariners,6,0,0,0.18,True
+777305,Los Angeles Angels,4,Washington Nationals,7,0,0,0.01,True
+777314,Detroit Tigers,3,Minnesota Twins,0,1,1,100.0,True
+777306,Philadelphia Phillies,4,San Diego Padres,0,1,1,100.0,True
+777299,Pittsburgh Pirates,7,St. Louis Cardinals,0,1,1,100.0,True
+777295,Toronto Blue Jays,5,New York Yankees,4,1,1,99.99,True
+777300,Boston Red Sox,13,Cincinnati Reds,6,1,1,100.0,True
+777292,Texas Rangers,6,Baltimore Orioles,10,0,0,0.8,True
+777297,Seattle Mariners,6,Kansas City Royals,2,1,1,100.0,True
+777291,Arizona Diamondbacks,4,San Francisco Giants,2,1,1,99.54,True
+777283,Toronto Blue Jays,12,New York Yankees,5,1,1,100.0,True
+777288,Pittsburgh Pirates,1,St. Louis Cardinals,0,1,1,100.0,True
+777293,Miami Marlins,2,Minnesota Twins,0,1,1,100.0,True
+777294,Boston Red Sox,5,Cincinnati Reds,3,1,1,100.0,True
+777298,Atlanta Braves,0,Los Angeles Angels,4,0,0,0.14,True
+777287,Chicago Cubs,5,Cleveland Guardians,2,1,1,100.0,True
+777282,Texas Rangers,10,Baltimore Orioles,2,1,1,99.5,True
+777285,Colorado Rockies,5,Houston Astros,6,0,0,0.1,True
+777281,Seattle Mariners,3,Kansas City Royals,6,0,0,0.01,True
+777278,Arizona Diamondbacks,8,San Francisco Giants,2,1,1,100.0,True
+777280,Los Angeles Dodgers,6,Chicago White Sox,1,1,1,100.0,True
+777290,Philadelphia Phillies,0,San Diego Padres,0,0,0,48.18,True
+777284,Washington Nationals,0,Detroit Tigers,0,0,0,0.32,True
+777289,New York Mets,0,Milwaukee Brewers,0,0,0,0.59,True
+777272,Pittsburgh Pirates,5,St. Louis Cardinals,0,1,1,100.0,True
+777265,Washington Nationals,9,Detroit Tigers,4,1,1,100.0,True
+777273,Philadelphia Phillies,4,San Diego Padres,6,0,0,0.0,True
+777276,New York Mets,7,Milwaukee Brewers,3,1,1,99.97,True
+777275,Miami Marlins,1,Minnesota Twins,2,0,0,0.05,True
+777274,Toronto Blue Jays,11,New York Yankees,9,1,1,100.0,True
+777277,Boston Red Sox,4,Cincinnati Reds,8,0,0,0.03,True
+777279,Atlanta Braves,8,Los Angeles Angels,3,1,0,0.0,False
+777266,Chicago Cubs,5,Cleveland Guardians,4,1,1,100.0,True
+777268,Texas Rangers,6,Baltimore Orioles,0,1,1,100.0,True
+777269,Colorado Rockies,3,Houston Astros,5,0,0,0.0,True
+777262,Seattle Mariners,3,Kansas City Royals,2,1,1,99.96,True
+777270,Arizona Diamondbacks,5,San Francisco Giants,6,0,0,0.58,True
+777267,Los Angeles Dodgers,5,Chicago White Sox,4,1,1,100.0,True
+777263,Miami Marlins,4,Minnesota Twins,1,1,1,99.19,True
+777264,Colorado Rockies,7,Houston Astros,6,1,1,99.99,True
+777258,Washington Nationals,11,Detroit Tigers,7,1,1,100.0,True
+777260,Toronto Blue Jays,8,New York Yankees,5,1,1,100.0,True
+777257,New York Mets,3,Milwaukee Brewers,2,1,1,100.0,True
+777261,Atlanta Braves,1,Los Angeles Angels,5,0,0,0.04,True
+777259,Chicago Cubs,1,Cleveland Guardians,0,1,1,100.0,True
+777256,Arizona Diamondbacks,2,San Francisco Giants,7,0,0,0.0,True
+777251,Seattle Mariners,2,Kansas City Royals,3,0,0,0.13,True
+777253,Los Angeles Dodgers,6,Chicago White Sox,2,1,1,100.0,True
+777245,Washington Nationals,2,Boston Red Sox,11,0,0,0.17,True
+777255,Philadelphia Phillies,6,Cincinnati Reds,9,0,0,0.01,True
+777246,Chicago Cubs,11,St. Louis Cardinals,3,1,1,100.0,True
+777250,New York Mets,6,New York Yankees,5,1,1,100.0,True
+777236,Seattle Mariners,6,Pittsburgh Pirates,0,1,1,100.0,True
+777247,Minnesota Twins,4,Tampa Bay Rays,3,1,0,10.95,False
+777239,San Diego Padres,3,Texas Rangers,2,1,1,98.29,True
+777242,Toronto Blue Jays,4,Los Angeles Angels,3,1,1,100.0,True
+777249,Cleveland Guardians,1,Detroit Tigers,2,0,0,0.0,True
+777254,Miami Marlins,5,Milwaukee Brewers,6,0,0,0.01,True
+777252,Atlanta Braves,2,Baltimore Orioles,3,0,0,0.03,True
+777243,Colorado Rockies,2,Chicago White Sox,3,0,0,0.06,True
+777235,Los Angeles Dodgers,1,Houston Astros,18,0,0,0.25,True
+777230,Minnesota Twins,6,Tampa Bay Rays,5,1,1,100.0,True
+777229,Chicago Cubs,6,St. Louis Cardinals,8,0,0,0.19,True
+777231,Toronto Blue Jays,4,Los Angeles Angels,3,1,1,100.0,True
+777228,Washington Nationals,3,Boston Red Sox,10,0,0,0.05,True
+777233,Philadelphia Phillies,5,Cincinnati Reds,1,1,1,99.45,True
+777234,Arizona Diamondbacks,7,Kansas City Royals,1,1,1,99.93,True
+777237,Atlanta Braves,6,Baltimore Orioles,9,0,0,0.0,True
+777241,New York Mets,12,New York Yankees,6,1,1,100.0,True
+777238,Miami Marlins,4,Milwaukee Brewers,2,1,0,37.21,False
+777240,Cleveland Guardians,0,Detroit Tigers,1,0,0,0.0,True
+777221,Los Angeles Dodgers,4,Houston Astros,6,0,0,0.0,True
+777232,Colorado Rockies,3,Chicago White Sox,10,0,0,0.0,True
+777223,San Diego Padres,4,Texas Rangers,7,0,0,0.73,True
+777225,Seattle Mariners,1,Pittsburgh Pirates,0,1,1,100.0,True
+777222,Atlanta Braves,1,Baltimore Orioles,2,0,0,0.0,True
+777213,Washington Nationals,4,Boston Red Sox,6,0,0,0.0,True
+777217,Philadelphia Phillies,3,Cincinnati Reds,1,1,1,100.0,True
+777214,Toronto Blue Jays,3,Los Angeles Angels,2,1,1,100.0,True
+777226,Cleveland Guardians,2,Detroit Tigers,7,0,0,0.0,True
+777216,New York Mets,4,New York Yankees,6,0,0,0.0,True
+777224,Miami Marlins,1,Milwaukee Brewers,3,0,0,0.18,True
+777220,Minnesota Twins,5,Tampa Bay Rays,7,0,0,0.07,True
+777215,Colorado Rockies,6,Chicago White Sox,4,1,1,99.9,True
+777218,Arizona Diamondbacks,0,Kansas City Royals,4,0,0,0.38,True
+777206,Los Angeles Dodgers,1,Houston Astros,5,0,0,0.01,True
+777205,Seattle Mariners,1,Pittsburgh Pirates,0,1,1,100.0,True
+777219,Chicago Cubs,11,St. Louis Cardinals,0,1,1,99.9,True
+777207,San Diego Padres,4,Texas Rangers,1,1,1,99.99,True
+777211,Detroit Tigers,5,Tampa Bay Rays,1,1,1,100.0,True
+777209,Boston Red Sox,9,Colorado Rockies,3,1,1,100.0,True
+777208,Cincinnati Reds,1,Miami Marlins,5,0,0,0.13,True
+777204,Kansas City Royals,9,Pittsburgh Pirates,3,1,1,100.0,True
+777212,Chicago White Sox,4,Toronto Blue Jays,8,0,0,0.0,True
+777201,Milwaukee Brewers,9,Los Angeles Dodgers,1,1,1,100.0,True
+777202,Houston Astros,5,Cleveland Guardians,7,0,0,0.04,True
+777200,Los Angeles Angels,6,Texas Rangers,5,1,1,99.92,True
+777203,San Diego Padres,3,Arizona Diamondbacks,6,0,0,0.02,True
+777199,San Francisco Giants,3,Philadelphia Phillies,1,1,1,100.0,True
+777198,Baltimore Orioles,6,New York Mets,7,0,0,0.0,True
+777195,Detroit Tigers,4,Tampa Bay Rays,2,1,1,100.0,True
+777187,New York Yankees,10,Seattle Mariners,3,1,1,100.0,True
+777196,Boston Red Sox,10,Colorado Rockies,2,1,1,100.0,True
+777197,Cincinnati Reds,2,Miami Marlins,12,0,0,0.0,True
+777194,Kansas City Royals,4,Pittsburgh Pirates,3,1,1,100.0,True
+777190,Minnesota Twins,8,Chicago Cubs,1,1,1,99.99,True
+777188,Chicago White Sox,1,Toronto Blue Jays,6,0,0,0.0,True
+777193,Milwaukee Brewers,3,Los Angeles Dodgers,1,1,1,100.0,True
+777191,St. Louis Cardinals,4,Washington Nationals,2,1,1,100.0,True
+777192,Houston Astros,6,Cleveland Guardians,10,0,0,0.58,True
+777180,Los Angeles Angels,1,Texas Rangers,13,0,0,0.58,True
+777185,San Diego Padres,1,Arizona Diamondbacks,0,1,1,96.16,True
+777186,San Francisco Giants,4,Philadelphia Phillies,3,1,1,100.0,True
+777172,Chicago White Sox,2,Toronto Blue Jays,1,1,1,100.0,True
+777175,Milwaukee Brewers,3,Los Angeles Dodgers,2,1,1,100.0,True
+777163,San Francisco Giants,0,Philadelphia Phillies,13,0,0,0.03,True
+777182,Detroit Tigers,3,Tampa Bay Rays,7,0,0,0.02,True
+777184,New York Yankees,9,Seattle Mariners,6,1,1,100.0,True
+777179,Boston Red Sox,10,Colorado Rockies,2,1,1,100.0,True
+777183,Cincinnati Reds,7,Miami Marlins,2,1,1,100.0,True
+777177,Kansas City Royals,4,Pittsburgh Pirates,3,1,1,100.0,True
+777173,Minnesota Twins,4,Chicago Cubs,2,1,1,100.0,True
+777178,St. Louis Cardinals,2,Washington Nationals,8,0,0,0.03,True
+777174,Houston Astros,2,Cleveland Guardians,4,0,0,0.0,True
+777171,Los Angeles Angels,11,Texas Rangers,8,1,1,99.01,True
+777162,San Diego Padres,2,Arizona Diamondbacks,8,0,0,0.28,True
+777181,Baltimore Orioles,0,New York Mets,0,0,0,0.42,True
+777165,Baltimore Orioles,3,New York Mets,1,1,1,100.0,True
+777166,Minnesota Twins,1,Chicago Cubs,8,0,0,0.01,True
+777168,Cincinnati Reds,6,Miami Marlins,0,1,1,100.0,True
+777169,New York Yankees,6,Seattle Mariners,5,1,1,100.0,True
+777170,Boston Red Sox,4,Tampa Bay Rays,3,1,1,100.0,True
+777167,St. Louis Cardinals,8,Washington Nationals,1,1,1,99.71,True
+777159,Los Angeles Angels,4,Texas Rangers,11,0,0,0.03,True
+777164,Chicago White Sox,0,Cleveland Guardians,0,0,0,0.83,True
+777146,Chicago White Sox,5,Cleveland Guardians,4,1,1,99.99,True
+777157,Baltimore Orioles,5,Miami Marlins,2,1,1,100.0,True
+777153,New York Yankees,11,Chicago Cubs,0,1,1,100.0,True
+777160,Cincinnati Reds,2,Colorado Rockies,3,0,0,0.05,True
+777161,Detroit Tigers,3,Seattle Mariners,12,0,0,0.0,True
+777155,Boston Red Sox,5,Tampa Bay Rays,4,1,1,100.0,True
+777151,Kansas City Royals,3,New York Mets,8,0,0,0.06,True
+777154,Houston Astros,3,Texas Rangers,7,0,0,0.0,True
+777148,Minnesota Twins,2,Pittsburgh Pirates,1,1,1,99.98,True
+777149,Milwaukee Brewers,8,Washington Nationals,3,1,1,100.0,True
+777147,St. Louis Cardinals,5,Atlanta Braves,6,0,0,0.04,True
+777150,Los Angeles Angels,6,Arizona Diamondbacks,5,1,1,99.65,True
+777139,San Diego Padres,4,Philadelphia Phillies,2,1,1,100.0,True
+777143,San Francisco Giants,8,Los Angeles Dodgers,7,1,1,100.0,True
+777142,New York Yankees,2,Chicago Cubs,5,0,0,0.03,True
+777145,Detroit Tigers,7,Seattle Mariners,15,0,0,0.0,True
+777134,Minnesota Twins,12,Pittsburgh Pirates,4,1,1,100.0,True
+777127,San Francisco Giants,1,Los Angeles Dodgers,2,0,0,0.08,True
+777141,Baltimore Orioles,0,Miami Marlins,6,0,0,0.52,True
+777140,Cincinnati Reds,4,Colorado Rockies,3,1,1,99.59,True
+777144,Boston Red Sox,1,Tampa Bay Rays,0,1,1,100.0,True
+777138,Chicago White Sox,2,Cleveland Guardians,6,0,0,1.32,True
+777135,Milwaukee Brewers,6,Washington Nationals,5,1,1,100.0,True
+777137,Houston Astros,5,Texas Rangers,4,1,1,99.12,True
+777126,San Diego Padres,5,Philadelphia Phillies,4,1,1,100.0,True
+777131,Los Angeles Angels,10,Arizona Diamondbacks,5,1,1,100.0,True
+777130,Boston Red Sox,4,Tampa Bay Rays,1,1,1,100.0,True
+777129,Baltimore Orioles,1,Miami Marlins,11,0,0,0.0,True
+777122,New York Yankees,1,Chicago Cubs,4,0,0,0.0,True
+777128,Cincinnati Reds,4,Colorado Rockies,2,1,1,100.0,True
+777121,Detroit Tigers,4,Seattle Mariners,8,0,0,0.0,True
+777124,Kansas City Royals,3,New York Mets,2,1,1,99.41,True
+777125,Houston Astros,1,Texas Rangers,5,0,0,3.8,True
+777113,Minnesota Twins,1,Pittsburgh Pirates,2,0,0,0.01,True
+777120,Chicago White Sox,5,Cleveland Guardians,6,0,0,0.05,True
+777123,Milwaukee Brewers,8,Washington Nationals,1,1,1,100.0,True
+777118,St. Louis Cardinals,5,Atlanta Braves,4,1,0,42.55,False
+777119,San Francisco Giants,2,Los Angeles Dodgers,5,0,0,0.0,True
+777115,Los Angeles Angels,1,Arizona Diamondbacks,5,0,0,0.05,True
+777117,San Diego Padres,1,Philadelphia Phillies,2,0,0,0.37,True
+777101,Chicago Cubs,4,Boston Red Sox,1,1,1,100.0,True
+777107,Pittsburgh Pirates,1,Chicago White Sox,10,0,0,0.35,True
+777112,Washington Nationals,2,San Diego Padres,7,0,0,0.0,True
+777106,Philadelphia Phillies,5,Los Angeles Angels,6,0,0,0.75,True
+777108,Toronto Blue Jays,4,San Francisco Giants,0,1,1,100.0,True
+777111,New York Mets,4,Cincinnati Reds,8,0,0,0.0,True
+777109,Miami Marlins,8,Kansas City Royals,7,1,1,100.0,True
+777114,Atlanta Braves,7,New York Yankees,3,1,1,100.0,True
+777110,Tampa Bay Rays,11,Baltimore Orioles,1,1,1,100.0,True
+777098,Texas Rangers,2,Detroit Tigers,0,1,1,100.0,True
+777102,Colorado Rockies,6,Minnesota Twins,4,1,1,100.0,True
+777100,Arizona Diamondbacks,7,St. Louis Cardinals,3,1,1,100.0,True
+777099,Seattle Mariners,6,Houston Astros,1,1,1,100.0,True
+777103,Los Angeles Dodgers,0,Milwaukee Brewers,2,0,0,0.0,True
+777094,Toronto Blue Jays,6,San Francisco Giants,3,1,1,100.0,True
+777092,New York Mets,2,Cincinnati Reds,5,0,0,0.0,True
+777093,Miami Marlins,3,Kansas City Royals,1,1,1,100.0,True
+777089,Philadelphia Phillies,9,Los Angeles Angels,5,1,1,100.0,True
+777090,Pittsburgh Pirates,4,Chicago White Sox,10,0,0,0.06,True
+777091,Washington Nationals,4,San Diego Padres,2,1,1,100.0,True
+777095,Tampa Bay Rays,4,Baltimore Orioles,3,1,1,100.0,True
+777088,Texas Rangers,4,Detroit Tigers,1,1,1,100.0,True
+777096,Chicago Cubs,6,Boston Red Sox,0,1,1,100.0,True
+777081,Arizona Diamondbacks,10,St. Louis Cardinals,1,1,1,100.0,True
+777097,Atlanta Braves,9,New York Yankees,12,0,0,0.0,True
+777080,Colorado Rockies,10,Minnesota Twins,6,1,1,100.0,True
+777085,Los Angeles Dodgers,7,Milwaukee Brewers,8,0,0,0.0,True
+777086,Seattle Mariners,7,Houston Astros,6,1,1,100.0,True
+777079,Toronto Blue Jays,8,San Francisco Giants,6,1,1,100.0,True
+777076,Tampa Bay Rays,3,Baltimore Orioles,5,0,0,0.42,True
+777077,Washington Nationals,1,San Diego Padres,8,0,0,1.44,True
+777078,Philadelphia Phillies,2,Los Angeles Angels,8,0,0,0.41,True
+777074,Pittsburgh Pirates,2,Chicago White Sox,7,0,0,0.0,True
+777083,Atlanta Braves,2,New York Yankees,4,0,0,0.05,True
+777087,New York Mets,3,Cincinnati Reds,2,1,1,100.0,True
+777082,Miami Marlins,4,Kansas City Royals,7,0,0,0.46,True
+777075,Chicago Cubs,1,Boston Red Sox,6,0,0,0.02,True
+777072,Colorado Rockies,1,Minnesota Twins,7,0,0,0.0,True
+777067,Seattle Mariners,3,Houston Astros,11,0,0,0.01,True
+777071,Arizona Diamondbacks,5,St. Louis Cardinals,3,1,1,100.0,True
+777070,Los Angeles Dodgers,5,Milwaukee Brewers,6,0,0,0.0,True
+777073,Texas Rangers,1,Detroit Tigers,2,0,0,0.01,True
+777068,Cleveland Guardians,10,Baltimore Orioles,5,1,1,99.96,True
+777060,Pittsburgh Pirates,3,Detroit Tigers,0,1,1,99.85,True
+777062,Miami Marlins,1,San Diego Padres,2,0,0,0.44,True
+777064,Washington Nationals,10,Cincinnati Reds,8,1,1,100.0,True
+777063,Philadelphia Phillies,3,Boston Red Sox,2,1,1,99.99,True
+777066,Toronto Blue Jays,4,New York Yankees,1,1,1,100.0,True
+777061,New York Mets,7,Los Angeles Angels,5,1,1,100.0,True
+777069,Atlanta Braves,9,San Francisco Giants,5,1,1,100.0,True
+777059,Tampa Bay Rays,3,Chicago White Sox,8,0,0,0.0,True
+777065,Chicago Cubs,4,Kansas City Royals,12,0,0,0.0,True
+777053,Colorado Rockies,2,St. Louis Cardinals,6,0,0,0.0,True
+777055,Arizona Diamondbacks,3,Houston Astros,6,0,0,0.13,True
+777050,Seattle Mariners,0,Milwaukee Brewers,6,0,0,0.0,True
+777051,Los Angeles Dodgers,5,Minnesota Twins,2,1,1,99.99,True
+777056,Cleveland Guardians,6,Baltimore Orioles,3,1,1,100.0,True
+777044,Pittsburgh Pirates,8,Detroit Tigers,5,1,1,100.0,True
+777052,Miami Marlins,4,San Diego Padres,3,1,1,100.0,True
+777042,Washington Nationals,6,Cincinnati Reds,1,1,1,100.0,True
+777045,Philadelphia Phillies,4,Boston Red Sox,1,1,1,100.0,True
+777048,Tampa Bay Rays,4,Chicago White Sox,3,1,1,100.0,True
+777046,Toronto Blue Jays,4,New York Yankees,5,0,0,0.02,True
+777054,New York Mets,3,Los Angeles Angels,2,1,1,100.0,True
+777058,Atlanta Braves,0,San Francisco Giants,9,0,0,0.0,True
+777047,Chicago Cubs,6,Kansas City Royals,0,1,1,92.74,True
+777049,Colorado Rockies,8,St. Louis Cardinals,4,1,0,6.68,False
+777035,Seattle Mariners,1,Milwaukee Brewers,0,1,1,100.0,True
+777039,Los Angeles Dodgers,7,Minnesota Twins,10,0,0,3.09,True
+777026,Washington Nationals,0,Cincinnati Reds,5,0,0,0.01,True
+777037,Miami Marlins,3,San Diego Padres,2,1,1,100.0,True
+777041,Atlanta Braves,3,San Francisco Giants,9,0,0,0.0,True
+777029,Pittsburgh Pirates,6,Detroit Tigers,1,1,1,100.0,True
+777034,New York Mets,6,Los Angeles Angels,3,1,1,100.0,True
+777031,Chicago Cubs,4,Kansas City Royals,8,0,0,0.2,True
+777028,Colorado Rockies,6,St. Louis Cardinals,0,1,1,100.0,True
+777032,Arizona Diamondbacks,3,Houston Astros,4,0,0,0.0,True
+777024,Seattle Mariners,2,Milwaukee Brewers,10,0,0,0.07,True
+777022,Los Angeles Dodgers,4,Minnesota Twins,3,1,1,99.52,True
+777036,Cleveland Guardians,3,Baltimore Orioles,2,1,1,100.0,True
+777027,Toronto Blue Jays,8,New York Yankees,4,1,1,54.33,True
+777038,Philadelphia Phillies,8,Boston Red Sox,9,0,0,0.34,True
+777030,Tampa Bay Rays,9,Chicago White Sox,11,0,0,0.04,True
+777019,Cleveland Guardians,3,Baltimore Orioles,4,0,0,0.03,True
+777021,Detroit Tigers,4,Toronto Blue Jays,11,0,0,0.02,True
+777023,St. Louis Cardinals,9,San Diego Padres,7,1,1,99.99,True
+777018,Los Angeles Angels,2,Seattle Mariners,4,0,0,0.04,True
+777008,Milwaukee Brewers,1,Miami Marlins,5,0,0,0.03,True
+777014,Pittsburgh Pirates,0,Arizona Diamondbacks,1,0,0,0.1,True
+777020,Baltimore Orioles,5,Colorado Rockies,6,0,0,0.01,True
+777015,New York Yankees,5,Philadelphia Phillies,12,0,0,0.16,True
+777012,Boston Red Sox,2,Los Angeles Dodgers,5,0,0,0.1,True
+777013,Cincinnati Reds,7,Tampa Bay Rays,2,1,1,100.0,True
+777016,Detroit Tigers,2,Toronto Blue Jays,6,0,0,0.0,True
+777005,St. Louis Cardinals,3,San Diego Padres,0,1,1,100.0,True
+777017,Chicago White Sox,12,Chicago Cubs,5,1,1,100.0,True
+777006,Los Angeles Angels,3,Seattle Mariners,2,1,1,94.94,True
+777004,San Francisco Giants,1,New York Mets,8,0,0,0.0,True
+777010,Kansas City Royals,0,Cleveland Guardians,0,0,0,18.91,True
+777001,New York Yankees,4,Philadelphia Phillies,9,0,0,0.0,True
+776990,Kansas City Royals,4,Cleveland Guardians,6,0,0,2.14,True
+777003,Detroit Tigers,1,Toronto Blue Jays,6,0,0,0.0,True
+777002,Pittsburgh Pirates,2,Arizona Diamondbacks,0,1,1,95.22,True
+777000,Cincinnati Reds,6,Tampa Bay Rays,2,1,1,100.0,True
+776999,Baltimore Orioles,18,Colorado Rockies,0,1,1,100.0,True
+776993,Texas Rangers,6,Atlanta Braves,5,1,1,100.0,True
+776997,Minnesota Twins,3,Washington Nationals,9,0,0,0.48,True
+776994,Chicago White Sox,1,Chicago Cubs,6,0,0,0.0,True
+776996,Milwaukee Brewers,4,Miami Marlins,7,0,0,0.0,True
+776998,Boston Red Sox,4,Los Angeles Dodgers,2,1,1,98.93,True
+776992,St. Louis Cardinals,1,San Diego Padres,3,0,0,0.18,True
+776985,San Francisco Giants,1,New York Mets,2,0,0,0.0,True
+776995,Los Angeles Angels,2,Seattle Mariners,7,0,0,0.01,True
+776986,Baltimore Orioles,5,Colorado Rockies,1,1,1,100.0,True
+776983,Boston Red Sox,4,Los Angeles Dodgers,3,1,1,100.0,True
+776984,Pittsburgh Pirates,6,Arizona Diamondbacks,0,1,1,100.0,True
+776988,New York Yankees,4,Philadelphia Phillies,3,1,1,99.98,True
+776982,Cincinnati Reds,2,Tampa Bay Rays,1,1,1,100.0,True
+776987,Detroit Tigers,10,Toronto Blue Jays,4,1,1,100.0,True
+776975,Kansas City Royals,4,Cleveland Guardians,1,1,1,96.14,True
+776979,Minnesota Twins,2,Washington Nationals,7,0,0,0.01,True
+776989,Chicago White Sox,4,Chicago Cubs,5,0,0,0.0,True
+776978,Milwaukee Brewers,3,Miami Marlins,2,1,1,99.81,True
+776980,St. Louis Cardinals,2,San Diego Padres,9,0,0,0.01,True
+776981,Texas Rangers,8,Atlanta Braves,1,1,1,100.0,True
+776977,Los Angeles Angels,4,Seattle Mariners,1,1,0,10.37,False
+776974,San Francisco Giants,3,New York Mets,5,0,0,0.0,True
+776966,Baltimore Orioles,11,Toronto Blue Jays,4,1,1,100.0,True
+776968,Cleveland Guardians,6,Colorado Rockies,8,0,0,0.01,True
+776970,New York Yankees,2,Tampa Bay Rays,4,0,0,0.02,True
+776967,Cincinnati Reds,2,Los Angeles Dodgers,5,0,0,0.01,True
+776961,Minnesota Twins,5,Boston Red Sox,4,1,1,89.12,True
+776971,Kansas City Royals,7,Atlanta Braves,10,0,0,0.01,True
+776972,Chicago White Sox,6,Philadelphia Phillies,2,1,1,99.98,True
+776965,Milwaukee Brewers,8,Chicago Cubs,4,1,1,100.0,True
+776960,St. Louis Cardinals,7,Miami Marlins,1,1,1,99.95,True
+776969,Houston Astros,1,Washington Nationals,2,0,0,0.02,True
+776958,Los Angeles Angels,6,Texas Rangers,4,1,1,100.0,True
+776959,San Diego Padres,7,New York Mets,6,1,1,100.0,True
+776964,San Francisco Giants,5,Pittsburgh Pirates,6,0,0,0.0,True
+776962,Baltimore Orioles,3,Toronto Blue Jays,2,1,1,100.0,True
+776951,Cleveland Guardians,10,Colorado Rockies,4,1,1,99.97,True
+776953,Detroit Tigers,12,Arizona Diamondbacks,2,1,1,100.0,True
+776949,New York Yankees,7,Tampa Bay Rays,5,1,1,99.99,True
+776963,Cincinnati Reds,4,Los Angeles Dodgers,5,0,0,0.02,True
+776954,Minnesota Twins,5,Boston Red Sox,8,0,0,0.04,True
+776955,Kansas City Royals,9,Atlanta Braves,6,1,1,99.25,True
+776952,Chicago White Sox,3,Philadelphia Phillies,6,0,0,0.0,True
+776956,Milwaukee Brewers,9,Chicago Cubs,3,1,1,100.0,True
+776946,St. Louis Cardinals,0,Miami Marlins,5,0,0,0.31,True
+776950,Houston Astros,7,Washington Nationals,4,1,1,100.0,True
+776945,Los Angeles Angels,8,Texas Rangers,5,1,1,100.0,True
+776947,San Diego Padres,7,New York Mets,1,1,1,100.0,True
+776943,San Francisco Giants,1,Pittsburgh Pirates,3,0,0,0.0,True
+776948,Baltimore Orioles,8,Toronto Blue Jays,9,0,0,0.02,True
+776940,Detroit Tigers,7,Arizona Diamondbacks,2,1,1,100.0,True
+776935,Minnesota Twins,1,Boston Red Sox,13,0,0,0.01,True
+776937,Houston Astros,9,Washington Nationals,1,1,1,100.0,True
+776939,Chicago White Sox,9,Philadelphia Phillies,3,1,1,99.85,True
+776929,Milwaukee Brewers,3,Chicago Cubs,10,0,0,0.86,True
+776933,San Francisco Giants,1,Pittsburgh Pirates,2,0,0,0.0,True
+776931,San Diego Padres,5,New York Mets,0,1,1,100.0,True
+776942,Cleveland Guardians,5,Colorado Rockies,0,1,1,100.0,True
+776938,New York Yankees,5,Tampa Bay Rays,4,1,1,100.0,True
+776941,Cincinnati Reds,5,Los Angeles Dodgers,2,1,0,5.28,False
+776934,St. Louis Cardinals,0,Miami Marlins,2,0,0,0.01,True
+776932,Los Angeles Angels,3,Texas Rangers,6,0,0,0.69,True
+776927,New York Yankees,7,Tampa Bay Rays,4,1,1,100.0,True
+776928,Cincinnati Reds,11,Atlanta Braves,12,0,0,0.17,True
+776923,Seattle Mariners,6,Texas Rangers,0,1,1,100.0,True
+776921,Cincinnati Reds,3,Atlanta Braves,2,1,1,86.11,True
+776915,Chicago Cubs,1,Baltimore Orioles,0,1,1,100.0,True
+776913,Philadelphia Phillies,5,Detroit Tigers,4,1,1,99.99,True
+776917,Washington Nationals,9,Milwaukee Brewers,16,0,0,0.01,True
+776920,Toronto Blue Jays,3,Kansas City Royals,9,0,0,0.15,True
+776922,Boston Red Sox,2,Houston Astros,1,1,1,100.0,True
+776926,New York Mets,3,San Francisco Giants,4,0,0,0.0,True
+776924,Cleveland Guardians,3,Minnesota Twins,2,1,1,100.0,True
+776925,Miami Marlins,13,New York Yankees,12,1,1,100.0,True
+776918,Tampa Bay Rays,0,Los Angeles Dodgers,5,0,0,0.05,True
+776919,Colorado Rockies,17,Pittsburgh Pirates,16,1,1,100.0,True
+776916,Los Angeles Angels,3,Chicago White Sox,6,0,0,0.0,True
+776906,San Diego Padres,4,St. Louis Cardinals,1,1,1,100.0,True
+776908,Seattle Mariners,4,Texas Rangers,3,1,1,100.0,True
+776901,Tampa Bay Rays,4,Los Angeles Dodgers,0,1,1,99.76,True
+776902,Chicago Cubs,3,Baltimore Orioles,4,0,0,2.44,True
+776900,Toronto Blue Jays,4,Kansas City Royals,2,1,1,99.9,True
+776904,Colorado Rockies,8,Pittsburgh Pirates,5,1,1,100.0,True
+776912,Philadelphia Phillies,5,Detroit Tigers,7,0,0,0.02,True
+776903,Washington Nationals,2,Milwaukee Brewers,8,0,0,0.0,True
+776909,Boston Red Sox,7,Houston Astros,3,1,1,100.0,True
+776911,New York Mets,12,San Francisco Giants,6,1,1,99.72,True
+776897,Seattle Mariners,4,Texas Rangers,6,0,0,0.03,True
+776905,Cleveland Guardians,5,Minnesota Twins,4,1,1,100.0,True
+776910,Miami Marlins,2,New York Yankees,0,1,1,100.0,True
+776907,Cincinnati Reds,2,Atlanta Braves,4,0,0,0.02,True
+776898,Los Angeles Angels,0,Chicago White Sox,1,0,0,0.0,True
+776896,San Diego Padres,5,St. Louis Cardinals,8,0,0,0.52,True
+776895,Boston Red Sox,6,Houston Astros,1,1,1,100.0,True
+776889,Tampa Bay Rays,0,Los Angeles Dodgers,3,0,0,0.02,True
+776894,Washington Nationals,3,Milwaukee Brewers,14,0,0,0.0,True
+776893,Toronto Blue Jays,4,Kansas City Royals,7,0,0,4.3,True
+776887,New York Mets,4,San Francisco Giants,12,0,0,0.01,True
+776892,Cleveland Guardians,4,Minnesota Twins,5,0,0,1.74,True
+776891,Miami Marlins,7,New York Yankees,3,1,1,100.0,True
+776888,Chicago Cubs,5,Baltimore Orioles,3,1,1,99.58,True
+776886,Colorado Rockies,5,Pittsburgh Pirates,9,0,0,0.0,True
+776885,Los Angeles Angels,8,Chicago White Sox,5,1,1,99.83,True
+776884,San Diego Padres,7,St. Louis Cardinals,3,1,1,99.25,True
+776883,Seattle Mariners,5,Texas Rangers,4,1,1,99.98,True
+776890,Philadelphia Phillies,2,Detroit Tigers,0,1,1,100.0,True
+776879,Pittsburgh Pirates,5,San Francisco Giants,4,1,1,100.0,True
+776874,Detroit Tigers,6,Minnesota Twins,3,1,1,95.98,True
+776875,Miami Marlins,2,Houston Astros,8,0,0,0.4,True
+776877,Philadelphia Phillies,13,Baltimore Orioles,3,1,1,100.0,True
+776880,Boston Red Sox,8,Kansas City Royals,5,1,1,100.0,True
+776876,New York Mets,6,Cleveland Guardians,7,0,0,0.05,True
+776882,Atlanta Braves,1,Milwaukee Brewers,3,0,0,0.0,True
+776878,Chicago Cubs,2,Cincinnati Reds,3,0,0,0.0,True
+776871,Texas Rangers,8,New York Yankees,5,1,1,99.95,True
+776872,Colorado Rockies,1,Toronto Blue Jays,15,0,0,0.0,True
+776867,Los Angeles Angels,5,Tampa Bay Rays,1,1,1,100.0,True
+776873,Arizona Diamondbacks,6,San Diego Padres,2,1,1,100.0,True
+776870,Los Angeles Dodgers,2,St. Louis Cardinals,3,0,0,0.03,True
+776866,Pittsburgh Pirates,1,San Francisco Giants,8,0,0,0.0,True
+776861,Detroit Tigers,3,Minnesota Twins,6,0,0,0.0,True
+776862,Miami Marlins,3,Houston Astros,7,0,0,0.01,True
+776868,Philadelphia Phillies,5,Baltimore Orioles,0,1,1,100.0,True
+776864,Boston Red Sox,6,Kansas City Royals,2,1,1,100.0,True
+776863,New York Mets,2,Cleveland Guardians,3,0,0,0.44,True
+776869,Atlanta Braves,2,Milwaukee Brewers,7,0,0,0.0,True
+776860,Chicago Cubs,1,Cincinnati Reds,5,0,0,0.0,True
+776855,Texas Rangers,2,New York Yankees,0,1,1,100.0,True
+776854,Colorado Rockies,4,Toronto Blue Jays,10,0,0,0.0,True
+776848,Los Angeles Angels,3,Tampa Bay Rays,7,0,0,0.02,True
+776852,Arizona Diamondbacks,5,San Diego Padres,10,0,0,5.27,True
+776857,Seattle Mariners,8,Chicago White Sox,3,1,1,100.0,True
+776858,Los Angeles Dodgers,12,St. Louis Cardinals,6,1,1,99.95,True
+776844,Pittsburgh Pirates,2,San Francisco Giants,4,0,0,0.0,True
+776851,Philadelphia Phillies,1,Baltimore Orioles,5,0,0,0.09,True
+776846,New York Mets,1,Cleveland Guardians,4,0,0,0.0,True
+776859,Detroit Tigers,4,Minnesota Twins,9,0,0,0.01,True
+776847,Chicago Cubs,6,Cincinnati Reds,1,1,1,99.99,True
+776845,Texas Rangers,2,New York Yankees,3,0,0,0.03,True
+776836,Colorado Rockies,1,Toronto Blue Jays,20,0,0,0.0,True
+776843,Los Angeles Angels,4,Tampa Bay Rays,5,0,0,0.0,True
+776839,Los Angeles Dodgers,3,St. Louis Cardinals,5,0,0,0.03,True
+776849,Miami Marlins,6,Houston Astros,4,1,1,99.42,True
+776856,Boston Red Sox,3,Kansas City Royals,7,0,0,0.15,True
+776853,Atlanta Braves,4,Milwaukee Brewers,5,0,0,0.0,True
+776838,Arizona Diamondbacks,2,San Diego Padres,3,0,0,0.1,True
+776841,Seattle Mariners,8,Chicago White Sox,6,1,1,100.0,True
+776830,Seattle Mariners,4,Chicago White Sox,3,1,1,100.0,True
+776840,Pittsburgh Pirates,7,Cincinnati Reds,0,1,1,100.0,True
+776842,Atlanta Braves,8,Miami Marlins,6,1,1,99.95,True
+776829,Pittsburgh Pirates,3,Cincinnati Reds,2,1,1,100.0,True
+776835,New York Yankees,3,Houston Astros,5,0,0,0.09,True
+776832,Detroit Tigers,6,Los Angeles Angels,5,1,1,100.0,True
+776834,Atlanta Braves,1,Miami Marlins,5,0,0,0.02,True
+776833,Chicago White Sox,5,Cleveland Guardians,9,0,0,0.0,True
+776821,Texas Rangers,1,Philadelphia Phillies,9,0,0,0.11,True
+776827,Minnesota Twins,9,Kansas City Royals,4,1,1,100.0,True
+776828,Milwaukee Brewers,3,New York Mets,2,1,1,100.0,True
+776826,St. Louis Cardinals,5,Chicago Cubs,0,1,1,100.0,True
+776825,Arizona Diamondbacks,6,Colorado Rockies,1,1,1,98.92,True
+776820,San Diego Padres,2,Boston Red Sox,10,0,0,1.58,True
+776824,Seattle Mariners,3,Tampa Bay Rays,2,1,1,100.0,True
+776823,Los Angeles Dodgers,5,Toronto Blue Jays,1,1,1,100.0,True
+776822,San Francisco Giants,5,Washington Nationals,0,1,1,100.0,True
+776819,Atlanta Braves,8,Miami Marlins,6,1,1,100.0,True
+776815,New York Yankees,5,Houston Astros,4,1,1,99.99,True
+776802,San Francisco Giants,2,Washington Nationals,4,0,0,0.0,True
+776813,Detroit Tigers,4,Los Angeles Angels,7,0,0,0.0,True
+776812,Pittsburgh Pirates,1,Cincinnati Reds,2,0,0,0.09,True
+776816,Minnesota Twins,0,Kansas City Royals,2,0,0,0.21,True
+776814,Chicago White Sox,1,Cleveland Guardians,3,0,0,0.0,True
+776817,Milwaukee Brewers,7,New York Mets,4,1,1,100.0,True
+776818,St. Louis Cardinals,1,Chicago Cubs,9,0,0,0.05,True
+776810,Texas Rangers,2,Philadelphia Phillies,3,0,0,0.01,True
+776807,San Diego Padres,5,Boston Red Sox,4,1,1,99.99,True
+776808,Los Angeles Dodgers,9,Toronto Blue Jays,1,1,1,100.0,True
+776805,Seattle Mariners,7,Tampa Bay Rays,4,1,1,100.0,True
+776796,Minnesota Twins,5,Kansas City Royals,3,1,1,98.41,True
+776801,Pittsburgh Pirates,8,Cincinnati Reds,14,0,0,0.0,True
+776803,Atlanta Braves,7,Miami Marlins,1,1,1,100.0,True
+776797,New York Yankees,1,Houston Astros,7,0,0,5.98,True
+776806,Detroit Tigers,9,Los Angeles Angels,5,1,1,100.0,True
+776798,Chicago White Sox,6,Cleveland Guardians,4,1,1,100.0,True
+776799,Milwaukee Brewers,7,New York Mets,6,1,1,100.0,True
+776800,Texas Rangers,2,Philadelphia Phillies,4,0,0,0.0,True
+776793,San Francisco Giants,0,Washington Nationals,8,0,0,0.0,True
+776794,Arizona Diamondbacks,13,Colorado Rockies,6,1,1,100.0,True
+776789,San Diego Padres,6,Boston Red Sox,2,1,1,100.0,True
+776791,Seattle Mariners,6,Tampa Bay Rays,3,1,1,100.0,True
+776788,Los Angeles Dodgers,4,Toronto Blue Jays,5,0,0,0.42,True
+776795,St. Louis Cardinals,3,Chicago Cubs,2,1,1,89.55,True
+776792,Cincinnati Reds,1,Philadelphia Phillies,4,0,0,0.04,True
+776790,New York Yankees,6,Minnesota Twins,2,1,1,99.94,True
+776784,Kansas City Royals,7,Washington Nationals,4,1,1,99.95,True
+776781,Chicago White Sox,1,Detroit Tigers,2,0,0,0.0,True
+776786,Milwaukee Brewers,7,Pittsburgh Pirates,1,1,1,100.0,True
+776783,St. Louis Cardinals,3,Colorado Rockies,2,1,1,100.0,True
+776785,Texas Rangers,7,Arizona Diamondbacks,6,1,1,100.0,True
+776782,Houston Astros,7,Boston Red Sox,6,1,1,100.0,True
+776779,Los Angeles Angels,7,Los Angeles Dodgers,4,1,1,97.12,True
+776780,San Francisco Giants,1,San Diego Padres,4,0,0,0.01,True
+776776,Baltimore Orioles,0,Seattle Mariners,1,0,0,0.0,True
+776777,Cincinnati Reds,6,Philadelphia Phillies,1,1,1,99.95,True
+776778,Cleveland Guardians,4,Miami Marlins,3,1,1,99.98,True
+776774,New York Yankees,9,Minnesota Twins,1,1,1,100.0,True
+776768,Toronto Blue Jays,5,Chicago Cubs,1,1,1,100.0,True
+776772,New York Mets,13,Atlanta Braves,5,1,1,99.94,True
+776770,Kansas City Royals,8,Washington Nationals,5,1,1,100.0,True
+776773,Chicago White Sox,9,Detroit Tigers,6,1,1,100.0,True
+776771,Milwaukee Brewers,14,Pittsburgh Pirates,0,1,1,100.0,True
+776775,St. Louis Cardinals,0,Colorado Rockies,3,0,0,0.02,True
+776764,Texas Rangers,2,Arizona Diamondbacks,3,0,0,3.83,True
+776769,Houston Astros,1,Boston Red Sox,14,0,0,0.11,True
+776767,San Francisco Giants,1,San Diego Padres,5,0,0,0.01,True
+776759,Kansas City Royals,7,Washington Nationals,8,0,0,0.24,True
+776754,Chicago White Sox,0,Detroit Tigers,1,0,0,2.9,True
+776755,Milwaukee Brewers,12,Pittsburgh Pirates,5,1,1,100.0,True
+776758,St. Louis Cardinals,5,Colorado Rockies,6,0,0,0.0,True
+776746,Texas Rangers,4,Arizona Diamondbacks,6,0,0,0.05,True
+776749,San Francisco Giants,1,San Diego Padres,11,0,0,0.0,True
+776765,Cincinnati Reds,8,Philadelphia Phillies,0,1,1,100.0,True
+776761,Baltimore Orioles,4,Seattle Mariners,3,1,1,100.0,True
+776766,Cleveland Guardians,4,Miami Marlins,13,0,0,0.22,True
+776760,New York Yankees,1,Minnesota Twins,4,0,0,0.03,True
+776757,Toronto Blue Jays,1,Chicago Cubs,4,0,0,0.24,True
+776753,Houston Astros,4,Boston Red Sox,1,1,1,99.83,True
+776756,New York Mets,6,Atlanta Braves,11,0,0,2.23,True
+776752,Los Angeles Angels,6,Los Angeles Dodgers,5,1,1,100.0,True
+776750,Baltimore Orioles,5,Seattle Mariners,3,1,1,100.0,True
+776747,Toronto Blue Jays,2,Chicago Cubs,1,1,0,29.94,False
+776745,Cleveland Guardians,9,Miami Marlins,4,1,0,14.17,False
+776743,Washington Nationals,3,Philadelphia Phillies,2,1,1,100.0,True
+776748,New York Mets,3,Atlanta Braves,4,0,0,0.43,True
+776744,Minnesota Twins,3,Detroit Tigers,4,0,0,0.0,True
+776737,Chicago Cubs,2,Pittsburgh Pirates,3,0,0,0.08,True
+776740,Cincinnati Reds,8,Milwaukee Brewers,10,0,0,0.0,True
+776739,Washington Nationals,2,Philadelphia Phillies,6,0,0,0.13,True
+776735,Toronto Blue Jays,6,Texas Rangers,5,1,1,99.99,True
+776736,New York Mets,9,Seattle Mariners,11,0,0,0.0,True
+776738,Cleveland Guardians,0,Atlanta Braves,2,0,0,0.23,True
+776741,Boston Red Sox,2,Miami Marlins,1,1,1,100.0,True
+776733,Houston Astros,0,Baltimore Orioles,7,0,0,0.82,True
+776732,Minnesota Twins,0,Detroit Tigers,7,0,0,0.0,True
+776728,Kansas City Royals,3,Chicago White Sox,1,1,1,99.9,True
+776731,St. Louis Cardinals,3,New York Yankees,4,0,0,0.03,True
+776730,Colorado Rockies,4,Arizona Diamondbacks,3,1,1,100.0,True
+776727,Los Angeles Dodgers,3,San Diego Padres,2,1,1,100.0,True
+776729,San Francisco Giants,6,Tampa Bay Rays,7,0,0,0.0,True
+776719,Chicago Cubs,3,Pittsburgh Pirates,1,1,1,55.02,True
+776723,Toronto Blue Jays,14,Texas Rangers,2,1,1,100.0,True
+776725,Washington Nationals,2,Philadelphia Phillies,0,1,1,99.99,True
+776726,New York Mets,3,Seattle Mariners,1,1,1,99.96,True
+776724,Boston Red Sox,7,Miami Marlins,5,1,1,100.0,True
+776721,Cincinnati Reds,5,Milwaukee Brewers,6,0,0,0.0,True
+776722,Houston Astros,5,Baltimore Orioles,4,1,1,75.71,True
+776720,Cleveland Guardians,1,Atlanta Braves,10,0,0,0.0,True
+776712,Kansas City Royals,6,Chicago White Sox,2,1,1,100.0,True
+776716,Minnesota Twins,5,Detroit Tigers,8,0,0,0.0,True
+776713,St. Louis Cardinals,8,New York Yankees,12,0,0,0.0,True
+776715,Colorado Rockies,10,Arizona Diamondbacks,7,1,1,100.0,True
+776711,San Francisco Giants,1,Tampa Bay Rays,2,0,0,0.0,True
+776717,Los Angeles Dodgers,6,San Diego Padres,0,1,1,100.0,True
+776708,Washington Nationals,9,Philadelphia Phillies,11,0,0,0.06,True
+776714,Boston Red Sox,3,Miami Marlins,5,0,0,0.19,True
+776710,Toronto Blue Jays,4,Texas Rangers,10,0,0,0.17,True
+776706,Cleveland Guardians,4,Atlanta Braves,5,0,0,0.0,True
+776709,Cincinnati Reds,3,Milwaukee Brewers,2,1,1,100.0,True
+776705,Houston Astros,0,Baltimore Orioles,12,0,0,0.49,True
+776700,Minnesota Twins,8,Detroit Tigers,1,1,1,100.0,True
+776702,Kansas City Royals,6,Chicago White Sox,2,1,1,100.0,True
+776698,St. Louis Cardinals,4,New York Yankees,8,0,0,0.0,True
+776704,Chicago Cubs,4,Pittsburgh Pirates,3,1,1,100.0,True
+776701,Colorado Rockies,6,Arizona Diamondbacks,5,1,1,100.0,True
+776703,San Francisco Giants,7,Tampa Bay Rays,1,1,1,100.0,True
+776697,Los Angeles Dodgers,5,San Diego Padres,4,1,1,100.0,True
+776707,New York Mets,7,Seattle Mariners,3,1,1,100.0,True
+776692,Detroit Tigers,10,Houston Astros,0,1,1,98.68,True
+776694,Pittsburgh Pirates,5,Toronto Blue Jays,2,1,1,100.0,True
+776688,Miami Marlins,3,St. Louis Cardinals,8,0,0,1.07,True
+776689,Philadelphia Phillies,12,Seattle Mariners,7,1,1,100.0,True
+776695,Boston Red Sox,3,Baltimore Orioles,6,0,0,0.02,True
+776696,Atlanta Braves,9,Chicago White Sox,13,0,0,0.05,True
+776690,Kansas City Royals,4,Texas Rangers,3,1,1,100.0,True
+776693,Colorado Rockies,4,Los Angeles Dodgers,3,1,1,100.0,True
+776682,Arizona Diamondbacks,1,Cleveland Guardians,3,0,0,0.0,True
+776683,San Diego Padres,3,San Francisco Giants,4,0,0,0.0,True
+776676,Chicago Cubs,4,Milwaukee Brewers,1,1,1,100.0,True
+776685,Detroit Tigers,1,Houston Astros,0,1,1,100.0,True
+776679,Pittsburgh Pirates,3,Toronto Blue Jays,7,0,0,0.5,True
+776686,Miami Marlins,4,St. Louis Cardinals,7,0,0,1.2,True
+776678,Washington Nationals,1,New York Mets,8,0,0,0.0,True
+776680,Philadelphia Phillies,6,Seattle Mariners,4,1,1,100.0,True
+776684,Boston Red Sox,3,Baltimore Orioles,4,0,0,0.01,True
+776687,Atlanta Braves,11,Chicago White Sox,10,1,1,96.54,True
+776677,Tampa Bay Rays,3,New York Yankees,13,0,0,0.0,True
+776675,Kansas City Royals,5,Texas Rangers,2,1,1,100.0,True
+776671,Colorado Rockies,4,Los Angeles Dodgers,11,0,0,0.0,True
+776668,Los Angeles Angels,4,Cincinnati Reds,6,0,0,0.0,True
+776667,San Diego Padres,5,San Francisco Giants,1,1,1,87.71,True
+776661,Pittsburgh Pirates,2,Toronto Blue Jays,1,1,1,100.0,True
+776662,Philadelphia Phillies,11,Seattle Mariners,2,1,1,100.0,True
+776673,Detroit Tigers,7,Houston Astros,2,1,1,100.0,True
+776658,Arizona Diamondbacks,3,Cleveland Guardians,2,1,1,98.19,True
+776670,Miami Marlins,6,St. Louis Cardinals,2,1,1,99.68,True
+776659,Washington Nationals,5,New York Mets,4,1,1,99.99,True
+776669,Atlanta Braves,1,Chicago White Sox,0,1,1,100.0,True
+776664,Tampa Bay Rays,4,New York Yankees,6,0,0,0.0,True
+776666,Kansas City Royals,3,Texas Rangers,6,0,0,0.17,True
+776663,Chicago Cubs,4,Milwaukee Brewers,3,1,1,100.0,True
+776660,Colorado Rockies,8,Los Angeles Dodgers,3,1,0,6.52,False
+776652,Los Angeles Angels,2,Cincinnati Reds,1,1,1,100.0,True
+776656,San Diego Padres,8,San Francisco Giants,1,1,1,99.98,True
+776657,Kansas City Royals,6,Texas Rangers,4,1,1,61.58,True
+776651,Chicago Cubs,1,Milwaukee Brewers,4,0,0,0.0,True
+776644,Colorado Rockies,5,Los Angeles Dodgers,9,0,0,0.1,True
+776650,Washington Nationals,9,New York Mets,3,1,1,100.0,True
+776642,San Diego Padres,8,San Francisco Giants,4,1,1,100.0,True
+776655,Baltimore Orioles,2,Houston Astros,7,0,0,0.02,True
+776654,New York Yankees,3,Boston Red Sox,6,0,0,0.02,True
+776631,Tampa Bay Rays,4,St. Louis Cardinals,7,0,0,0.0,True
+776637,Pittsburgh Pirates,9,Colorado Rockies,0,1,1,100.0,True
+776648,Philadelphia Phillies,4,Washington Nationals,5,0,0,0.08,True
+776643,Baltimore Orioles,7,Houston Astros,10,0,0,0.01,True
+776647,New York Yankees,0,Boston Red Sox,1,0,0,0.02,True
+776649,Detroit Tigers,7,Kansas City Royals,5,1,1,100.0,True
+776646,Miami Marlins,2,Toronto Blue Jays,5,0,0,1.1,True
+776645,Atlanta Braves,7,New York Mets,12,0,0,0.01,True
+776633,Tampa Bay Rays,10,St. Louis Cardinals,6,1,1,100.0,True
+776639,Chicago White Sox,7,Minnesota Twins,9,0,0,0.01,True
+776641,Texas Rangers,4,Cleveland Guardians,3,1,1,100.0,True
+776634,Milwaukee Brewers,5,San Francisco Giants,4,1,1,100.0,True
+776640,Los Angeles Angels,2,Chicago Cubs,3,0,0,1.46,True
+776635,Arizona Diamondbacks,6,Cincinnati Reds,5,1,1,100.0,True
+776636,San Diego Padres,2,Los Angeles Dodgers,1,1,1,100.0,True
+776627,New York Yankees,1,Boston Red Sox,12,0,0,0.0,True
+776630,Miami Marlins,6,Toronto Blue Jays,7,0,0,0.03,True
+776628,Philadelphia Phillies,6,Washington Nationals,4,1,1,99.86,True
+776625,Detroit Tigers,4,Kansas City Royals,2,1,1,100.0,True
+776632,Pittsburgh Pirates,5,Colorado Rockies,1,1,1,100.0,True
+776629,Baltimore Orioles,8,Houston Astros,9,0,0,0.01,True
+776623,Texas Rangers,10,Cleveland Guardians,0,1,1,100.0,True
+776619,Chicago White Sox,7,Minnesota Twins,3,1,1,99.64,True
+776621,Milwaukee Brewers,1,San Francisco Giants,7,0,0,0.13,True
+776626,Atlanta Braves,2,New York Mets,9,0,0,0.0,True
+776622,Arizona Diamondbacks,10,Cincinnati Reds,1,1,1,100.0,True
+776617,San Diego Padres,5,Los Angeles Dodgers,1,1,1,100.0,True
+776610,Pittsburgh Pirates,4,Colorado Rockies,0,1,1,100.0,True
+776606,Tampa Bay Rays,7,St. Louis Cardinals,2,1,1,100.0,True
+776612,Baltimore Orioles,3,Houston Astros,2,1,1,100.0,True
+776613,Philadelphia Phillies,3,Washington Nationals,2,1,1,100.0,True
+776624,Atlanta Braves,4,New York Mets,3,1,1,99.9,True
+776615,Detroit Tigers,8,Kansas City Royals,10,0,0,0.27,True
+776614,Miami Marlins,5,Toronto Blue Jays,3,1,1,99.98,True
+776607,Chicago White Sox,8,Minnesota Twins,0,1,1,100.0,True
+776608,Milwaukee Brewers,3,San Francisco Giants,4,0,0,0.01,True
+776611,Texas Rangers,5,Cleveland Guardians,0,1,1,100.0,True
+776605,Los Angeles Angels,3,Chicago Cubs,4,0,0,0.0,True
+776609,Arizona Diamondbacks,1,Cincinnati Reds,6,0,0,0.07,True
+776603,San Diego Padres,2,Los Angeles Dodgers,8,0,0,0.27,True
+776616,New York Yankees,7,Boston Red Sox,2,1,1,98.53,True
+776604,Baltimore Orioles,3,Boston Red Sox,4,0,0,0.28,True
+776601,Cleveland Guardians,0,Tampa Bay Rays,9,0,0,0.0,True
+776600,Miami Marlins,2,Atlanta Braves,1,1,1,100.0,True
+776597,New York Yankees,10,Washington Nationals,5,1,1,100.0,True
+776596,Toronto Blue Jays,10,Minnesota Twins,4,1,1,87.65,True
+776598,New York Mets,13,Philadelphia Phillies,3,1,1,100.0,True
+776599,Chicago White Sox,7,Kansas City Royals,0,1,1,100.0,True
+776589,St. Louis Cardinals,7,Pittsburgh Pirates,6,1,1,99.97,True
+776592,Texas Rangers,0,Los Angeles Angels,4,0,0,0.04,True
+776595,Seattle Mariners,9,San Diego Padres,6,1,1,100.0,True
+776594,Los Angeles Dodgers,7,Cincinnati Reds,0,1,1,100.0,True
+776591,Baltimore Orioles,0,Boston Red Sox,5,0,0,0.05,True
+776584,Cleveland Guardians,3,Tampa Bay Rays,0,1,1,100.0,True
+776581,Miami Marlins,2,Atlanta Braves,11,0,0,0.5,True
+776588,New York Yankees,5,Washington Nationals,1,1,1,100.0,True
+776582,Toronto Blue Jays,5,Minnesota Twins,7,0,0,0.36,True
+776585,New York Mets,6,Philadelphia Phillies,5,1,1,100.0,True
+776583,Chicago White Sox,4,Kansas City Royals,5,0,0,0.33,True
+776586,Milwaukee Brewers,9,Arizona Diamondbacks,8,1,1,100.0,True
+776578,St. Louis Cardinals,3,Pittsburgh Pirates,8,0,0,0.19,True
+776575,Texas Rangers,7,Los Angeles Angels,3,1,1,99.57,True
+776587,Houston Astros,1,Colorado Rockies,6,0,0,1.11,True
+776577,Seattle Mariners,6,San Diego Padres,7,0,0,0.08,True
+776576,San Francisco Giants,5,Chicago Cubs,2,1,1,100.0,True
+776574,Los Angeles Dodgers,6,Cincinnati Reds,3,1,1,100.0,True
+776570,New York Yankees,11,Washington Nationals,2,1,1,100.0,True
+776580,Cleveland Guardians,4,Tampa Bay Rays,3,1,1,100.0,True
+776565,Miami Marlins,1,Atlanta Braves,12,0,0,0.02,True
+776561,Seattle Mariners,4,San Diego Padres,3,1,1,100.0,True
+776579,Baltimore Orioles,2,Boston Red Sox,3,0,0,0.01,True
+776567,Toronto Blue Jays,9,Minnesota Twins,8,1,1,94.78,True
+776566,New York Mets,6,Philadelphia Phillies,0,1,1,100.0,True
+776569,Chicago White Sox,1,Kansas City Royals,12,0,0,0.11,True
+776572,Milwaukee Brewers,2,Arizona Diamondbacks,3,0,0,0.29,True
+776568,St. Louis Cardinals,1,Pittsburgh Pirates,2,0,0,0.06,True
+776563,Texas Rangers,20,Los Angeles Angels,3,1,1,100.0,True
+776571,Houston Astros,4,Colorado Rockies,0,1,1,99.48,True
+776562,Los Angeles Dodgers,5,Cincinnati Reds,1,1,1,100.0,True
+776557,San Francisco Giants,12,Chicago Cubs,3,1,1,100.0,True
+776564,Baltimore Orioles,2,Boston Red Sox,3,0,0,0.0,True
+776555,Houston Astros,4,Colorado Rockies,3,1,1,100.0,True
+776553,Milwaukee Brewers,4,Arizona Diamondbacks,6,0,0,0.1,True
+776554,St. Louis Cardinals,4,Pittsburgh Pirates,1,1,1,99.99,True
+776550,San Francisco Giants,4,Chicago Cubs,3,1,1,100.0,True
+776560,Philadelphia Phillies,19,Atlanta Braves,4,1,1,54.84,True
+776558,New York Mets,4,Miami Marlins,7,0,0,2.51,True
+776556,Chicago White Sox,4,New York Yankees,10,0,0,0.0,True
+776551,Cincinnati Reds,5,St. Louis Cardinals,7,0,0,0.01,True
+776545,Washington Nationals,1,Tampa Bay Rays,4,0,0,0.0,True
+776552,Philadelphia Phillies,2,Atlanta Braves,1,1,1,100.0,True
+776546,Toronto Blue Jays,2,Milwaukee Brewers,7,0,0,0.0,True
+776549,Boston Red Sox,2,Pittsburgh Pirates,4,0,0,0.0,True
+776547,Cleveland Guardians,5,Seattle Mariners,4,1,1,100.0,True
+776548,New York Mets,19,Miami Marlins,9,1,0,13.6,False
+776544,Chicago White Sox,2,New York Yankees,10,0,0,0.0,True
+776543,Houston Astros,2,Los Angeles Angels,0,1,1,100.0,True
+776540,Kansas City Royals,3,Detroit Tigers,5,0,0,0.44,True
+776541,Minnesota Twins,7,San Diego Padres,4,1,1,99.97,True
+776542,Colorado Rockies,7,Chicago Cubs,11,0,0,0.0,True
+776534,Los Angeles Dodgers,0,Arizona Diamondbacks,3,0,0,0.0,True
+776533,San Francisco Giants,15,Baltimore Orioles,8,1,1,100.0,True
+776527,Toronto Blue Jays,1,Milwaukee Brewers,4,0,0,0.0,True
+776525,Washington Nationals,1,Tampa Bay Rays,4,0,0,0.0,True
+776539,Boston Red Sox,3,Pittsburgh Pirates,10,0,0,0.03,True
+776535,New York Mets,8,Miami Marlins,11,0,0,0.15,True
+776532,Philadelphia Phillies,3,Atlanta Braves,2,1,1,100.0,True
+776536,Cincinnati Reds,2,St. Louis Cardinals,4,0,0,0.0,True
+776531,Houston Astros,1,Los Angeles Angels,4,0,0,0.03,True
+776530,Minnesota Twins,3,San Diego Padres,12,0,0,0.16,True
+776529,Chicago White Sox,3,New York Yankees,5,0,0,0.0,True
+776528,Kansas City Royals,3,Detroit Tigers,1,1,1,99.99,True
+776537,Cleveland Guardians,4,Seattle Mariners,3,1,1,100.0,True
+776516,San Francisco Giants,1,Baltimore Orioles,11,0,0,0.0,True
+776526,Colorado Rockies,3,Chicago Cubs,4,0,0,0.0,True
+776518,Cincinnati Reds,7,St. Louis Cardinals,4,1,1,100.0,True
+776513,Minnesota Twins,7,San Diego Padres,2,1,1,99.84,True
+776517,Boston Red Sox,5,Pittsburgh Pirates,2,1,1,100.0,True
+776520,Washington Nationals,4,Tampa Bay Rays,7,0,0,0.0,True
+776515,Toronto Blue Jays,8,Milwaukee Brewers,4,1,1,77.66,True
+776521,Cleveland Guardians,2,Seattle Mariners,4,0,0,0.04,True
+776519,New York Mets,1,Miami Marlins,5,0,0,0.05,True
+776510,Houston Astros,0,Los Angeles Angels,3,0,0,0.13,True
+776512,Kansas City Royals,0,Detroit Tigers,5,0,0,0.01,True
+776514,Chicago White Sox,3,New York Yankees,2,1,1,100.0,True
+776511,Colorado Rockies,6,Chicago Cubs,5,1,1,99.09,True
+776507,San Francisco Giants,13,Baltimore Orioles,2,1,1,75.32,True
+776509,Los Angeles Dodgers,5,Arizona Diamondbacks,4,1,1,99.94,True
+776522,Philadelphia Phillies,1,Atlanta Braves,3,0,0,1.65,True

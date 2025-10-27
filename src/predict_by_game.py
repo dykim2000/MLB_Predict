@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import os
 import re
+import tensorflow as tf
 
 data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data")
 
@@ -127,18 +128,20 @@ def get_last_7(game_id, year):
             ((team_games["home_name"] == team) & (team_games["home_score"] > team_games["away_score"])) |
             ((team_games["away_name"] == team) & (team_games["away_score"] > team_games["home_score"]))
         ).astype(int)
-        #print(team_games[["game_id", "game_date", "home_name", "away_name", "home_score", "away_score", "team_win"]])
-        win = team_games.iloc[0]["team_win"]
+        shifted_wins = team_games["team_win"].shift(1).dropna().astype(int)
+        if shifted_wins.empty:
+            return None
+        win = shifted_wins.iloc[0]
         streak = -1 if win == 0 else 1
-        for i, row in team_games.iloc[1:].iterrows():
-            if row["team_win"] == win:
+        for result in shifted_wins.iloc[1:]:
+            if result == win:
                 if streak > 0:
                     streak += 1
                 else:
                     streak -= 1
             else:
                 break
-        return team_games["team_win"].head(7).mean(), streak
+        return shifted_wins.head(7).mean(), streak
     
     home_last7, home_streak = calc_last_7(home_team, game_date)
     away_last7, away_streak = calc_last_7(away_team, game_date)
@@ -179,8 +182,8 @@ def fetch_game_info(game_id):
     #Game Info
     row = {
         "game_id" : game_id,
-        "home_team" : home_team,
-        "away_team" : away_team,
+        "home_name" : home_team,
+        "away_name" : away_team,
         "home_probable_pitcher" : home_pitcher,
         "away_probable_pitcher" : away_pitcher,
         "home_score" : linescore.get("home", {}).get("runs"),
@@ -208,10 +211,23 @@ def fetch_game_info(game_id):
         row[f"away_{key}"] = value
         
     #Weather Data
-    row["temp_x"] = weather.get("temp")
-    row["condition_x"] = weather.get("condition")
+    row["temp"] = weather.get("temp")
+    row["condition"] = weather.get("condition")
+    condition_mapping = {
+    "Partly Cloudy": 0,
+    "Clear": 1,
+    "Sunny": 2,
+    "Cloudy": 3,
+    "Roof Closed": 4,
+    "Overcast": 5,
+    "Dome": 6,
+    "Drizzle": 7,
+    "Unknown": 8,
+    "Rain": 9
+    }
+    row["condition"] = condition_mapping.get(row.get("condition"), 8)
     match = re.search(r"(\d+)", weather.get("wind", ""))
-    row["wind_x"] = float(match.group(1)) if match else None
+    row["wind"] = float(match.group(1)) if match else None
     
     #Lineup Score
     row.update(lineup_score(game_id))
@@ -219,10 +235,28 @@ def fetch_game_info(game_id):
     #Last 7 Win%
     row.update(get_last_7(game_id, year))
         
-    #Last Games
+    # Weather condition one-hot encoding
+    for condition_name, condition_code in condition_mapping.items():
+        row[condition_name] = 1 if row["condition"] == condition_code else 0
+    
+    
     return pd.DataFrame([row])
     
 if __name__ == "__main__":
-    #778800
-    p = fetch_game_info(778810)
-    print(p.transpose())
+    
+    model = tf.keras.models.load_model("./saved_models/model_16-8_drop0.5_20251025_200449.h5")
+    
+    p = fetch_game_info(777175)
+    
+    p.loc[:, 'home_win'] = (p['home_score'] > p['away_score']).astype(int)
+    X = p.drop(columns=['game_id', 'home_score', 'away_score', 'home_win',
+        'home_probable_pitcher', 'away_probable_pitcher',
+        'home_name', 'away_name', 'condition'])
+    y = p['home_win']
+    pred = model.predict(X)
+    
+    print(f"Game ID : {p['game_id'].iloc[0]}")
+    print(f"Home Team : {p['home_name'].iloc[0]}  Score : {p['home_score'].iloc[0]}")
+    print(f"Away Team : {p['away_name'].iloc[0]}  Score : {p['away_score'].iloc[0]}")
+    print(f"Actual Value : {y.iloc[0]}")
+    print("Predicted Value : ", pred)

@@ -4,7 +4,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Dropout
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-from preprocessing import load_data, preprocess
+from preprocessing import load_data_2024, preprocess_2024
 from datetime import datetime
 import os
 
@@ -99,7 +99,7 @@ def visualize(history, hyperparams=None, save_dir="figures", save_model_flag=Fal
 
     plt.figtext(0.82, 0.25, metrics_str, fontsize=10, ha='left', bbox=dict(facecolor='white', alpha=0.6))
     
-    filename = f"model_{layer_str}_drop{dropout}_{timestamp}.png"
+    filename = f"model_{layer_str}_drop{dropout}_epochs{epochs}_{timestamp}.png"
     save_path = os.path.join(save_dir, filename)
     
     plt.tight_layout(rect=[0, 0, 0.8, 1])
@@ -116,24 +116,28 @@ def visualize(history, hyperparams=None, save_dir="figures", save_model_flag=Fal
         layer_str = "-".join(map(str, hyperparams.get("Layers", [])))
         dropout = hyperparams.get("Dropout Rate", 0.0)
         
-        model_path = os.path.join("saved_models", f"model_{layer_str}_drop{dropout}_{timestamp}.h5")
+        model_path = os.path.join("saved_models", f"model_{layer_str}_drop{dropout}_epochs{epochs}_{timestamp}.h5")
         model.save(model_path)
         print(f"Model Saved at {model_path}")
     
 
 if __name__ == "__main__" :
-    df = load_data()
-    X, y = preprocess(df)
+    df = load_data_2024()
+    X, y = preprocess_2024(df)
     
-    # Split dataset: 70% train, 10% validation, 20% test
-    X_trainval, X_test, y_trainval, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
-    X_train, X_val, y_train, y_val = train_test_split(X_trainval, y_trainval, test_size=0.125, shuffle=False)
+    X_trainval, X_test, y_trainval, y_test = train_test_split(X, y, test_size=0.1)
+    X_train, X_val, y_train, y_val = train_test_split(X_trainval, y_trainval, test_size=0.1)
     
     # Layer configurations with their optimal epochs
     model_configs = [
-        {"layers": [32,16,8], "epochs": 20},
-        {"layers": [16,8,4], "epochs": 20},
-        {"layers": [16,8], "epochs": 40}
+        {"layers": [16,8], "epochs": 50},
+        {"layers": [16,8], "epochs": 100},
+        {"layers": [16,8,4], "epochs" : 50},
+        {"layers": [16,8,4], "epochs" : 100},
+        {"layers": [32,16], "epochs" : 50},
+        {"layers": [32,16], "epochs" : 50},
+        {"layers": [32,16,8], "epochs" : 50},
+        {"layers": [32,16,8], "epochs" : 100},
     ]
     
     for config in model_configs:

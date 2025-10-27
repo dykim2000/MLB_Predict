@@ -14,9 +14,10 @@ def load_data_2024(path=None):
     df = pd.read_csv(path)
     return df
 
-def preprocess_2024(df):
+def preprocess_2024():
     
     # Dropping NA Values
+    df = load_data_2024()
     df = df.dropna()
     
     # Target Variable (Home win = 1 / Home lose = 0)
@@ -36,7 +37,7 @@ def preprocess_2024(df):
         'game_id', 'home_score', 'away_score', 'home_win',
         'home_probable_pitcher', 'away_probable_pitcher',
         'home_name', 'away_name', 'condition'
-    ], errors='ignore')
+    ])
     y = df['home_win']
     
     # Scaling with the StandardScaler
@@ -56,9 +57,10 @@ def load_data_2025(path=None):
     df = pd.read_csv(path)
     return df
 
-def preprocess_2025(df):
+def preprocess_2025():
     
     # Dropping NA Values
+    df = load_data_2025()
     df = df.dropna()
     
     # Create target variable if it doesn't exist
@@ -69,6 +71,7 @@ def preprocess_2025(df):
         'home_probable_pitcher', 'away_probable_pitcher',
         'home_name', 'away_name', 'condition'
     ])
+    
     y = df['home_win']
     
     # Scaling with the StandardScaler

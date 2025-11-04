@@ -26,4 +26,3 @@
 * **grid_search_epochs** : Finding the proper epochs for each models
 
 ## Evaluation Reports
-* **MLB_Model_Report(Oct18)** : Report for the top 5 models found using girdsearch.

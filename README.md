@@ -25,5 +25,7 @@
 * **evaluate_2025.py** : Evaluating models in (../saved_models) with 2025 data
 * **grid_search_epochs** : Finding the proper epochs for each models
 
-## Evaluation Reports
-* **MLB_Model_Report(Oct18)** : Report for the top 5 models found using girdsearch.
+## Evaluation and Results
+* **results/eval_summary.csv** : Evaluation of the 2024 season game predictions
+* **results/eval_summary_2025.csv** : Evaluation of the 2025 season game predictions
+* **figures/model_~** : 6 models evaluated using different layers, nodes and epochs

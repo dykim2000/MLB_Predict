@@ -122,22 +122,15 @@ def visualize(history, hyperparams=None, save_dir="figures", save_model_flag=Fal
     
 
 if __name__ == "__main__" :
-    df = load_data_2024()
-    X, y = preprocess_2024(df)
+    X, y = preprocess_2024()
     
     X_trainval, X_test, y_trainval, y_test = train_test_split(X, y, test_size=0.1)
     X_train, X_val, y_train, y_val = train_test_split(X_trainval, y_trainval, test_size=0.1)
     
     # Layer configurations with their optimal epochs
     model_configs = [
-        {"layers": [16,8], "epochs": 50},
-        {"layers": [16,8], "epochs": 100},
-        {"layers": [16,8,4], "epochs" : 50},
-        {"layers": [16,8,4], "epochs" : 100},
-        {"layers": [32,16], "epochs" : 50},
-        {"layers": [32,16], "epochs" : 50},
-        {"layers": [32,16,8], "epochs" : 50},
-        {"layers": [32,16,8], "epochs" : 100},
+        {"layers": [16,8], "epochs" : 200},
+        {"layers": [16,8,4], "epochs" : 200}
     ]
     
     for config in model_configs:
